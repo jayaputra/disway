@@ -321,13 +321,13 @@
             <section class="box-middle thumb-ito bottom-15">
                 <div class="label-to bottom-10 content-wrap align-center justify-content-between">
                     <h2>Podcast</h2>
-                    <p><a href="#">Lihat Semua <i class="fa fa-chevron-right"></i></a></p>
+                    <p><a href="video.php">Lihat Semua <i class="fa fa-chevron-right"></i></a></p>
                 </div>
                 <div class="slide-vid-pic owl-carousel owl-theme">
                     <div class="item">
                         <div class="thumbnail">
                             <div class="box-video">
-                                <a href="detail-video.php">
+                                <a href="detail-artikel.php">
                                     <div class="box-video-icon">
                                         <i class="fa fa-play"></i>
                                     </div>
@@ -335,7 +335,7 @@
                                 </a>
                             </div>
                             <div class="caption">
-                                <h4><a href="detail-video.php">Merawat PAN Agar Tetap di Jalan Tengah ala Bang Zulhas -
+                                <h4><a href="detail-artikel.php">Merawat PAN Agar Tetap di Jalan Tengah ala Bang Zulhas -
                                         Energi Disway Podcast #60</a></h4>
 
                             </div>
@@ -344,7 +344,7 @@
                     <div class="item">
                         <div class="thumbnail">
                             <div class="box-video">
-                                <a href="detail-video.php">
+                                <a href="detail-artikel.php">
                                     <div class="box-video-icon">
                                         <i class="fa fa-play"></i>
                                     </div>
@@ -352,7 +352,7 @@
                                 </a>
                             </div>
                             <div class="caption">
-                                <h4><a href="detail-video.php">Kiat Sukses OneMed Group Menjadi Pemimpin Pasar Alkes
+                                <h4><a href="detail-artikel.php">Kiat Sukses OneMed Group Menjadi Pemimpin Pasar Alkes
                                         Dalam Negeri - Energi Disway Podcast #58</a></h4>
 
                             </div>
@@ -361,7 +361,7 @@
                     <div class="item">
                         <div class="thumbnail">
                             <div class="box-video">
-                                <a href="detail-video.php">
+                                <a href="detail-artikel.php">
                                     <div class="box-video-icon">
                                         <i class="fa fa-play"></i>
                                     </div>
@@ -369,7 +369,7 @@
                                 </a>
                             </div>
                             <div class="caption">
-                                <h4><a href="detail-video.php">Awas, Foto Launching Mobil F1 2022 Bisa Mengecoh!
+                                <h4><a href="detail-artikel.php">Awas, Foto Launching Mobil F1 2022 Bisa Mengecoh!
                                         Mainbalap Podcast Show #41 w/ Azrul & Dewo</a></h4>
 
                             </div>
@@ -378,7 +378,7 @@
                     <div class="item">
                         <div class="thumbnail">
                             <div class="box-video">
-                                <a href="detail-video.php">
+                                <a href="detail-artikel.php">
                                     <div class="box-video-icon">
                                         <i class="fa fa-play"></i>
                                     </div>
@@ -386,7 +386,7 @@
                                 </a>
                             </div>
                             <div class="caption">
-                                <h4><a href="detail-video.php">Lebih Baik Dibohongi daripada Ditakut-takuti (Gowes
+                                <h4><a href="detail-artikel.php">Lebih Baik Dibohongi daripada Ditakut-takuti (Gowes
                                         Surabaya-Bali) Podcast Main Sepeda #72 Aza & Ray</a></h4>
 
                             </div>
@@ -525,13 +525,13 @@
             <section class="box-middle thumb-ito bottom-30">
                 <div class="label-to bottom-10 content-wrap align-center justify-content-between">
                     <h2>Video</h2>
-                    <p><a href="#">Lihat Semua <i class="fa fa-chevron-right"></i></a></p>
+                    <p><a href="video.php">Lihat Semua <i class="fa fa-chevron-right"></i></a></p>
                 </div>
                 <div class="slide-vid-pic owl-carousel owl-theme">
                     <div class="item">
                         <div class="thumbnail">
                             <div class="box-video">
-                                <a href="detail-video.php">
+                                <a href="detail-artikel.php">
                                     <div class="box-video-icon">
                                         <i class="fa fa-play"></i>
                                     </div>
@@ -539,7 +539,7 @@
                                 </a>
                             </div>
                             <div class="caption">
-                                <h4><a href="detail-video.php">Merawat PAN Agar Tetap di Jalan Tengah ala Bang Zulhas -
+                                <h4><a href="detail-artikel.php">Merawat PAN Agar Tetap di Jalan Tengah ala Bang Zulhas -
                                         Energi Disway Podcast #60</a></h4>
                             </div>
                         </div>
@@ -547,7 +547,7 @@
                     <div class="item">
                         <div class="thumbnail">
                             <div class="box-video">
-                                <a href="detail-video.php">
+                                <a href="detail-artikel.php">
                                     <div class="box-video-icon">
                                         <i class="fa fa-play"></i>
                                     </div>
@@ -555,7 +555,7 @@
                                 </a>
                             </div>
                             <div class="caption">
-                                <h4><a href="detail-video.php">Perjuangan Luar Biasa Saiful Arifin: Dari Tidur Gudang
+                                <h4><a href="detail-artikel.php">Perjuangan Luar Biasa Saiful Arifin: Dari Tidur Gudang
                                         Kini Punya Hotel dan Akademi Sepak Bola Keren</a></h4>
                             </div>
                         </div>
@@ -563,7 +563,7 @@
                     <div class="item">
                         <div class="thumbnail">
                             <div class="box-video">
-                                <a href="detail-video.php">
+                                <a href="detail-artikel.php">
                                     <div class="box-video-icon">
                                         <i class="fa fa-play"></i>
                                     </div>
@@ -571,7 +571,7 @@
                                 </a>
                             </div>
                             <div class="caption">
-                                <h4><a href="detail-video.php">Kiat Sukses OneMed Group Menjadi Pemimpin Pasar Alkes
+                                <h4><a href="detail-artikel.php">Kiat Sukses OneMed Group Menjadi Pemimpin Pasar Alkes
                                         Dalam Negeri - Energi Disway Podcast #58</a></h4>
                             </div>
                         </div>
@@ -579,7 +579,7 @@
                     <div class="item">
                         <div class="thumbnail">
                             <div class="box-video">
-                                <a href="detail-video.php">
+                                <a href="detail-artikel.php">
                                     <div class="box-video-icon">
                                         <i class="fa fa-play"></i>
                                     </div>
@@ -587,7 +587,7 @@
                                 </a>
                             </div>
                             <div class="caption">
-                                <h4><a href="detail-video.php">Awas, Foto Launching Mobil F1 2022 Bisa Mengecoh!
+                                <h4><a href="detail-artikel.php">Awas, Foto Launching Mobil F1 2022 Bisa Mengecoh!
                                         Mainbalap Podcast Show #41 w/ Azrul & Dewo</a></h4>
                             </div>
                         </div>
@@ -917,14 +917,6 @@
                 </div>
             </div>
 
-            <!------- Banner Middle1 -------->
-            <div class="clearfix"></div>
-            <div
-                style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
-                <a href=""><img src="img/banner-3.png" style="width:100%" /></a>
-            </div>
-            <!------ End Banner ------>
-
         </div>
 
         <div class="visible-xs hidden-lg hidden-md hidden-sm">
@@ -1133,9 +1125,16 @@
             </div>
             <!------ End Banner ------>
 
-
-
         </div>
+
+        <!------- Banner Middle1 -------->
+        <div class="clearfix"></div>
+        <div
+            style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+            <a href=""><img src="img/banner-3.png" style="width:100%" /></a>
+        </div>
+        <!------ End Banner ------>
+
     </div>
 
     <?php include ('footer.php') ?>

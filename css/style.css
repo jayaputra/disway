@@ -86,6 +86,8 @@ a:hover {
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
     transition: all 0.5s ease;
+    text-decoration: none;
+    color: #222;
 }
 
 .pull-right>.dropdown-menu {
@@ -1514,14 +1516,17 @@ section.box-middle {
     font-weight: 700;
 }
 
-.entry-box .entry-content .post p {
+.entry-box .entry-content .post p,
+.entry-box .entry-content .post li {
     font-size: 18px;
-    line-height: 1.5em;
+    line-height: 1.7em;
     margin-bottom: 15px;
     font-weight: 400;
 }
 
-.entry-box .entry-content .sharing-box {}
+.entry-box .entry-content .post li>a {
+    color:#24416c;
+}
 
 .entry-box .entry-content .sharing-box ul {
     margin: 0;
@@ -1811,11 +1816,6 @@ footer {
 
 footer a {
     color: #24416c;
-}
-
-footer a:hover {
-    color: #222;
-    text-decoration: underline;
 }
 
 footer .network {

@@ -44,7 +44,6 @@
                                 <li><a href="index.php">Home</a></li>
                                 <li><a href="kanal.php">Foto</a></li>
                             </ul>
-                            <div class="clearfix"></div>
 
                             <div class="post text-black-1">
 
@@ -61,56 +60,56 @@
                                 </div>
 
                                 <div class="bottom-15">
-                                <div class="owl-carousel slide-foto owl-theme">
-                    <div class="item">
-                        <div class="frame-featured">
-                            <a href="#">
-                                <img src="img/thumb1.jpg" alt="">
-                                
-                            </a>
-                        </div>
-                        <div class="caption">
-                        <p>Wakil Ketua Diperiksa KPK, Ketua PN Dilantik</p>
-                    </div>
-                    </div>
-                    <div class="item">
-                        <div class="frame-featured">
-                            <a href="#">
-                                <img src="img/thumb2.jpg" alt="">
-                                
-                            </a>
-                            
-                        </div>
-                        <div class="caption">Proklamasi Merdeka Pandemi</div>
-                    </div>
-                    <div class="item">
-                        <div class="frame-featured">
-                            <a href="#">
-                                <img src="img/thumb3.png" alt="">
-                                
-                            </a>
-                        </div>
-                        <div class="caption">Proklamasi Merdeka Pandemi</div>
-                    </div>
-                    <div class="item">
-                        <div class="frame-featured">
-                            <a href="#">
-                                <img src="img/thumb1.jpg" alt="">
-                                
-                            </a>
-                        </div>
-                        <div class="caption">Proklamasi Merdeka Pandemi</div>
-                    </div>
-                    <div class="item">
-                        <div class="frame-featured">
-                            <a href="#">
-                                <img src="img/thumb2.jpg" alt="">
-                                
-                            </a>
-                        </div>
-                    </div>
-                    <div class="caption">Proklamasi Merdeka Pandemi</div>
-                </div>
+                                    <div class="owl-carousel slide-foto owl-theme">
+                                        <div class="item">
+                                            <div class="frame-featured">
+                                                <a href="#">
+                                                    <img src="img/thumb1.jpg" alt="">
+
+                                                </a>
+                                            </div>
+                                            <div class="caption">
+                                                <p>Wakil Ketua Diperiksa KPK, Ketua PN Dilantik</p>
+                                            </div>
+                                        </div>
+                                        <div class="item">
+                                            <div class="frame-featured">
+                                                <a href="#">
+                                                    <img src="img/thumb2.jpg" alt="">
+
+                                                </a>
+
+                                            </div>
+                                            <div class="caption">Proklamasi Merdeka Pandemi</div>
+                                        </div>
+                                        <div class="item">
+                                            <div class="frame-featured">
+                                                <a href="#">
+                                                    <img src="img/thumb3.png" alt="">
+
+                                                </a>
+                                            </div>
+                                            <div class="caption">Proklamasi Merdeka Pandemi</div>
+                                        </div>
+                                        <div class="item">
+                                            <div class="frame-featured">
+                                                <a href="#">
+                                                    <img src="img/thumb1.jpg" alt="">
+
+                                                </a>
+                                            </div>
+                                            <div class="caption">Proklamasi Merdeka Pandemi</div>
+                                        </div>
+                                        <div class="item">
+                                            <div class="frame-featured">
+                                                <a href="#">
+                                                    <img src="img/thumb2.jpg" alt="">
+
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="caption">Proklamasi Merdeka Pandemi</div>
+                                    </div>
                                 </div>
 
                                 <!------- Banner Middle1 -------->
@@ -164,117 +163,123 @@
                                     <h2>Foto Terkait</h2>
                                 </div>
                                 <div class="row no-gutters">
-                                <div class="col-sm-4">
-                                    <div class="thumbnail">
-                                        <div class="box-video">
-                                            <a href="detail-video.php">
-                                                <div class="box-video-icon">
-                                                    <i class="fa fa-camera"></i>
-                                                </div>
-                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
-                                            </a>
-                                        </div>
-                                        <div class="caption">
-                                            <h4><a href="detail-video.php">Merawat PAN Agar Tetap di Jalan Tengah ala
-                                                    Bang Zulhas -
-                                                    Energi Disway Podcast #60</a></h4>
+                                    <div class="col-sm-4">
+                                        <div class="thumbnail">
+                                            <div class="box-video">
+                                                <a href="detail-video.php">
+                                                    <div class="box-video-icon">
+                                                        <i class="fa fa-camera"></i>
+                                                    </div>
+                                                    <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="caption">
+                                                <h4><a href="detail-video.php">Merawat PAN Agar Tetap di Jalan Tengah
+                                                        ala
+                                                        Bang Zulhas -
+                                                        Energi Disway Podcast #60</a></h4>
 
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="thumbnail">
+                                            <div class="box-video">
+                                                <a href="detail-video.php">
+                                                    <div class="box-video-icon">
+                                                        <i class="fa fa-camera"></i>
+                                                    </div>
+                                                    <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="caption">
+                                                <h4><a href="detail-video.php">Merawat PAN Agar Tetap di Jalan Tengah
+                                                        ala
+                                                        Bang Zulhas -
+                                                        Energi Disway Podcast #60</a></h4>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="thumbnail">
+                                            <div class="box-video">
+                                                <a href="detail-video.php">
+                                                    <div class="box-video-icon">
+                                                        <i class="fa fa-camera"></i>
+                                                    </div>
+                                                    <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="caption">
+                                                <h4><a href="detail-video.php">Merawat PAN Agar Tetap di Jalan Tengah
+                                                        ala
+                                                        Bang Zulhas -
+                                                        Energi Disway Podcast #60</a></h4>
+
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-sm-4">
-                                    <div class="thumbnail">
-                                        <div class="box-video">
-                                            <a href="detail-video.php">
-                                                <div class="box-video-icon">
-                                                    <i class="fa fa-camera"></i>
-                                                </div>
-                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
-                                            </a>
-                                        </div>
-                                        <div class="caption">
-                                            <h4><a href="detail-video.php">Merawat PAN Agar Tetap di Jalan Tengah ala
-                                                    Bang Zulhas -
-                                                    Energi Disway Podcast #60</a></h4>
+                                <div class="row no-gutters">
+                                    <div class="col-sm-4">
+                                        <div class="thumbnail">
+                                            <div class="box-video">
+                                                <a href="detail-video.php">
+                                                    <div class="box-video-icon">
+                                                        <i class="fa fa-camera"></i>
+                                                    </div>
+                                                    <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="caption">
+                                                <h4><a href="detail-video.php">Merawat PAN Agar Tetap di Jalan Tengah
+                                                        ala
+                                                        Bang Zulhas -
+                                                        Energi Disway Podcast #60</a></h4>
 
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="thumbnail">
+                                            <div class="box-video">
+                                                <a href="detail-video.php">
+                                                    <div class="box-video-icon">
+                                                        <i class="fa fa-camera"></i>
+                                                    </div>
+                                                    <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="caption">
+                                                <h4><a href="detail-video.php">Merawat PAN Agar Tetap di Jalan Tengah
+                                                        ala
+                                                        Bang Zulhas -
+                                                        Energi Disway Podcast #60</a></h4>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="thumbnail">
+                                            <div class="box-video">
+                                                <a href="detail-video.php">
+                                                    <div class="box-video-icon">
+                                                        <i class="fa fa-camera"></i>
+                                                    </div>
+                                                    <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="caption">
+                                                <h4><a href="detail-video.php">Merawat PAN Agar Tetap di Jalan Tengah
+                                                        ala
+                                                        Bang Zulhas -
+                                                        Energi Disway Podcast #60</a></h4>
+
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-sm-4">
-                                    <div class="thumbnail">
-                                        <div class="box-video">
-                                            <a href="detail-video.php">
-                                                <div class="box-video-icon">
-                                                    <i class="fa fa-camera"></i>
-                                                </div>
-                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
-                                            </a>
-                                        </div>
-                                        <div class="caption">
-                                            <h4><a href="detail-video.php">Merawat PAN Agar Tetap di Jalan Tengah ala
-                                                    Bang Zulhas -
-                                                    Energi Disway Podcast #60</a></h4>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row no-gutters">
-                                <div class="col-sm-4">
-                                    <div class="thumbnail">
-                                        <div class="box-video">
-                                            <a href="detail-video.php">
-                                                <div class="box-video-icon">
-                                                    <i class="fa fa-camera"></i>
-                                                </div>
-                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
-                                            </a>
-                                        </div>
-                                        <div class="caption">
-                                            <h4><a href="detail-video.php">Merawat PAN Agar Tetap di Jalan Tengah ala
-                                                    Bang Zulhas -
-                                                    Energi Disway Podcast #60</a></h4>
-
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-4">
-                                    <div class="thumbnail">
-                                        <div class="box-video">
-                                            <a href="detail-video.php">
-                                                <div class="box-video-icon">
-                                                    <i class="fa fa-camera"></i>
-                                                </div>
-                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
-                                            </a>
-                                        </div>
-                                        <div class="caption">
-                                            <h4><a href="detail-video.php">Merawat PAN Agar Tetap di Jalan Tengah ala
-                                                    Bang Zulhas -
-                                                    Energi Disway Podcast #60</a></h4>
-
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-4">
-                                    <div class="thumbnail">
-                                        <div class="box-video">
-                                            <a href="detail-video.php">
-                                                <div class="box-video-icon">
-                                                    <i class="fa fa-camera"></i>
-                                                </div>
-                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
-                                            </a>
-                                        </div>
-                                        <div class="caption">
-                                            <h4><a href="detail-video.php">Merawat PAN Agar Tetap di Jalan Tengah ala
-                                                    Bang Zulhas -
-                                                    Energi Disway Podcast #60</a></h4>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
 
                                 <div class="text-center">
                                     <ul class="pagination">
@@ -289,15 +294,15 @@
                 </div>
             </div>
 
-            <!------- Banner Middle1 -------->
-            <div class="clearfix"></div>
-            <div
-                style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
-                <a href=""><img src="img/banner-3.png" style="width:100%" /></a>
-            </div>
-            <!------ End Banner ------>
-
         </div>
+
+        <!------- Banner Middle1 -------->
+        <div class="clearfix"></div>
+        <div
+            style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+            <a href=""><img src="img/banner-3.png" style="width:100%" /></a>
+        </div>
+        <!------ End Banner ------>
 
     </div>
     <?php include ('footer.php') ?>

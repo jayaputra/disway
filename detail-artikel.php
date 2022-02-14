@@ -44,7 +44,6 @@
                                 <li><a href="index.php">Home</a></li>
                                 <li><a href="kanal.php">Nasional</a></li>
                             </ul>
-                            <div class="clearfix"></div>
 
                             <div class="post text-black-1">
 
@@ -109,6 +108,11 @@
                                 <ul class="pagination">
                                     <li class="active"><a href="#">1</a></li>
                                     <li><a href="#">2</a></li>
+                                    <li>
+                                        <a href="#" aria-label="Next">
+                                            <span aria-hidden="true">&raquo;</span>
+                                        </a>
+                                    </li>
                                 </ul>
                             </div>
                             <div class="clearfix"></div>
@@ -259,6 +263,11 @@
                                     <ul class="pagination">
                                         <li class="active"><a href="#">1</a></li>
                                         <li><a href="#">2</a></li>
+                                        <li>
+                                            <a href="#" aria-label="Next">
+                                                <span aria-hidden="true">&raquo;</span>
+                                            </a>
+                                        </li>
                                     </ul>
                                 </div>
 
@@ -268,15 +277,15 @@
                 </div>
             </div>
 
-            <!------- Banner Middle1 -------->
-            <div class="clearfix"></div>
-            <div
-                style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
-                <a href=""><img src="img/banner-3.png" style="width:100%" /></a>
-            </div>
-            <!------ End Banner ------>
-
         </div>
+
+        <!------- Banner Middle1 -------->
+        <div class="clearfix"></div>
+        <div
+            style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+            <a href=""><img src="img/banner-3.png" style="width:100%" /></a>
+        </div>
+        <!------ End Banner ------>
 
     </div>
     <?php include ('footer.php') ?>

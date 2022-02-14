@@ -89,7 +89,7 @@
                 <div class="col-md-4 col-sm-12 hidden-xs">
                     <div class="row">
                         <div class="col-md-4 col-xs-4">
-                            <a href="#" class="btn btn-red btn-lg btn-block" role="button">Network</a>
+                            <a href="network.php" class="btn btn-red btn-lg btn-block" role="button">Network</a>
                         </div>
                         <div class="col-md-8 col-xs-8">
                             <div class="align-end content-wrap">

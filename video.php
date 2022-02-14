@@ -46,7 +46,7 @@
                     </div>
                     <!------ End Banner ------>
 
-                    <div class="thumb-ito vid-pic bottom-15">
+                    <div class="box-middle thumb-ito vid-pic bottom-15">
                         <section>
                             <div class="label-to bottom-15">
                                 <h2>Video Terkini</h2>
@@ -406,7 +406,7 @@
                                     </div>
                                 </div>
                             </div>
-                            
+
                             <!------- Banner Middle1 -------->
                             <div class="clearfix"></div>
                             <div
@@ -843,17 +843,15 @@
                 </div>
             </div>
 
-            <!------- Banner Middle1 -------->
-            <div class="clearfix"></div>
-            <div
-                style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
-                <a href=""><img src="img/banner-3.png" style="width:100%" /></a>
-            </div>
-            <!------ End Banner ------>
-
         </div>
-    </div>
 
+        <!------- Banner Middle1 -------->
+        <div class="clearfix"></div>
+        <div
+            style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+            <a href=""><img src="img/banner-3.png" style="width:100%" /></a>
+        </div>
+        <!------ End Banner ------>
     </div>
 
     <?php include ('footer.php') ?>

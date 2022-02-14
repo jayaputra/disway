@@ -66,19 +66,19 @@
                             <div class="col-md-3 col-sm-4 col-xs-6">
                                 <ul>
                                     <li>
-                                        <a href="" title="Network">Network 1</a>
+                                        <a href="" title="Network" target="_blank">Network 1</a>
                                     </li>
                                     <li>
-                                        <a href="" title="Network">Network 2</a>
+                                        <a href="" title="Network" target="_blank">Network 2</a>
                                     </li>
                                     <li>
-                                        <a href="" title="Network">Network 3</a>
+                                        <a href="" title="Network" target="_blank">Network 3</a>
                                     </li>
                                     <li>
-                                        <a href="" title="Network">Network 4</a>
+                                        <a href="" title="Network" target="_blank">Network 4</a>
                                     </li>
                                     <li>
-                                        <a href="" title="Network">Network 5</a>
+                                        <a href="" title="Network" target="_blank">Network 5</a>
                                     </li>
                                 </ul>
                             </div>
@@ -143,7 +143,7 @@
                             </div>
                         </div>
                         <div class="text-center">
-                            <a class="btn btn-default" href="#" role="button">Lihat Semua <i
+                            <a href="network.php" class="btn btn-default btn-block btn-sm" role="button">Lihat Semua <i
                                 class="fa fa-chevron-right"></i></a>
                         </div>
                         
@@ -155,9 +155,9 @@
                 <div class="col-md-6">
                     <div class="bottom-15">
                         <ul class="list-inline">
-                            <li><a href="#">Tentang Kami</a></li>
-                            <li><a href="#">Redaksi</a></li>
-                            <li><a href="#">Pedoman Pemberitaan</a></li>
+                            <li><a href="other-page.php">Tentang Kami</a></li>
+                            <li><a href="other-page.php">Redaksi</a></li>
+                            <li><a href="other-page.php">Pedoman Pemberitaan</a></li>
                         </ul>
                     </div>
                 </div>
