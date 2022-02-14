@@ -4,30 +4,13 @@
 <head>
 
     <?php include ('head.php') ?>
-    <script>
-        (function (i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r;
-            i[r] = i[r] || function () {
-                (i[r].q = i[r].q || []).push(arguments)
-            }, i[r].l = 1 * new Date();
-            a = s.createElement(o),
-                m = s.getElementsByTagName(o)[0];
-            a.async = 1;
-            a.src = g;
-            m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-
-        ga('create', '', 'auto');
-        ga('require', 'displayfeatures');
-        ga('send', 'pageview');
-    </script>
 
 </head>
 
 <body>
 
     <?php include ('nav.php') ?>
-    
+
     <div class="container cont">
 
         <div class="nkt__stick js-nkt-stick">
@@ -40,267 +23,283 @@
         </div>
 
         <div class="clearfix"></div>
-        <div class="bottom-15 mid-banner">
-            <a href=""><img src="img/banner-middle.jpg" /></a>
+        <div
+            style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+            <a href=""><img src="img/banner-3.png" style="width:100%;" /></a>
         </div>
 
-        <div class="entry-box">
+        <div class="row">
 
-            <ul class="breadcrumb">
-                <li class="completed"><a href="index.php">Home</a></li>
-                <li><a href="foto.php">Foto</a></li>
-            </ul>
+            <div class="hidden-xs">
+                <?php include ('sidebar-detail-kanal.php') ?>
+            </div>
 
-            <div class="entry-content">
+            <div class="col-sm-8">
+                <div class="bottom-15">
+                    <section class="entry-box">
 
-                <div class="post">
+                        <div class="entry-content bottom-30">
 
-                    <h1 class="text-black">Ut arcu odio, sollicitudin a lobortis vitae, scelerisque id ante.</h1>
+                            <ul class="breadcrumb">
+                                <li><a href="index.php">Home</a></li>
+                                <li><a href="kanal.php">Foto</a></li>
+                            </ul>
+                            <div class="clearfix"></div>
 
-                    <div class="post-info">
-                        <p class="text-grey">Oleh: <strong>Suratman</strong><span>|</span> <span class="date">Kamis, 01
-                                April 2021 - 14:00 WIB</span>
-                        </p>
-                    </div>
+                            <div class="post text-black-1">
 
-                    <section class="detail-gallery-single">
+                                <h1 class="text-black">Struktur Pasar Minyak Goreng Masih Oligopoli</h1>
 
-                        <div class="detail-gallery">
-                            <div class="gallery-single active-gallery">
-
-                                <div class="gallery-navigation">
-                                    <span class="indicator slide-indicator">
-                                        <strong></strong> / foto
-                                    </span>
+                                <div class="post-info bottom-15">
+                                    <div class="text-grey">
+                                        <div class="author pull-left" id="author">Reporter:
+                                            <strong>Aswan</strong><span>|</span></div>
+                                        <div class="editor pull-left" id="editor">Editor:
+                                            <strong>Aswan</strong><span>|</span></div>
+                                        <span class="date">Sabtu, 12 Feb 2022 - 14:06 WIB</span>
+                                    </div>
                                 </div>
 
-                                <div class="gallery-swiper swiper-container">
-                                    <div class="swiper-wrapper">
-                                        <div class="swiper-slide gallery-slide" slide-index="0">
-                                            <figure class="article-thumbnail">
-                                                <img data-src="img/foto1.jpg" class="swiper-lazy"
-                                                    alt="Bom bunuh diri guncang Istanbul "
-                                                    title="Bom bunuh diri guncang Istanbul ">
-                                                <div class="swiper-lazy-preloader"></div>
-                                            </figure>
-                                            <div class="clearfix"></div>
-                                            <figcaption class="image-source">&copy; Emrah Gurel /AP Photo </figcaption>
-                                            <div class="clearfix"></div>
-                                            <div class="article-excerpt gallery-excerpt">
-                                                <p>
-                                                    SERANGAN | Rangkaian ledakan dari bom bunuh diri dan letupan senjata
-                                                    Kalasnikov terdengar keras di Bandara Ataturk, Istanbul, Turki, dan
-                                                    ini adalah serangan kesekian kalinya ke negeri itu.
-                                                </p>
-                                                <div class="sharing-box center-block">
-                                                    <ul class="clearfix">
-                                                        <li class="facebook-icon">
-                                                            <a href="#" class="clearfix">
-                                                                <i class="fa fa-facebook pull-left"></i>
-                                                                <span class="pull-left">Facebook</span>
-                                                            </a>
-                                                        </li>
-                                                        <li class="twitter-icon">
-                                                            <a href="#" class="clearfix">
-                                                                <i class="fa fa-twitter pull-left"></i>
-                                                                <span class="pull-left">Twitter</span>
-                                                            </a>
-                                                        </li>
-                                                        <li class="gplus-icon">
-                                                            <a href="#" class="clearfix">
-                                                                <i class="fa fa-google-plus pull-left"></i>
-                                                                <span class="pull-left">Google +</span>
-                                                            </a>
-                                                        </li>
-                                                    </ul>
+                                <div class="bottom-15">
+                                <div class="owl-carousel slide-foto owl-theme">
+                    <div class="item">
+                        <div class="frame-featured">
+                            <a href="#">
+                                <img src="img/thumb1.jpg" alt="">
+                                
+                            </a>
+                        </div>
+                        <div class="caption">
+                        <p>Wakil Ketua Diperiksa KPK, Ketua PN Dilantik</p>
+                    </div>
+                    </div>
+                    <div class="item">
+                        <div class="frame-featured">
+                            <a href="#">
+                                <img src="img/thumb2.jpg" alt="">
+                                
+                            </a>
+                            
+                        </div>
+                        <div class="caption">Proklamasi Merdeka Pandemi</div>
+                    </div>
+                    <div class="item">
+                        <div class="frame-featured">
+                            <a href="#">
+                                <img src="img/thumb3.png" alt="">
+                                
+                            </a>
+                        </div>
+                        <div class="caption">Proklamasi Merdeka Pandemi</div>
+                    </div>
+                    <div class="item">
+                        <div class="frame-featured">
+                            <a href="#">
+                                <img src="img/thumb1.jpg" alt="">
+                                
+                            </a>
+                        </div>
+                        <div class="caption">Proklamasi Merdeka Pandemi</div>
+                    </div>
+                    <div class="item">
+                        <div class="frame-featured">
+                            <a href="#">
+                                <img src="img/thumb2.jpg" alt="">
+                                
+                            </a>
+                        </div>
+                    </div>
+                    <div class="caption">Proklamasi Merdeka Pandemi</div>
+                </div>
+                                </div>
+
+                                <!------- Banner Middle1 -------->
+                                <div class="clearfix"></div>
+                                <div
+                                    style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                                    <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
+                                </div>
+                                <!------ End Banner ------>
+
+                            </div>
+
+                            <div class="news-tags">
+                                <span class="text-grey"><strong>Tag: </strong></span>
+                                <a href="tags.php" class="bottom-10">#Jokowi</a>
+                                <a href="tags.php" class="bottom-10">#Istana</a>
+                                <a href="tags.php" class="bottom-10">#Indonesia</a>
+                                <a href="tags.php" class="bottom-10">#serangan</a>
+                            </div>
+
+                            <div class="sharing-box bottom-15 clearfix">
+
+                                <ul class="center-block">
+                                    <li><span class="text-grey"><strong>Share: </strong></span></li>
+                                    <li class="facebook-icon">
+                                        <a href="#" class="clearfix">
+                                            <i class="fa fa-facebook pull-left"></i>
+                                            <span class="pull-left">Facebook</span>
+                                        </a>
+                                    </li>
+                                    <li class="twitter-icon">
+                                        <a href="#" class="clearfix">
+                                            <i class="fa fa-twitter pull-left"></i>
+                                            <span class="pull-left">Twitter</span>
+                                        </a>
+                                    </li>
+                                    <li class="gplus-icon">
+                                        <a href="#" class="clearfix">
+                                            <i class="fa fa-google-plus pull-left"></i>
+                                            <span class="pull-left">Google +</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+
+                        </div>
+
+                        <div class="thumb-ito vid-pic bottom-15">
+                            <section>
+                                <div class="label-to bottom-10">
+                                    <h2>Foto Terkait</h2>
+                                </div>
+                                <div class="row no-gutters">
+                                <div class="col-sm-4">
+                                    <div class="thumbnail">
+                                        <div class="box-video">
+                                            <a href="detail-video.php">
+                                                <div class="box-video-icon">
+                                                    <i class="fa fa-camera"></i>
                                                 </div>
-                                            </div>
+                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                            </a>
+                                        </div>
+                                        <div class="caption">
+                                            <h4><a href="detail-video.php">Merawat PAN Agar Tetap di Jalan Tengah ala
+                                                    Bang Zulhas -
+                                                    Energi Disway Podcast #60</a></h4>
 
                                         </div>
-                                        <div class="swiper-slide gallery-slide" slide-index="1">
-                                            <figure class="article-thumbnail">
-                                                <img data-src="img/foto2.jpg" class="swiper-lazy"
-                                                    alt="Bom bunuh diri guncang Istanbul "
-                                                    title="Bom bunuh diri guncang Istanbul ">
-                                                <div class="swiper-lazy-preloader"></div>
-                                            </figure>
-                                            <div class="clearfix"></div>
-                                            <figcaption class="image-source">&copy; Deniz Toprak /EPA </figcaption>
-                                            <div class="clearfix"></div>
-                                            <div class="article-excerpt gallery-excerpt">
-                                                <p>
-                                                    PERLAWANAN | Sebanyak 36 orang tewas dan hampir 150 orang terluka
-                                                    dalam peristiwa yang mengejutkan itu. Menggunakan AK-47, sejumlah
-                                                    pelaku yang diduga simpatisan ISIS sempat mendapatkan perlawanan
-                                                    kala mereka melakukan serangan di terminal keberangkatan Bandara
-                                                    Ataturk yang sibuk.
-                                                </p>
-                                                <div class="sharing-box">
-                                                    <ul class="clearfix">
-                                                        <li class="facebook-icon">
-                                                            <a href="#" class="clearfix">
-                                                                <i class="fa fa-facebook pull-left"></i>
-                                                                <span class="pull-left">Facebook</span>
-                                                            </a>
-                                                        </li>
-                                                        <li class="twitter-icon">
-                                                            <a href="#" class="clearfix">
-                                                                <i class="fa fa-twitter pull-left"></i>
-                                                                <span class="pull-left">Twitter</span>
-                                                            </a>
-                                                        </li>
-                                                        <li class="gplus-icon">
-                                                            <a href="#" class="clearfix">
-                                                                <i class="fa fa-google-plus pull-left"></i>
-                                                                <span class="pull-left">Google +</span>
-                                                            </a>
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                        <div class="swiper-slide gallery-slide" slide-index="2">
-                                            <figure class="article-thumbnail">
-                                                <img data-src="img/foto3.jpg" class="swiper-lazy"
-                                                    alt="Bom bunuh diri guncang Istanbul "
-                                                    title="Bom bunuh diri guncang Istanbul ">
-                                                <div class="swiper-lazy-preloader"></div>
-                                            </figure>
-                                            <div class="clearfix"></div>
-                                            <figcaption class="image-source">&copy; Sedat Suna /EPA </figcaption>
-                                            <div class="clearfix"></div>
-                                            <div class="article-excerpt gallery-excerpt">
-                                                <p>
-                                                    DIBATALKAN | Tiga ledakan terdengar bersama rentetan peluru yang
-                                                    ditembakkan para penyerang di dalam bandara. Akibatnya seluruh
-                                                    penerbangan dibatalkan oleh otoritas keamanan setempat.
-                                                </p>
-                                                <div class="sharing-box">
-                                                    <ul class="clearfix">
-                                                        <li class="facebook-icon">
-                                                            <a href="#" class="clearfix">
-                                                                <i class="fa fa-facebook pull-left"></i>
-                                                                <span class="pull-left">Facebook</span>
-                                                            </a>
-                                                        </li>
-                                                        <li class="twitter-icon">
-                                                            <a href="#" class="clearfix">
-                                                                <i class="fa fa-twitter pull-left"></i>
-                                                                <span class="pull-left">Twitter</span>
-                                                            </a>
-                                                        </li>
-                                                        <li class="gplus-icon">
-                                                            <a href="#" class="clearfix">
-                                                                <i class="fa fa-google-plus pull-left"></i>
-                                                                <span class="pull-left">Google +</span>
-                                                            </a>
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-
                                     </div>
-                                    <a href="#"
-                                        class="button image-navigation sprite arrow-block-previous button-previous"><i
-                                            class="fa fa-chevron-left fa-3x"></i></a>
-                                    <a href="#" class="button image-navigation sprite arrow-block-next button-next"><i
-                                            class="fa fa-chevron-right fa-3x"></i></a>
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="thumbnail">
+                                        <div class="box-video">
+                                            <a href="detail-video.php">
+                                                <div class="box-video-icon">
+                                                    <i class="fa fa-camera"></i>
+                                                </div>
+                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                            </a>
+                                        </div>
+                                        <div class="caption">
+                                            <h4><a href="detail-video.php">Merawat PAN Agar Tetap di Jalan Tengah ala
+                                                    Bang Zulhas -
+                                                    Energi Disway Podcast #60</a></h4>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="thumbnail">
+                                        <div class="box-video">
+                                            <a href="detail-video.php">
+                                                <div class="box-video-icon">
+                                                    <i class="fa fa-camera"></i>
+                                                </div>
+                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                            </a>
+                                        </div>
+                                        <div class="caption">
+                                            <h4><a href="detail-video.php">Merawat PAN Agar Tetap di Jalan Tengah ala
+                                                    Bang Zulhas -
+                                                    Energi Disway Podcast #60</a></h4>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row no-gutters">
+                                <div class="col-sm-4">
+                                    <div class="thumbnail">
+                                        <div class="box-video">
+                                            <a href="detail-video.php">
+                                                <div class="box-video-icon">
+                                                    <i class="fa fa-camera"></i>
+                                                </div>
+                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                            </a>
+                                        </div>
+                                        <div class="caption">
+                                            <h4><a href="detail-video.php">Merawat PAN Agar Tetap di Jalan Tengah ala
+                                                    Bang Zulhas -
+                                                    Energi Disway Podcast #60</a></h4>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="thumbnail">
+                                        <div class="box-video">
+                                            <a href="detail-video.php">
+                                                <div class="box-video-icon">
+                                                    <i class="fa fa-camera"></i>
+                                                </div>
+                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                            </a>
+                                        </div>
+                                        <div class="caption">
+                                            <h4><a href="detail-video.php">Merawat PAN Agar Tetap di Jalan Tengah ala
+                                                    Bang Zulhas -
+                                                    Energi Disway Podcast #60</a></h4>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="thumbnail">
+                                        <div class="box-video">
+                                            <a href="detail-video.php">
+                                                <div class="box-video-icon">
+                                                    <i class="fa fa-camera"></i>
+                                                </div>
+                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                            </a>
+                                        </div>
+                                        <div class="caption">
+                                            <h4><a href="detail-video.php">Merawat PAN Agar Tetap di Jalan Tengah ala
+                                                    Bang Zulhas -
+                                                    Energi Disway Podcast #60</a></h4>
+
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
 
+                                <div class="text-center">
+                                    <ul class="pagination">
+                                        <li class="active"><a href="#">1</a></li>
+                                        <li><a href="#">2</a></li>
+                                    </ul>
+                                </div>
+
+                            </section>
                         </div>
                     </section>
-
                 </div>
-
             </div>
 
-            <div class="entry-content">
-                <section class="thumb-ito vid-pic bottom-15">
-                    <div class="label-to bottom-10 content-wrap align-center">
-                        <h2 class="pull-left">Foto terkait</h2>
-                        <div class="line-label"></div>
-                        <div class="clearfix"></div>
-                    </div>
-                    <div class="row no-gutters">
-                        <div class="col-sm-3">
-                            <div class="thumbnail grid">
-                                <figure class="effect-chico">
-                                    <a href="detail-foto.php">
-                                        <img src="img/foto2.jpg" class="img-responsive" alt="" />
-                                        <figcaption>
-                                            <i class="fa fa-camera"></i>
-                                        </figcaption>
-                                    </a>
-                                </figure>
-                                <div class="caption">
-                                    <h4><a href="detail-foto.php">Serangan Teror Guncang Indonesia, Jokowi: Tetap
-                                            Tenang tapi Waspada</a></h4>
-                                    <p class="date">Kamis, 01 April 2021 - 14.00 WIB</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-3">
-                            <div class="thumbnail grid">
-                                <figure class="effect-chico">
-                                    <a href="detail-foto.php">
-                                        <img src="img/foto2.jpg" class="img-responsive" alt="" />
-                                        <figcaption>
-                                            <i class="fa fa-camera"></i>
-                                        </figcaption>
-                                    </a>
-                                </figure>
-                                <div class="caption">
-                                    <h4><a href="detail-foto.php">Serangan Teror Guncang Indonesia, Jokowi: Tetap
-                                            Tenang tapi Waspada</a></h4>
-                                    <p class="date">Kamis, 01 April 2021 - 14.00 WIB</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-3">
-                            <div class="thumbnail grid">
-                                <figure class="effect-chico">
-                                    <a href="detail-foto.php">
-                                        <img src="img/foto2.jpg" class="img-responsive" alt="" />
-                                        <figcaption>
-                                            <i class="fa fa-camera"></i>
-                                        </figcaption>
-                                    </a>
-                                </figure>
-                                <div class="caption">
-                                    <h4><a href="detail-foto.php">Serangan Teror Guncang Indonesia, Jokowi: Tetap
-                                            Tenang tapi Waspada</a></h4>
-                                    <p class="date">Kamis, 01 April 2021 - 14.00 WIB</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-3">
-                            <div class="thumbnail grid">
-                                <figure class="effect-chico">
-                                    <a href="detail-foto.php">
-                                        <img src="img/foto2.jpg" class="img-responsive" alt="" />
-                                        <figcaption>
-                                            <i class="fa fa-camera"></i>
-                                        </figcaption>
-                                    </a>
-                                </figure>
-                                <div class="caption">
-                                    <h4><a href="detail-foto.php">Serangan Teror Guncang Indonesia, Jokowi: Tetap
-                                            Tenang tapi Waspada</a></h4>
-                                    <p class="date">Kamis, 01 April 2021 - 14.00 WIB</p>
-                                </div>
-                            </div>
-                        </div>
-
-                </section>
+            <!------- Banner Middle1 -------->
+            <div class="clearfix"></div>
+            <div
+                style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                <a href=""><img src="img/banner-3.png" style="width:100%" /></a>
             </div>
+            <!------ End Banner ------>
 
         </div>
 
     </div>
-
     <?php include ('footer.php') ?>
     <?php include ('script.php') ?>
 

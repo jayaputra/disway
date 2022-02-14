@@ -60,6 +60,16 @@ $(".slide-featured").owlCarousel({
     navText: ['<i class="fa fa-angle-left "></i>', '<i class="fa fa-angle-right"></i>']
 });
 
+$(".slide-foto").owlCarousel({
+    items: 1,
+    loop: true,
+    margin: 10,
+    autoHeight: true,
+    nav: true,
+    dots: false,
+    navText: ['<i class="fa fa-angle-left "></i>', '<i class="fa fa-angle-right"></i>']
+});
+
 $('.slide-vid-pic').owlCarousel({
     stagePadding: 0,
     margin: 15,

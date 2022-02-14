@@ -62,6 +62,7 @@
 
                                 <div class="bottom-15">
                                     <img src="img/foto2.jpg" class="img-responsive img-rounded">
+                                    <p class="text-grey"><small>Caption foto</small></p>
                                 </div>
 
                                 <p>Minyak goreng kampung merupakan minyak goreng tradisional. Olahan minyak dari kelapa
