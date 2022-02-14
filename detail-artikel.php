@@ -35,31 +35,20 @@
             </div>
 
             <div class="col-sm-8">
-
                 <div class="bottom-15">
                     <section class="entry-box">
 
                         <div class="entry-content bottom-30">
 
                             <ul class="breadcrumb">
-                                <li class="completed"><a href="index.php">Home</a></li>
+                                <li><a href="index.php">Home</a></li>
                                 <li><a href="kanal.php">Nasional</a></li>
                             </ul>
-
                             <div class="clearfix"></div>
 
                             <div class="post text-black-1">
 
-                                <h1 class="text-black"><strong>Serangan Teror Guncang Indonesia, Jokowi: Tetap Tenang
-                                        tapi
-                                        Waspada</strong>
-                                </h1>
-
-                                <!-- <div class="post-info">
-            <p class="text-grey">Oleh: <strong>Suratman</strong><span>|</span> <span
-                    class="date">Kamis, 01 April 2021 -
-                    14:00 WIB</span></p>
-        </div> -->
+                                <h1 class="text-black">Struktur Pasar Minyak Goreng Masih Oligopoli</h1>
 
                                 <div class="post-info bottom-15">
                                     <div class="text-grey">
@@ -67,63 +56,74 @@
                                             <strong>Aswan</strong><span>|</span></div>
                                         <div class="editor pull-left" id="editor">Editor:
                                             <strong>Aswan</strong><span>|</span></div>
-                                        <span class="date">Selasa 11-05-2021,23:06 WIB</span>
+                                        <span class="date">Sabtu, 12 Feb 2022 - 14:06 WIB</span>
                                     </div>
                                 </div>
 
                                 <div class="bottom-15">
                                     <img src="img/foto2.jpg" class="img-responsive img-rounded">
                                 </div>
-                                <p>We ensure that our fleet of trucks are always well maintained, and have the best and
-                                    the
-                                    most updated fleet of trucks in service to ensure that it is capable of delivering
-                                    high
-                                    value, and oversized deliverables, efficiently and effectively, without causing any
-                                    kind
-                                    of loss, which is generally the case seen with many outsourced trucking service
-                                    providers.</p>
+
+                                <p>Minyak goreng kampung merupakan minyak goreng tradisional. Olahan minyak dari kelapa
+                                    ini, merupakan asli buatan orang Gorontalo.</p>
+                                <p>Berbeda dengan minyak goreng pada umumnya, olahan yang satu ini memiliki rasa minyak
+                                    yang khas. Itulah mengapa jika minyak goreng ini menjadi favorit warga Gorontalo
+                                    hingga saat ini.</p>
+                                <p>Berbeda dengan minyak goreng pada umumnya, olahan yang satu ini memiliki rasa minyak
+                                    yang khas. Itulah mengapa jika minyak goreng ini menjadi favorit warga Gorontalo
+                                    hingga saat ini.</p>
 
                                 <!------- Banner Middle1 -------->
                                 <div class="clearfix"></div>
-                                <div class="bottom-15 mid-banner">
-                                    <a href=""><img src="img/banner-middle.jpg" /></a>
+                                <div
+                                    style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                                    <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
                                 </div>
                                 <!------ End Banner ------>
 
-                                <p>We ensure that our fleet of trucks are always well maintained, and have the best and
-                                    the
-                                    most updated fleet of trucks in service to ensure that it is capable of delivering
-                                    high
-                                    value, and oversized deliverables, efficiently and effectively, without causing any
-                                    kind
-                                    of loss, which is generally the case seen with many outsourced trucking service
-                                    providers.</p>
+                                <p>Selain memiliki rasa dan aroma yang gurih, minyak goreng kampung dari tanah serambi
+                                    madinah ini, juga memiliki warna yang lebih bening ketimbang minyak goreng lain.</p>
+                                <p>Selain memiliki rasa dan aroma yang gurih, minyak goreng kampung dari tanah serambi
+                                    madinah ini, juga memiliki warna yang lebih bening ketimbang minyak goreng lain.</p>
+                                <p>Selain memiliki rasa dan aroma yang gurih, minyak goreng kampung dari tanah serambi
+                                    madinah ini, juga memiliki warna yang lebih bening ketimbang minyak goreng lain.</p>
 
                                 <!------- Banner Middle1 -------->
                                 <div class="clearfix"></div>
-                                <div class="bottom-15 mid-banner">
-                                    <a href=""><img src="img/banner-middle.jpg" /></a>
+                                <div
+                                    style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                                    <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
                                 </div>
                                 <!------ End Banner ------>
-                                <p>We ensure that our fleet of trucks are always well maintained, and have the best and
-                                    the
-                                    most updated fleet of trucks in service to ensure that it is capable of delivering
-                                    high
-                                    value, and oversized deliverables, efficiently and effectively, without causing any
-                                    kind
-                                    of loss, which is generally the case seen with many outsourced trucking service
-                                    providers.</p>
 
+                                <p>Selain memiliki rasa dan aroma yang gurih, minyak goreng kampung dari tanah serambi
+                                    madinah ini, juga memiliki warna yang lebih bening ketimbang minyak goreng lain.</p>
+                                <p>Selain memiliki rasa dan aroma yang gurih, minyak goreng kampung dari tanah serambi
+                                    madinah ini, juga memiliki warna yang lebih bening ketimbang minyak goreng lain.</p>
                                 <div class="clearfix"></div>
 
                             </div>
 
+                            <div class="text-center">
+                                <ul class="pagination">
+                                    <li class="active"><a href="#">1</a></li>
+                                    <li><a href="#">2</a></li>
+                                </ul>
+                            </div>
+                            <div class="clearfix"></div>
+
+                            <div class="news-tags">
+                                <span class="text-grey"><strong>Tag: </strong></span>
+                                <a href="tags.php" class="bottom-10">#Jokowi</a>
+                                <a href="tags.php" class="bottom-10">#Istana</a>
+                                <a href="tags.php" class="bottom-10">#Indonesia</a>
+                                <a href="tags.php" class="bottom-10">#serangan</a>
+                            </div>
+
                             <div class="sharing-box bottom-15 clearfix">
+
                                 <ul class="center-block">
-                                    <li class="sharing-text">
-                                        <p>200</p>
-                                        <span>Shares</span>
-                                    </li>
+                                    <li><span class="text-grey"><strong>Share: </strong></span></li>
                                     <li class="facebook-icon">
                                         <a href="#" class="clearfix">
                                             <i class="fa fa-facebook pull-left"></i>
@@ -144,123 +144,136 @@
                                     </li>
                                 </ul>
                             </div>
-                            <!-- sharing-box -->
-
-                            <div class="clearfix"></div>
-
-                            <div class="news-tags">
-                                <span class="text-grey"><strong>Topik Terkait: </strong></span>
-                                <a href="tags.php" class="bottom-10">#Jokowi</a>
-                                <a href="tags.php" class="bottom-10">#Istana</a>
-                                <a href="tags.php" class="bottom-10">#Indonesia</a>
-                                <a href="tags.php" class="bottom-10">#serangan</a>
-                            </div>
 
                         </div>
 
-                        <!-- <div class="entry-content bottom-15">
-    <div class=" bottom-10">
-        <h3 class="label-to">Komentar</h3>
-    </div>
-
-</div> -->
-
                         <div class="bottom-15">
                             <section>
-                                <div class="label-to bottom-10 content-wrap align-center">
-                                    <h2 class="pull-left">Berita Terkait</h2>
-                                    <div class="line-label"></div>
-                                    <div class="clearfix"></div>
+                                <div class="label-to bottom-10">
+                                    <h2>Berita Terkait</h2>
                                 </div>
-
-                                <div class="bottom-30 hover01">
-                                    <div class="media-left thumb-post">
-                                        <div class="post-thumb4">
+                                <div class="bottom-15">
+                                    <div class="media-body media-content media-middle">
+                                        <h2 class="media-heading">
+                                            <a href="detail-artikel.php">PDAM Sidoarjo Butuh 90 Ribu Pelanggan Baru</a>
+                                        </h2>
+                                        <div class="pull-left right-15">
+                                            <p><a href="kanal.php">
+                                                    <span class="label label-default text-uppercase">Nasional</span>
+                                                </a></p>
+                                        </div>
+                                        <p class="date">10 menit lalu</p>
+                                    </div>
+                                    <div class="media-right thumb-post">
+                                        <div class="frame-thumb">
                                             <img class="media-object gambarkecil" src="img/foto1.jpg" alt="">
                                             <a href="detail-artikel.php" title="" class="img-link"></a>
                                         </div>
                                     </div>
-                                    <div class="media-right media-content">
-                                        <h3 class="media-heading"><a href="detail-artikel.php">Budha, Islam dan Semua
-                                                Etnik
-                                                Myanmar Kini Bersatu Menentang Kudeta</a></h5>
-                                            <p class="date">Kamis, 01 April 2021 - 14.00 WIB</p>
-                                    </div>
                                 </div>
-                                <div class="bottom-30 hover01">
-                                    <div class="media-left thumb-post">
-                                        <div class="post-thumb4">
+
+                                <div class="bottom-15">
+                                    <div class="media-body media-content media-middle">
+                                        <h2 class="media-heading">
+                                            <a href="detail-artikel.php">Reni Astuti Tak Temukan Minyak Goreng
+                                                Bersubsidi</a>
+                                        </h2>
+                                        <div class="pull-left right-15">
+                                            <p><a href="kanal.php">
+                                                    <span class="label label-default text-uppercase">Nasional</span>
+                                                </a></p>
+                                        </div>
+                                        <p class="date">15 menit lalu</p>
+                                    </div>
+                                    <div class="media-right thumb-post">
+                                        <div class="frame-thumb">
                                             <img class="media-object gambarkecil" src="img/foto2.jpg" alt="">
                                             <a href="detail-artikel.php" title="" class="img-link"></a>
                                         </div>
                                     </div>
-                                    <div class="media-right media-content">
-                                        <h3 class="media-heading"><a href="detail-artikel.php">Serangan Teror Guncang
-                                                Indonesia, Jokowi: Tetap
-                                                Tenang tapi Waspada</a></h5>
-                                            <p class="date">Kamis, 01 April 2021 - 14.00 WIB</p>
-                                    </div>
                                 </div>
-                                <div class="bottom-30 hover01">
-                                    <div class="media-left thumb-post">
-                                        <div class="post-thumb4">
+
+                                <div class="bottom-15">
+                                    <div class="media-body media-content media-middle">
+                                        <h2 class="media-heading">
+                                            <a href="detail-artikel.php">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
+                                        </h2>
+                                        <div class="pull-left right-15">
+                                            <p><a href="kanal.php">
+                                                    <span class="label label-default text-uppercase">Nasional</span>
+                                                </a></p>
+                                        </div>
+                                        <p class="date">30 menit lalu</p>
+                                    </div>
+                                    <div class="media-right thumb-post">
+                                        <div class="frame-thumb">
                                             <img class="media-object gambarkecil" src="img/foto3.jpg" alt="">
                                             <a href="detail-artikel.php" title="" class="img-link"></a>
                                         </div>
                                     </div>
-                                    <div class="media-right media-content">
-                                        <h3 class="media-heading"><a href="detail-artikel.php">Pascakebakaran di
-                                                Kwitang,
-                                                Anies Baswedan Siapkan Rancangan Rumah Lebih Baik dan Fasilitas
-                                                Lengkap</a>
-                                            </h5>
-                                            <p class="date">Kamis, 01 April 2021 - 14.00 WIB</p>
-                                            <!-- <p class="short-text text-black-1">Lorem ipsum dolor sit amet, consectetur
-                        adipiscing elit.</p> -->
-                                    </div>
                                 </div>
-                                <div class="bottom-30 hover01">
-                                    <div class="media-left thumb-post">
-                                        <div class="post-thumb4">
+
+                                <div class="bottom-15">
+                                    <div class="media-body media-content media-middle">
+                                        <h2 class="media-heading">
+                                            <a href="detail-artikel.php">Wadas Batu Cadas, Dimasuki Politik Juga</a>
+                                        </h2>
+                                        <div class="pull-left right-15">
+                                            <p><a href="kanal.php">
+                                                    <span class="label label-default text-uppercase">Nasional</span>
+                                                </a></p>
+                                        </div>
+                                        <p class="date">1 jam lalu</p>
+                                    </div>
+                                    <div class="media-right thumb-post">
+                                        <div class="frame-thumb">
                                             <img class="media-object gambarkecil" src="img/foto4.jpg" alt="">
                                             <a href="detail-artikel.php" title="" class="img-link"></a>
                                         </div>
                                     </div>
-                                    <div class="media-right media-content">
-                                        <h3 class="media-heading"><a href="detail-artikel.php">Aturan Baru! Masa Berlaku
-                                                Swab PCR untuk Naik Pesawat Hanya Bertahan 3x24 Jam </a></h5>
-                                            <p class="date">Kamis, 01 April 2021 - 14.00 WIB</p>
-                                    </div>
                                 </div>
-                                <div class="bottom-30 hover01">
-                                    <div class="media-left thumb-post">
-                                        <div class="post-thumb4">
-                                            <img class="media-object gambarkecil" src="img/foto1.jpg" alt="">
+
+                                <div class="bottom-15">
+                                    <div class="media-body media-content media-middle">
+                                        <h2 class="media-heading">
+                                            <a href="detail-artikel.php">Wakil Ketua Diperiksa KPK, Ketua PN
+                                                Dilantik</a>
+                                        </h2>
+                                        <div class="pull-left right-15">
+                                            <p><a href="kanal.php">
+                                                    <span class="label label-default text-uppercase">Nasional</span>
+                                                </a></p>
+                                        </div>
+                                        <p class="date">1 jam lalu</p>
+                                    </div>
+                                    <div class="media-right thumb-post">
+                                        <div class="frame-thumb">
+                                            <img class="media-object gambarkecil" src="img/foto5.jpg" alt="">
                                             <a href="detail-artikel.php" title="" class="img-link"></a>
                                         </div>
                                     </div>
-                                    <div class="media-right media-content">
-                                        <h3 class="media-heading"><a href="detail-artikel.php">Aturan Baru! Masa Berlaku
-                                                Swab PCR untuk Naik Pesawat Hanya Bertahan 3x24 Jam </a></h5>
-                                            <p class="date">Kamis, 01 April 2021 - 14.00 WIB</p>
-                                    </div>
                                 </div>
+
+                                <div class="text-center">
+                                    <ul class="pagination">
+                                        <li class="active"><a href="#">1</a></li>
+                                        <li><a href="#">2</a></li>
+                                    </ul>
+                                </div>
+
                             </section>
                         </div>
-
-                        <!------- Banner Middle1 -------->
-                        <div class="clearfix"></div>
-                        <div class="bottom-15 mid-banner">
-                            <a href=""><img src="img/banner-middle.jpg" /></a>
-                        </div>
-                        <!------ End Banner ------>
-
-
                     </section>
                 </div>
-
-
             </div>
+
+            <!------- Banner Middle1 -------->
+            <div class="clearfix"></div>
+            <div
+                style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                <a href=""><img src="img/banner-3.png" style="width:100%" /></a>
+            </div>
+            <!------ End Banner ------>
 
         </div>
 

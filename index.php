@@ -921,7 +921,7 @@
             <div class="clearfix"></div>
             <div
                 style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
-                <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
+                <a href=""><img src="img/banner-3.png" style="width:100%" /></a>
             </div>
             <!------ End Banner ------>
 

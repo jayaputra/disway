@@ -698,22 +698,10 @@
                                 </div>
                             </div>
 
-                            <!------- Banner Middle1 -------->
-                            <div class="clearfix"></div>
-                            <div
-                                style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
-                                <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
-                            </div>
-                            <!------ End Banner ------>
-
                             <div class="text-center">
                                 <ul class="pagination">
-                                    <li>
-                                        <a href="#" aria-label="Previous">
-                                            <span aria-hidden="true">&laquo;</span>
-                                        </a>
-                                    </li>
-                                    <li><a href="#">1</a></li>
+                                    
+                                    <li class="active"><a href="#">1</a></li>
                                     <li><a href="#">2</a></li>
                                     <li><a href="#">3</a></li>
                                     <li><a href="#">4</a></li>
@@ -1026,6 +1014,14 @@
                     </div>
                 </div>
             </div>
+
+            <!------- Banner Middle1 -------->
+            <div class="clearfix"></div>
+            <div
+                style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                <a href=""><img src="img/banner-3.png" style="width:100%" /></a>
+            </div>
+            <!------ End Banner ------>
 
         </div>
     </div>

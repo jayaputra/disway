@@ -57,53 +57,96 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-9 content-wrap top-middle align-center">
+                <div class="col-md-9">
                     <div class="network">
-                    <div class="label-to bottom-10 content-wrap align-center">
-                    <h2>Network</h2>
-                </div>
-                        <div class="">
-                            <a href="" title="Network">Network 1</a> |
-
-                            <a href="" title="Network">Network 2</a> |
-
-                            <a href="" title="Network">Network 3</a> |
-
-                            <a href="" title="Network">Network 4</a> |
-
-                            <a href="" title="Network">Network 5</a> |
-
-                            <a href="" title="Network">Network 6</a> |
-
-                            <a href="" title="Network">Network 7</a> |
-
-                            <a href="" title="Network">Network 8</a> |
-
-                            <a href="" title="Network">Network 9</a> |
-
-                            <a href="" title="Network">Network 10</a> |
-
-                            <a href="" title="Network">Network 11</a> |
-
-                            <a href="" title="Network">Network 12</a> |
-
-                            <a href="" title="Network">Network 13</a> |
-
-                            <a href="" title="Network">Network 14</a> |
-
-                            <a href="" title="Network">Network 15</a> |
-
-                            <a href="" title="Network">Network 16</a> |
-
-                            <a href="" title="Network">Network 17</a> |
-
-                            <a href="" title="Network">Network 18</a> |
-
-                            <a href="" title="Network">Network 19</a> |
-
-                            <a href="" title="Network">Network 20</a> |
+                        <div class="label-to bottom-10 content-wrap align-center">
+                            <h2>Network</h2>
                         </div>
-                        <p><strong><a href="" class="btn btn-default">Lihat Semua <i class="fa fa-chevron-right"></i></a></strong></p>
+                        <div class="row">
+                            <div class="col-md-3 col-sm-4">
+                                <ul>
+                                    <li>
+                                        <a href="" title="Network">Network 1</a>
+                                    </li>
+                                    <li>
+                                        <a href="" title="Network">Network 2</a>
+                                    </li>
+                                    <li>
+                                        <a href="" title="Network">Network 3</a>
+                                    </li>
+                                    <li>
+                                        <a href="" title="Network">Network 4</a>
+                                    </li>
+                                    <li>
+                                        <a href="" title="Network">Network 5</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-md-3 col-sm-4">
+                                <ul>
+                                    <li>
+                                        <a href="" title="Network">Network 6</a>
+                                    </li>
+                                    <li>
+                                        <a href="" title="Network">Network 7</a>
+                                    </li>
+                                    <li>
+                                        <a href="" title="Network">Network 8</a>
+                                    </li>
+                                    <li>
+                                        <a href="" title="Network">Network 9</a>
+                                    </li>
+                                    <li>
+                                        <a href="" title="Network">Network 10</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-md-3 col-sm-4">
+                                <ul>
+                                    <li>
+                                        <a href="" title="Network">Network 11</a>
+                                    </li>
+                                    <li>
+                                        <a href="" title="Network">Network 12</a>
+                                    </li>
+                                    <li>
+                                        <a href="" title="Network">Network 13</a>
+                                    </li>
+                                    <li>
+                                        <a href="" title="Network">Network 14</a>
+                                    </li>
+                                    <li>
+                                        <a href="" title="Network">Network 15</a>
+                                    </li>
+                                </ul>
+
+                            </div>
+                            <div class="col-md-3 col-sm-4">
+                                <ul>
+                                    <li>
+                                        <a href="" title="Network">Network 16</a>
+                                    </li>
+                                    <li>
+                                        <a href="" title="Network">Network 17</a>
+                                    </li>
+                                    <li>
+                                        <a href="" title="Network">Network 18</a>
+                                    </li>
+                                    <li>
+                                        <a href="" title="Network">Network 19</a>
+                                    </li>
+                                    <li>
+                                        <a href="" title="Network">Network 20</a>
+                                    </li>
+                                </ul>
+
+                            </div>
+                        </div>
+                        <div class="text-center">
+                            <a class="btn btn-default" href="#" role="button">Lihat Semua <i
+                                class="fa fa-chevron-right"></i></a>
+                        </div>
+                        
                     </div>
                 </div>
             </div>
