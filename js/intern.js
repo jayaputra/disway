@@ -2,34 +2,6 @@ window.onscroll = function () {
     myFunction()
 };
 
-var Gallery = new Swiper('.gallery-swiper', {
-    nextButton: '.gallery-swiper .button-next',
-    prevButton: '.gallery-swiper .button-previous',
-    slidesPerView: 1,
-    centeredSlides: false,
-    grabCursor: true,
-    preloadImages: true,
-    lazyLoading: true,
-    spaceBetween: 2
-});
-
-if (Gallery.container.length > 0) {
-    Gallery.on('slideChangeStart', function () {
-        $(".slide-indicator strong").html((parseInt($(".swiper-slide-active").attr("slide-index")) + 1));
-        ga('send', {
-            'hitType': 'pageview',
-            'page': '/detail-foto/' + Gallery.activeIndex
-        });
-    });
-};
-
-$(document).ready(function () {
-    var TotalSlide = $(".swiper-slide").length;
-    var Indicator = '<strong>' + (parseInt($(".swiper-slide-active").attr("slide-index")) + 1) + '</strong> / ' + TotalSlide + ' foto';
-    $(".indicator").html(TotalSlide + " foto");
-    $(".slide-indicator").html(Indicator);
-});
-
 $(document).ready(function (c) {
     $('.close-bottom').on('click', function (c) {
         $('.fixed-bottom').slideUp('slow', function (c) {
@@ -189,62 +161,3 @@ $(document).ready(function () {
 $(window).load(function () {
     $('#myModal').modal('show');
 });
-
-var sidebar = document.getElementById('sidebar');
-Stickyfill.add(sidebar);
-
-
-$(document).ready(function () {
-
-    "use strict";
-
-    // $('.menu > ul > li:has( > ul)').addClass('menu-dropdown-icon');
-    // $('.menu > ul > li > ul:not(:has(ul))').addClass('normal-sub');
-    // $(".menu > ul").before("<a href=\"#\" class=\"menu-mobile\">Navigation</a>");
-    // $(".menu > ul > li").hover(function (e) {
-    //     if ($(window).width() > 943) {
-    //         $(this).children("ul").stop(true, false).fadeToggle(150);
-    //         e.preventDefault();
-    //     }
-    // });
-    // $(".menu > ul > li").click(function () {
-    //     if ($(window).width() <= 943) {
-    //         $(this).children("ul").fadeToggle(150);
-    //     }
-    // });
-    // $(".menu-mobile").click(function (e) {
-    //     $(".menu > ul").toggleClass('show-on-mobile');
-    //     e.preventDefault();
-    // });
-
-    // $(function () {
-    //     var pageGladis = $("#load-more-btn").attr('next-page');
-    //     $("#load-more-btn").attr('href', '#');
-    //     $("#load-more-loading").hide();
-    //     $('#load-more-btn').click(function (event) {
-    //         event.preventDefault();
-    //         var button = $(this).val();
-    //         $.ajax({
-    //             url: 'http://nama-domain/galeri/' + pageGladis,
-    //             dataType: 'html',
-    //             beforeSend: function () {
-    //                 $("#load-more-loading").show();
-    //                 $("#load-more-btn").hide();
-    //             },
-    //             success: function (data)
-    //             {
-    //                 $("#load-more-loading").hide();
-    //                 $("#load-more-btn").show();
-    //                 var placement = $('.section-media').last();
-    //                 placement.append(data);
-    //                 pageGladis = parseInt(pageGladis) + 1;
-    //                 $("#load-more-btn").attr('next-page', pageGladis);
-    //                 if (data == false) {
-    //                     $("#load-more-btn").hide();
-    //                 }
-    //             }
-    //         });
-    //         return false;
-    //     });
-    // });
-})(jQuery);

@@ -12,8 +12,6 @@
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
 <link href="css/media.css" rel="stylesheet">
-<link href='css/swiper.min.css' rel="stylesheet">
-<link href="css/pgwslider.css" rel="stylesheet">
 <link href="css/owl.carousel.css" rel="stylesheet">
 <link href="css/owl.theme.default.css" rel="stylesheet">
 

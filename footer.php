@@ -63,7 +63,7 @@
                             <h2>Network</h2>
                         </div>
                         <div class="row">
-                            <div class="col-md-3 col-sm-4">
+                            <div class="col-md-3 col-sm-4 col-xs-6">
                                 <ul>
                                     <li>
                                         <a href="" title="Network">Network 1</a>
@@ -82,7 +82,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <div class="col-md-3 col-sm-4">
+                            <div class="col-md-3 col-sm-4 col-xs-6">
                                 <ul>
                                     <li>
                                         <a href="" title="Network">Network 6</a>
@@ -101,7 +101,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <div class="col-md-3 col-sm-4">
+                            <div class="col-md-3 col-sm-4 col-xs-6">
                                 <ul>
                                     <li>
                                         <a href="" title="Network">Network 11</a>
@@ -121,7 +121,7 @@
                                 </ul>
 
                             </div>
-                            <div class="col-md-3 col-sm-4">
+                            <div class="col-md-3 col-sm-4 col-xs-6">
                                 <ul>
                                     <li>
                                         <a href="" title="Network">Network 16</a>
