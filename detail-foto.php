@@ -47,7 +47,7 @@
 
                             <div class="post text-black-1">
 
-                                <h1 class="text-black">Struktur Pasar Minyak Goreng Masih Oligopoli</h1>
+                                <h1 class="text-black">Proklamasi Merdeka Pandemi</h1>
 
                                 <div class="post-info bottom-15">
                                     <div class="text-grey">
@@ -62,77 +62,51 @@
                                 <div class="bottom-15">
                                     <div class="owl-carousel slide-foto owl-theme">
                                         <div class="item">
-                                            <div class="frame-featured">
+                                            <div class="">
                                                 <a href="#">
-                                                    <img src="img/thumb1.jpg" alt="">
-
+                                                    <img src="img/thumb2.jpg" alt="">
                                                 </a>
                                             </div>
                                             <div class="caption">
-                                                <p>Wakil Ketua Diperiksa KPK, Ketua PN Dilantik</p>
+                                                <h3>Judul keterangan Foto 1</h3>
                                             </div>
                                         </div>
                                         <div class="item">
-                                            <div class="frame-featured">
+                                            <div class="">
                                                 <a href="#">
                                                     <img src="img/thumb2.jpg" alt="">
-
-                                                </a>
-
-                                            </div>
-                                            <div class="caption">Proklamasi Merdeka Pandemi</div>
-                                        </div>
-                                        <div class="item">
-                                            <div class="frame-featured">
-                                                <a href="#">
-                                                    <img src="img/thumb3.png" alt="">
-
                                                 </a>
                                             </div>
-                                            <div class="caption">Proklamasi Merdeka Pandemi</div>
-                                        </div>
-                                        <div class="item">
-                                            <div class="frame-featured">
-                                                <a href="#">
-                                                    <img src="img/thumb1.jpg" alt="">
-
-                                                </a>
+                                            <div class="caption">
+                                                <h3>Judul keterangan Foto 2</h3>
                                             </div>
-                                            <div class="caption">Proklamasi Merdeka Pandemi</div>
                                         </div>
                                         <div class="item">
-                                            <div class="frame-featured">
+                                            <div class="">
                                                 <a href="#">
                                                     <img src="img/thumb2.jpg" alt="">
-
                                                 </a>
                                             </div>
+                                            <div class="caption">
+                                                <h3>Judul keterangan Foto 3</h3>
+                                            </div>
                                         </div>
-                                        <div class="caption">Proklamasi Merdeka Pandemi</div>
                                     </div>
                                 </div>
-
-                                <!------- Banner Middle1 -------->
-                                <div class="clearfix"></div>
-                                <div
-                                    style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
-                                    <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
-                                </div>
-                                <!------ End Banner ------>
-
                             </div>
 
-                            <div class="news-tags">
-                                <span class="text-grey"><strong>Tag: </strong></span>
-                                <a href="tags.php" class="bottom-10">#Jokowi</a>
-                                <a href="tags.php" class="bottom-10">#Istana</a>
-                                <a href="tags.php" class="bottom-10">#Indonesia</a>
-                                <a href="tags.php" class="bottom-10">#serangan</a>
+                            <div class="news-tags clearfix">
+                                <ul class="list-inline">
+                                    <li><span class="text-grey"><strong>Tag: </strong></span></li>
+                                    <li><a href="tags.php">#jokowi</a></li>
+                                    <li><a href="tags.php">#warna</a></li>
+                                    <li><a href="tags.php">#vaksin</a></li>
+                                    <li><a href="tags.php">#indonesia</a></li>
+                                </ul>
                             </div>
 
-                            <div class="sharing-box bottom-15 clearfix">
-
-                                <ul class="center-block">
+                            <div class="sharing-box clearfix">
+                                <ul class="list-inline">
                                     <li><span class="text-grey"><strong>Share: </strong></span></li>
                                     <li class="facebook-icon">
                                         <a href="#" class="clearfix">
@@ -154,6 +128,14 @@
                                     </li>
                                 </ul>
                             </div>
+
+                            <!------- Banner Middle1 -------->
+                            <div class="clearfix"></div>
+                            <div
+                                style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                                <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
+                            </div>
+                            <!------ End Banner ------>
 
                         </div>
 
@@ -285,6 +267,11 @@
                                     <ul class="pagination">
                                         <li class="active"><a href="#">1</a></li>
                                         <li><a href="#">2</a></li>
+                                        <li>
+                                            <a href="#" aria-label="Next">
+                                                <span aria-hidden="true">&raquo;</span>
+                                            </a>
+                                        </li>
                                     </ul>
                                 </div>
 

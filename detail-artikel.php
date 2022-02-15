@@ -61,7 +61,7 @@
 
                                 <div class="bottom-15">
                                     <img src="img/foto2.jpg" class="img-responsive img-rounded">
-                                    <p class="text-grey"><small>Caption foto</small></p>
+                                    <p class="text-grey"><small>Keterangan dari foto</small></p>
                                 </div>
 
                                 <p>Minyak goreng kampung merupakan minyak goreng tradisional. Olahan minyak dari kelapa
@@ -117,17 +117,18 @@
                             </div>
                             <div class="clearfix"></div>
 
-                            <div class="news-tags">
-                                <span class="text-grey"><strong>Tag: </strong></span>
-                                <a href="tags.php" class="bottom-10">#Jokowi</a>
-                                <a href="tags.php" class="bottom-10">#Istana</a>
-                                <a href="tags.php" class="bottom-10">#Indonesia</a>
-                                <a href="tags.php" class="bottom-10">#serangan</a>
+                            <div class="news-tags clearfix">
+                                <ul class="list-inline">
+                                    <li><span class="text-grey"><strong>Tag: </strong></span></li>
+                                    <li><a href="tags.php">#jokowi</a></li>
+                                    <li><a href="tags.php">#warna</a></li>
+                                    <li><a href="tags.php">#vaksin</a></li>
+                                    <li><a href="tags.php">#indonesia</a></li>
+                                </ul>
                             </div>
 
-                            <div class="sharing-box bottom-15 clearfix">
-
-                                <ul class="center-block">
+                            <div class="sharing-box clearfix">
+                                <ul class="list-inline">
                                     <li><span class="text-grey"><strong>Share: </strong></span></li>
                                     <li class="facebook-icon">
                                         <a href="#" class="clearfix">

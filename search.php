@@ -36,15 +36,15 @@
             <div class="col-sm-8">
 
                 <div class="">
-
-                    <div class="pull-left right-15">
-                        <h3>Pencarian pada:</h3>
+                    <div class="alert alert-info">
+                        <div class="pull-left right-15">
+                            <h3>Hasil Pencarian:</h3>
+                        </div>
+                        <div class="text-black">
+                            <h3><strong>"Pelanggan baru"</strong></h3>
+                        </div>
+                        <div class="clearfix"></div>
                     </div>
-                    <div class="label-to bottom-15">
-                        <h2>"Pelanggan baru"</h2>
-                    </div>
-                    <div class="clearfix"></div>
-                    
                     <section>
 
                         <div class="bottom-15">

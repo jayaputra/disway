@@ -13,8 +13,8 @@
 
     <div class="copyright clearfix bottom-15">
         <div class="container">
-            <div class="row top-row">
-                <div class="col-md-3 top-left">
+            <div class="row">
+                <div class="col-md-3">
                     <div class="text-center">
                         <a href="index.php" target="blank">
                             <img src="img/logo-disway-new.png" class="img-responsive center-block bottom-15">
@@ -33,7 +33,7 @@
                                     <a class="socmed" target="_blank" href="">
                                         <span class="fa-stack fa-lg">
                                             <i class="fa fa-circle fa-stack-2x"></i>
-                                            <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                            <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
                                         </span>
                                     </a>
                                 </li>
@@ -49,7 +49,7 @@
                                     <a class="socmed" target="_blank" href="">
                                         <span class="fa-stack fa-lg">
                                             <i class="fa fa-circle fa-stack-2x"></i>
-                                            <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+                                            <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
                                         </span>
                                     </a>
                                 </li>

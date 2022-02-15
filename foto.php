@@ -36,7 +36,14 @@
 
             <div class="col-sm-8">
                 <div class="">
-                    <?php include ('slide-kanal.php') ?>
+                    <header>
+                        <div class="bottom-15">
+                            <div class="label-to bottom-15">
+                                <h2 class="text-uppercase">Foto</h2>
+                            </div>
+                            <?php include ('slide-kanal.php') ?>
+                        </div>
+                    </header>
 
                     <!------- Banner Middle1 -------->
                     <div class="clearfix"></div>

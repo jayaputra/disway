@@ -60,7 +60,7 @@
                                             value="02/01/2022 - 02/15/2022" />
                                     </div>
                                     <div class="col-md-4 col-sm-6">
-                                        <button type="submit" class="btn btn-red btn-block">Submit</button>
+                                        <button type="submit" class="btn btn-red btn-block">Lihat Berita</button>
                                     </div>
                                 </div>
                             </form>
