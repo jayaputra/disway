@@ -56,7 +56,7 @@
                     <div class="box-middle thumb-ito vid-pic bottom-15">
                         <section>
                             <div class="label-to bottom-15">
-                                <h2>Foto Terkini</h2>
+                                <h2>Foto </h2>
                             </div>
 
                             <div class="row no-gutters">
