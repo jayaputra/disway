@@ -4,4 +4,7 @@
 
 <script type="text/javascript" src="js/owl.carousel.min.js"></script>
 
+<script type="text/javascript" src="js/moment.min.js"></script>
+<script type="text/javascript" src="js/daterangepicker.js"></script>
+
 <script type="text/javascript" src="js/intern.js"></script>

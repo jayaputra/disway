@@ -910,7 +910,7 @@
                             </div>
 
                             <div class="bottom-30">
-                                <a href="" class="btn btn-default btn-lg btn-block" role="button">Indeks</a>
+                                <a href="indeks-page.php" class="btn btn-red btn-lg btn-block" role="button">Indeks</a>
                             </div>
                         </section>
                     </div>

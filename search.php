@@ -44,8 +44,7 @@
                         <h2>"Pelanggan baru"</h2>
                     </div>
                     <div class="clearfix"></div>
-                    <hr />
-
+                    
                     <section>
 
                         <div class="bottom-15">

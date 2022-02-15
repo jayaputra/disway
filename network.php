@@ -45,7 +45,7 @@
                             <div class="col-md-3 col-sm-4 col-xs-6">
                                 <ul>
                                     <li>
-                                        <a href="" title="Network">Network 1</a>
+                                        <a href="" title="Network" target="_blank">Network 1</a>
                                     </li>
                                     <li>
                                         <a href="" title="Network">Network 2</a>

@@ -1,6 +1,15 @@
-window.onscroll = function () {
-    myFunction()
-};
+$(function () {
+    $('input[name="daterange"]').daterangepicker({
+        opens: 'center',
+        todayHighlight: true,
+        format: 'dd/mm/yyyy'
+    }, function (start, end, label) {
+        console.log("A new date selection was made: " + start
+            .format(
+                'YYYY-MM-DD') + ' to ' + end.format(
+                'YYYY-MM-DD'));
+    });
+});
 
 $(document).ready(function (c) {
     $('.close-bottom').on('click', function (c) {

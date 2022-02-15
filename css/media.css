@@ -194,9 +194,10 @@
         height: 60px;
     }
 
-    #sync2 .caption p{
+    #sync2 .caption p {
         font-size: 1rem;
     }
+
     .pilihan .frame-thumb,
     .frame-thumb {
         height: inherit;
@@ -205,6 +206,11 @@
     .slider .owl-theme .owl-dots .owl-dot span {
         width: 20px;
     }
+
+    .form-control {
+        margin-bottom: 15px;
+    }
+    
     footer .network {
         font-size: 1.2rem;
     }

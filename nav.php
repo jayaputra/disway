@@ -184,37 +184,37 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Entertainment
                             <span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">Seleb</a></li>
-                            <li><a href="#">Musik</a></li>
-                            <li><a href="#">Film</a></li>
-                            <li><a href="#">Panggung</a></li>
+                            <li><a href="kanal.php">Seleb</a></li>
+                            <li><a href="kanal.php">Musik</a></li>
+                            <li><a href="kanal.php">Film</a></li>
+                            <li><a href="kanal.php">Panggung</a></li>
                         </ul>
                     </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Bola <span
                                 class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">Liga Indonesia</a></li>
-                            <li><a href="#">Liga Inggris</a></li>
-                            <li><a href="#">Liga Spanyol</a></li>
-                            <li><a href="#">Liga Italia</a></li>
-                            <li><a href="#">Champions</a></li>
+                            <li><a href="kanal.php">Liga Indonesia</a></li>
+                            <li><a href="kanal.php">Liga Inggris</a></li>
+                            <li><a href="kanal.php">Liga Spanyol</a></li>
+                            <li><a href="kanal.php">Liga Italia</a></li>
+                            <li><a href="kanal.php">Champions</a></li>
                         </ul>
                     </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Sport <span
                                 class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">Olahraga Umum</a></li>
+                            <li><a href="kanal.php">Olahraga Umum</a></li>
                         </ul>
                     </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Otomotif <span
                                 class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">Mobil</a></li>
-                            <li><a href="#">Motor</a></li>
-                            <li><a href="#">Modifikasi</a></li>
+                            <li><a href="kanal.php">Mobil</a></li>
+                            <li><a href="kanal.php">Motor</a></li>
+                            <li><a href="kanal.php">Modifikasi</a></li>
                         </ul>
                     </li>
                     <li class="dropdown">
@@ -239,17 +239,17 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Travel <span
                                 class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">Kuliner</a></li>
-                            <li><a href="#">Wisata</a></li>
-                            <li><a href="#">Tips</a></li>
+                            <li><a href="kanal.php">Kuliner</a></li>
+                            <li><a href="kanal.php">Wisata</a></li>
+                            <li><a href="kanal.php">Tips</a></li>
                         </ul>
                     </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Tekno <span
                                 class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">Gadget</a></li>
-                            <li><a href="#">Hardware</a></li>
+                            <li><a href="kanal.php">Gadget</a></li>
+                            <li><a href="kanal.php">Hardware</a></li>
                         </ul>
                     </li>
                     <li class="dropdown">
@@ -261,7 +261,7 @@
                         </ul>
                     </li>
                     <li>
-                        <a href="kanal.php">Indeks</a>
+                        <a href="indeks-page.php">Indeks</a>
                     </li>
                 </ul>
 
