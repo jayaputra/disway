@@ -32,9 +32,9 @@
                             </li>
                             <li role="separator" class="divider"></li>
                             <li>
-                                <ul class="list-inline smd">
+                            <ul class="list-inline smd">
                                     <li>
-                                        <a class="socmed" target="_blank" href="">
+                                        <a class="socmed facebook" target="_blank" href="">
                                             <span class="fa-stack fa-lg">
                                                 <i class="fa fa-circle fa-stack-2x"></i>
                                                 <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
@@ -42,7 +42,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="socmed" target="_blank" href="">
+                                        <a class="socmed instagram" target="_blank" href="">
                                             <span class="fa-stack fa-lg">
                                                 <i class="fa fa-circle fa-stack-2x"></i>
                                                 <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
@@ -50,7 +50,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="socmed" target="_blank" href="">
+                                        <a class="socmed youtube" target="_blank" href="">
                                             <span class="fa-stack fa-lg">
                                                 <i class="fa fa-circle fa-stack-2x"></i>
                                                 <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
@@ -58,7 +58,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="socmed" target="_blank" href="">
+                                        <a class="socmed twitter" target="_blank" href="">
                                             <span class="fa-stack fa-lg">
                                                 <i class="fa fa-circle fa-stack-2x"></i>
                                                 <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
@@ -95,7 +95,7 @@
                             <div class="align-end content-wrap">
                                 <ul class="list-inline smd">
                                     <li>
-                                        <a class="socmed" target="_blank" href="">
+                                        <a class="socmed facebook" target="_blank" href="">
                                             <span class="fa-stack fa-lg">
                                                 <i class="fa fa-circle fa-stack-2x"></i>
                                                 <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
@@ -103,7 +103,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="socmed" target="_blank" href="">
+                                        <a class="socmed instagram" target="_blank" href="">
                                             <span class="fa-stack fa-lg">
                                                 <i class="fa fa-circle fa-stack-2x"></i>
                                                 <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
@@ -111,7 +111,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="socmed" target="_blank" href="">
+                                        <a class="socmed youtube" target="_blank" href="">
                                             <span class="fa-stack fa-lg">
                                                 <i class="fa fa-circle fa-stack-2x"></i>
                                                 <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
@@ -119,7 +119,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="socmed" target="_blank" href="">
+                                        <a class="socmed twitter" target="_blank" href="">
                                             <span class="fa-stack fa-lg">
                                                 <i class="fa fa-circle fa-stack-2x"></i>
                                                 <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>

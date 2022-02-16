@@ -2,8 +2,8 @@
     <div class="">
 
         <section class="box-network bottom-15">
-            <div class="label-to bottom-10 content-wrap align-center">
-                <h2>Catatan Harian</h2>
+            <div class="label-to bottom-0 content-wrap align-center">
+                <h2>Catatan Dahlan Iskan</h2>
             </div>
             <ul class="todo list-unstyled font-weight-bold">
                 <li>

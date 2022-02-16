@@ -22,7 +22,7 @@
                         <div class="">
                             <ul class="list-inline smd">
                                 <li>
-                                    <a class="socmed" target="_blank" href="">
+                                    <a class="socmed facebook" target="_blank" href="">
                                         <span class="fa-stack fa-lg">
                                             <i class="fa fa-circle fa-stack-2x"></i>
                                             <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
@@ -30,7 +30,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a class="socmed" target="_blank" href="">
+                                    <a class="socmed instagram" target="_blank" href="">
                                         <span class="fa-stack fa-lg">
                                             <i class="fa fa-circle fa-stack-2x"></i>
                                             <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
@@ -38,7 +38,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a class="socmed" target="_blank" href="">
+                                    <a class="socmed youtube" target="_blank" href="">
                                         <span class="fa-stack fa-lg">
                                             <i class="fa fa-circle fa-stack-2x"></i>
                                             <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
@@ -46,7 +46,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a class="socmed" target="_blank" href="">
+                                    <a class="socmed twitter" target="_blank" href="">
                                         <span class="fa-stack fa-lg">
                                             <i class="fa fa-circle fa-stack-2x"></i>
                                             <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
@@ -144,9 +144,9 @@
                         </div>
                         <div class="text-center">
                             <a href="network.php" class="btn btn-default btn-block btn-sm" role="button">Lihat Semua <i
-                                class="fa fa-chevron-right"></i></a>
+                                    class="fa fa-chevron-right"></i></a>
                         </div>
-                        
+
                     </div>
                 </div>
             </div>

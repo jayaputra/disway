@@ -150,6 +150,11 @@ a:hover {
     padding-right: 7.5px;
 }
 
+.red-color, 
+.red-color a {
+    color: #cc0000;
+}
+
 .btn-red {
     color: #fff;
     background-color: #c00;
@@ -582,7 +587,7 @@ a:hover {
 /*---------- Sosmed -----------*/
 
 a.socmed .fa-inverse {
-    color: #222;
+    color: #fff;
 }
 
 a:hover.socmed .fa-inverse {
@@ -591,6 +596,22 @@ a:hover.socmed .fa-inverse {
 
 .smd a {
     color: #d7d7d7;
+}
+
+.smd a.facebook {
+    color: #25d366;
+}
+
+.smd a.youtube {
+    color: #ff0000;
+}
+
+.smd a.instagram {
+    color: #cc2366;
+}
+
+.smd a.twitter {
+    color: #1DA1F2;
 }
 
 .smd a:hover {
@@ -639,10 +660,10 @@ a:hover.socmed .fa-inverse {
 }
 
 .label-to h2 {
-    text-transform: capitalize;
+    text-transform: uppercase;
     font-weight: 700;
-    font-size: 35px;
-    letter-spacing: .12rem;
+    font-size: 22px;
+    letter-spacing: 0;
 }
 
 .label-to p {
@@ -750,7 +771,7 @@ h4.media-heading,
 h2.media-heading {
     font-size: 24px;
     line-height: 1.3em;
-    font-weight: 500;
+    font-weight: 300;
     margin-bottom: 15px;
 }
 
@@ -820,6 +841,7 @@ h4.media-heading {
 }
 
 .media-content .date,
+.media-content .labelkanal,
 .box-middle.thumb-ito .thumbnail .caption p,
 .thumb-ito.vid-pic .thumbnail .caption p {
     /*float: left;*/
@@ -828,6 +850,11 @@ h4.media-heading {
     padding-bottom: 5px;
     font-size: 14px;
     font-weight: 400;
+}
+
+.media-content .labelkanal,
+.media-content .date {
+    font-weight: 300;
 }
 
 /*--------- Slide ----------*/
@@ -1160,8 +1187,26 @@ h4.media-heading {
 ul.todo {
     /* border: 1px solid #d7d7d7; */
     background-color: #fff;
+    margin-bottom: 10px;
 }
 
+.box-network {
+    background-color: #c00;
+    /* background: rgb(213, 76, 76);
+    background: linear-gradient(315deg, rgba(213, 76, 76, 1) 0%, rgba(141, 40, 40, 1) 100%); */
+    padding: 5px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+    border-radius: 7px;
+}
+
+.box-network .label-to {
+    color: #fff;
+}
+
+.box-network .todo li,
 .todo li {
     position: relative;
     /* border-bottom: 1px solid #d7d7d7; */
@@ -1173,10 +1218,16 @@ ul.todo {
     height: auto;
 }
 
+.box-network .todo li {
+    min-height: inherit;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
 /* .todo li:first-child {
     padding-top: 10px;
 } */
 
+.box-network .todo li a,
 .todo li a {
     padding-left: 40px;
     float: left;
@@ -1184,6 +1235,10 @@ ul.todo {
     color: #24416c;
     font-size: 22px;
     font-weight: 500;
+}
+
+.box-network .label-to h2 {
+    font-size: 22px;
 }
 
 .font-weight-bold {
@@ -1253,8 +1308,8 @@ section.box-middle {
 
 .thumb-ito .thumbnail h4 {
     font-size: 18px;
-    line-height: 1.5em;
-    margin-top: 0;
+    line-height: 1.3em;
+    font-weight: 300;
     margin-bottom: 10px;
 }
 
@@ -1873,21 +1928,7 @@ footer .network a {
     margin-bottom: 0
 }
 
-.box-network {
-    background-color: #c00;
-    /* background: rgb(213, 76, 76);
-    background: linear-gradient(315deg, rgba(213, 76, 76, 1) 0%, rgba(141, 40, 40, 1) 100%); */
-    padding: 10px;
-    -webkit-border-radius: 7px;
-    -moz-border-radius: 7px;
-    -ms-border-radius: 7px;
-    -o-border-radius: 7px;
-    border-radius: 7px;
-}
 
-.box-network .label-to {
-    color: #fff;
-}
 /* 
 .sidebar_area .thumbnail {
     padding: 0 0 10px 0;
@@ -1909,7 +1950,7 @@ footer .network a {
 
 .box-network .todo-number {
     background-color: #c00;
-    ;
+    margin-top: 5px;
 }
 
 .load-update {

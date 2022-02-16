@@ -102,12 +102,12 @@
                             <div class="bottom-15">
                                 <div class="media-body media-content media-middle">
                                     <h2 class="media-heading">
-                                        <a href="detail-artikel.php">PDAM Sidoarjo Butuh 90 Ribu Pelanggan Baru</a>
+                                        <a href="detail-artikel.php">Mekanisme SNMPTN ITB 2022: Terima Mahasiswa Bukan Berdasarkan Prodi</a>
                                     </h2>
                                     <div class="pull-left right-15">
-                                        <p><a href="kanal.php">
-                                                <span class="label label-default text-uppercase">Nasional</span>
-                                            </a></p>
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
                                     </div>
                                     <p class="date">10 menit lalu</p>
                                 </div>
@@ -122,13 +122,12 @@
                             <div class="bottom-15">
                                 <div class="media-body media-content media-middle">
                                     <h2 class="media-heading">
-                                        <a href="detail-artikel.php">Reni Astuti Tak Temukan Minyak Goreng
-                                            Bersubsidi</a>
+                                        <a href="detail-artikel.php">Kasus Covid-19 di Kota Kediri Meningkat, Ruang Isolasi RS hingga Tempat Isoter Mulai Terisi</a>
                                     </h2>
                                     <div class="pull-left right-15">
-                                        <p><a href="kanal.php">
-                                                <span class="label label-default text-uppercase">Nasional</span>
-                                            </a></p>
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
                                     </div>
                                     <p class="date">15 menit lalu</p>
                                 </div>
@@ -335,8 +334,7 @@
                                 </a>
                             </div>
                             <div class="caption">
-                                <h4><a href="detail-artikel.php">Merawat PAN Agar Tetap di Jalan Tengah ala Bang Zulhas -
-                                        Energi Disway Podcast #60</a></h4>
+                                <h4><a href="detail-artikel.php">Kasus Covid-19 di Kota Kediri Meningkat, Ruang Isolasi RS hingga Tempat Isoter Mulai Terisi</a></h4>
 
                             </div>
                         </div>
@@ -909,8 +907,8 @@
                                 </div>
                             </div>
 
-                            <div class="bottom-30">
-                                <a href="indeks-page.php" class="btn btn-red btn-lg btn-block" role="button">Indeks</a>
+                            <div class="bottom-30 text-center">
+                                <h3><a href="indeks-page.php" class="red-color">Indeks</a></h3>
                             </div>
                         </section>
                     </div>
