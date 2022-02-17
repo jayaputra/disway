@@ -104,6 +104,10 @@ a:hover {
     justify-content: space-between !important;
 }
 
+.justify-content-center {
+    justify-content: center!important;
+}
+
 .align-start {
     justify-content: flex-start;
 }
@@ -732,6 +736,9 @@ a:hover.socmed .fa-inverse {
 
 .gambarkecil {
     width: 100%;
+    height: 150px;
+    object-fit: cover;
+    object-position: top center;
 }
 
 .img-link {
@@ -775,11 +782,6 @@ h2.media-heading {
     margin-bottom: 15px;
 }
 
-h4.media-heading {
-    font-size: 18px;
-    margin-bottom: 10px;
-}
-
 .media-heading a {
     color: #24416c;
 }
@@ -793,7 +795,7 @@ h4.media-heading {
 }
 
 .thumb-post {
-    width: 300px;
+    width: 150px;
     position: relative;
 }
 
@@ -810,11 +812,11 @@ h4.media-heading {
 }
 
 .thumb-post img {
-    width: 300px;
+    width: 180px;
 }
 
 .pilihan .thumb-post img {
-    width: 120px;
+    width: 110px;
 }
 
 .thumb-post.category-thumb img {
@@ -825,7 +827,7 @@ h4.media-heading {
 .frame-thumb {
     float: left;
     width: 100%;
-    height: 190px;
+    height: 150px;
     /* height: 100%; */
     position: relative;
     overflow: hidden;
@@ -1070,15 +1072,17 @@ h4.media-heading {
     overflow: hidden;
 }
 
-#sync2 .current {
-    background-color: #222;
+#sync2 .current .caption {
+    background-color: #24416c;
     width: 100%;
-    height: 100%;
     color:#fff;
 }
 
 #sync2 .caption {
     padding: 1rem;
+    background-color: #222;
+    height: 100px;
+    color: #fff;
 }
 
 .slide-foto .caption{
@@ -1181,29 +1185,31 @@ h4.media-heading {
 }
 
 .box-network ul.todo {
-    padding: 10px 15px;
+    
 }
 
 ul.todo {
     /* border: 1px solid #d7d7d7; */
-    background-color: #fff;
-    margin-bottom: 10px;
+    background-color: #f2f2f2;
+    padding: 5px 10px 0;
+    margin-bottom: 0;
 }
 
 .box-network {
     background-color: #c00;
     /* background: rgb(213, 76, 76);
     background: linear-gradient(315deg, rgba(213, 76, 76, 1) 0%, rgba(141, 40, 40, 1) 100%); */
-    padding: 5px;
-    -webkit-border-radius: 7px;
+    padding: 1px;
+    /* -webkit-border-radius: 7px;
     -moz-border-radius: 7px;
     -ms-border-radius: 7px;
     -o-border-radius: 7px;
-    border-radius: 7px;
+    border-radius: 7px; */
 }
 
 .box-network .label-to {
     color: #fff;
+    padding: 10px 0;
 }
 
 .box-network .todo li,
@@ -1212,17 +1218,11 @@ ul.todo {
     /* border-bottom: 1px solid #d7d7d7; */
     clear: both;
     display: inline-block;
-    padding: 10px 0 10px 0;
+    padding: 5px 0;
     width: 100%;
-    min-height: 50px;
     height: auto;
 }
 
-.box-network .todo li {
-    min-height: inherit;
-    padding-top: 5px;
-    padding-bottom: 5px;
-}
 /* .todo li:first-child {
     padding-top: 10px;
 } */
@@ -1233,8 +1233,10 @@ ul.todo {
     float: left;
     overflow: hidden;
     color: #24416c;
-    font-size: 22px;
-    font-weight: 500;
+    font-size: 24px;
+    line-height: 1.3em;
+    font-weight: 300;
+    margin-bottom: 0;
 }
 
 .box-network .label-to h2 {
@@ -1258,7 +1260,7 @@ ul.todo {
     color: #fff;
     left: 0;
     top: 0;
-    margin-top: 10px;
+    margin-top: 5px;
     line-height: 30px;
     -webkit-border-radius: 10%;
     -moz-border-radius: 10%;
@@ -1296,17 +1298,18 @@ section.box-middle {
     background-color: #fff;
 }
 
-.box-middle.thumb-ito .thumbnail a {
+.box-middle.thumb-ito .thumbnail h4 a {
     color: #24416c;
 }
 
 /*--------- Thumbnail -----------*/
 
-.thumb-ito .thumbnail a {
-    color: black;
-}
+/* .thumb-ito .thumbnail a {
+    color: #24416c;
+} */
 
-.thumb-ito .thumbnail h4 {
+.thumb-ito .thumbnail h4,
+h4.media-heading {
     font-size: 18px;
     line-height: 1.3em;
     font-weight: 300;
@@ -1744,15 +1747,22 @@ news-tags {
 .box-video {
     position: relative;
     background: #222;
-    height: 180px;
+    height: 253px;
     overflow: hidden;
+}
+
+.box-video .boxthumb{
+    width: 100%;
+    height: 253px;
+    object-fit: cover;
+    object-position: top center;
 }
 
 .thumbnail .box-video a>img {
     opacity: 0.87;
     object-fit: cover;
     object-position: top center;
-    height: 180px;
+    height: 253px;
 }
 
 .box-video-icon {
@@ -1950,7 +1960,6 @@ footer .network a {
 
 .box-network .todo-number {
     background-color: #c00;
-    margin-top: 5px;
 }
 
 .load-update {

@@ -41,7 +41,7 @@
                             <h3>Hasil Pencarian:</h3>
                         </div>
                         <div class="text-black">
-                            <h3><strong>"Pelanggan baru"</strong></h3>
+                            <h3>"Pelanggan baru"</h3>
                         </div>
                         <div class="clearfix"></div>
                     </div>
@@ -50,12 +50,13 @@
                         <div class="bottom-15">
                             <div class="media-body media-content media-middle">
                                 <h2 class="media-heading">
-                                    <a href="detail-artikel.php">PDAM Sidoarjo Butuh 90 Ribu Pelanggan Baru</a>
+                                    <a href="detail-artikel.php">Mekanisme SNMPTN ITB 2022: Terima Mahasiswa Bukan
+                                        Berdasarkan Prodi</a>
                                 </h2>
                                 <div class="pull-left right-15">
-                                    <p><a href="kanal.php">
-                                            <span class="label label-default text-uppercase">Nasional</span>
-                                        </a></p>
+                                    <p class="text-uppercase red-color labelkanal">
+                                        <a href="kanal.php"><span>Nasional</span></a>
+                                    </p>
                                 </div>
                                 <p class="date">10 menit lalu</p>
                             </div>

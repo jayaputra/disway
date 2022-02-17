@@ -161,12 +161,14 @@
                                 <div class="bottom-15">
                                     <div class="media-body media-content media-middle">
                                         <h2 class="media-heading">
-                                            <a href="detail-artikel.php">PDAM Sidoarjo Butuh 90 Ribu Pelanggan Baru</a>
+                                            <a href="detail-artikel.php">Mekanisme SNMPTN ITB 2022: Terima Mahasiswa
+                                                Bukan
+                                                Berdasarkan Prodi</a>
                                         </h2>
                                         <div class="pull-left right-15">
-                                            <p><a href="kanal.php">
-                                                    <span class="label label-default text-uppercase">Nasional</span>
-                                                </a></p>
+                                            <p class="text-uppercase red-color labelkanal">
+                                                <a href="kanal.php"><span>Nasional</span></a>
+                                            </p>
                                         </div>
                                         <p class="date">10 menit lalu</p>
                                     </div>
@@ -181,17 +183,17 @@
                                 <div class="bottom-15">
                                     <div class="media-body media-content media-middle">
                                         <h2 class="media-heading">
-                                            <a href="detail-artikel.php">Reni Astuti Tak Temukan Minyak Goreng
-                                                Bersubsidi</a>
+                                            <a href="detail-artikel.php">Kasus Covid-19 di Kota Kediri Meningkat, Ruang
+                                                Isolasi RS hingga Tempat Isoter Mulai Terisi</a>
                                         </h2>
                                         <div class="pull-left right-15">
-                                            <p><a href="kanal.php">
-                                                    <span class="label label-default text-uppercase">Nasional</span>
-                                                </a></p>
+                                            <p class="text-uppercase red-color labelkanal">
+                                                <a href="kanal.php"><span>Nasional</span></a>
+                                            </p>
                                         </div>
                                         <p class="date">15 menit lalu</p>
                                     </div>
-                                    <div class="media-right thumb-post">
+                                    <div class="media-right thumb-post media-middle">
                                         <div class="frame-thumb">
                                             <img class="media-object gambarkecil" src="img/foto2.jpg" alt="">
                                             <a href="detail-artikel.php" title="" class="img-link"></a>
@@ -205,9 +207,9 @@
                                             <a href="detail-artikel.php">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                                         </h2>
                                         <div class="pull-left right-15">
-                                            <p><a href="kanal.php">
-                                                    <span class="label label-default text-uppercase">Nasional</span>
-                                                </a></p>
+                                            <p class="text-uppercase red-color labelkanal">
+                                                <a href="kanal.php"><span>Nasional</span></a>
+                                            </p>
                                         </div>
                                         <p class="date">30 menit lalu</p>
                                     </div>
@@ -225,9 +227,9 @@
                                             <a href="detail-artikel.php">Wadas Batu Cadas, Dimasuki Politik Juga</a>
                                         </h2>
                                         <div class="pull-left right-15">
-                                            <p><a href="kanal.php">
-                                                    <span class="label label-default text-uppercase">Nasional</span>
-                                                </a></p>
+                                            <p class="text-uppercase red-color labelkanal">
+                                                <a href="kanal.php"><span>Nasional</span></a>
+                                            </p>
                                         </div>
                                         <p class="date">1 jam lalu</p>
                                     </div>
@@ -246,9 +248,9 @@
                                                 Dilantik</a>
                                         </h2>
                                         <div class="pull-left right-15">
-                                            <p><a href="kanal.php">
-                                                    <span class="label label-default text-uppercase">Nasional</span>
-                                                </a></p>
+                                            <p class="text-uppercase red-color labelkanal">
+                                                <a href="kanal.php"><span>Nasional</span></a>
+                                            </p>
                                         </div>
                                         <p class="date">1 jam lalu</p>
                                     </div>
@@ -277,6 +279,250 @@
                     </section>
                 </div>
             </div>
+
+        </div>
+
+        <div class="visible-xs hidden-lg hidden-md hidden-sm">
+
+            <section class="bottom-15">
+                <div class="label-to bottom-10">
+                    <h2>Terkini</h2>
+                </div>
+                <ul class="list-unstyled">
+                    <li>
+                        <div class="media pilihan bottom-15">
+                            <div class="media-left thumb-post">
+                                <div class="frame-thumb">
+                                    <img class="media-object" src="img/foto3.jpg" alt="">
+                                    <a href="detail-artikel.php" title="" class="img-link"></a>
+                                </div>
+                            </div>
+                            <div class="media-body media-content">
+                                <h4 class="media-heading">
+                                    <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
+                                </h4>
+                                <p class="text-uppercase red-color labelkanal">
+                                    <a href="kanal.php"><span>Nasional</span></a>
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="media pilihan bottom-15">
+                            <div class="media-left thumb-post">
+                                <div class="frame-thumb">
+                                    <img class="media-object" src="img/foto4.jpg" alt="">
+                                    <a href="detail-artikel.php" title="" class="img-link"></a>
+                                </div>
+                            </div>
+                            <div class="media-body media-content">
+                                <h4 class="media-heading">
+                                    <a href="">Wadas Batu Cadas, Dimasuki Politik Juga</a>
+                                </h4>
+                                <p class="text-uppercase red-color labelkanal">
+                                    <a href="kanal.php"><span>Nasional</span></a>
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="media pilihan bottom-15">
+                            <div class="media-left thumb-post">
+                                <div class="frame-thumb">
+                                    <img class="media-object" src="img/foto5.jpg" alt="">
+                                    <a href="detail-artikel.php" title="" class="img-link"></a>
+                                </div>
+                            </div>
+                            <div class="media-body media-content">
+                                <h4 class="media-heading">
+                                    <a href="">Wakil Ketua Diperiksa KPK, Ketua PN Dilantik</a>
+                                </h4>
+                                <p class="text-uppercase red-color labelkanal">
+                                    <a href="kanal.php"><span>Nasional</span></a>
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="media pilihan bottom-15">
+                            <div class="media-left thumb-post">
+                                <div class="frame-thumb">
+                                    <img class="media-object" src="img/foto3.jpg" alt="">
+                                    <a href="detail-artikel.php" title="" class="img-link"></a>
+                                </div>
+                            </div>
+                            <div class="media-body media-content">
+                                <h4 class="media-heading">
+                                    <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
+                                </h4>
+                                <p class="text-uppercase red-color labelkanal">
+                                    <a href="kanal.php"><span>Nasional</span></a>
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="media pilihan bottom-15">
+                            <div class="media-left thumb-post">
+                                <div class="frame-thumb">
+                                    <img class="media-object" src="img/foto3.jpg" alt="">
+                                    <a href="detail-artikel.php" title="" class="img-link"></a>
+                                </div>
+                            </div>
+                            <div class="media-body media-content">
+                                <h4 class="media-heading">
+                                    <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
+                                </h4>
+                                <p class="text-uppercase red-color labelkanal">
+                                    <a href="kanal.php"><span>Nasional</span></a>
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </section>
+
+            <!------ Banner ------>
+            <div
+                style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                <a href=""><img src="img/banner-r.jpg" /></a>
+            </div>
+            <!------ End Banner ------>
+
+            <section class="grid bottom-15">
+                <div class="label-to bottom-10">
+                    <h2>Terpopuler</h2>
+                </div>
+                <ul class="todo list-unstyled">
+                    <li>
+                        <a href="detail-artikel.php"><span class="todo-number">1</span>Doa Wadas</a>
+                    </li>
+                    <li>
+                        <a href="detail-artikel.php"><span class="todo-number">2</span>Protes Omicron</a>
+                    </li>
+                    <li>
+                        <a href="detail-artikel.php"><span class="todo-number">3</span>Merah Putih</a>
+                    </li>
+                    <li>
+                        <a href="detail-artikel.php"><span class="todo-number">4</span>Ulang Pantun</a>
+                    </li>
+                    <li>
+                        <a href="detail-artikel.php"><span class="todo-number">5</span>Pancingan Aceh Istanbul</a>
+                    </li>
+                </ul>
+            </section>
+
+            <!------ Banner ------>
+            <div
+                style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                <a href=""><img src="img/banner-r.jpg" /></a>
+            </div>
+            <!------ End Banner ------>
+
+            <section class="bottom-15">
+                <div class="label-to bottom-10">
+                    <h2>Pilihan</h2>
+                </div>
+                <ul class="list-unstyled">
+                    <li>
+                        <div class="media pilihan bottom-15">
+                            <div class="media-left thumb-post">
+                                <div class="frame-thumb">
+                                    <img class="media-object" src="img/foto3.jpg" alt="">
+                                    <a href="detail-artikel.php" title="" class="img-link"></a>
+                                </div>
+                            </div>
+                            <div class="media-body media-content">
+                                <h4 class="media-heading">
+                                    <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
+                                </h4>
+                                <p class="text-uppercase red-color labelkanal">
+                                    <a href="kanal.php"><span>Nasional</span></a>
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="media pilihan bottom-15">
+                            <div class="media-left thumb-post">
+                                <div class="frame-thumb">
+                                    <img class="media-object" src="img/foto4.jpg" alt="">
+                                    <a href="detail-artikel.php" title="" class="img-link"></a>
+                                </div>
+                            </div>
+                            <div class="media-body media-content">
+                                <h4 class="media-heading">
+                                    <a href="">Wadas Batu Cadas, Dimasuki Politik Juga</a>
+                                </h4>
+                                <p class="text-uppercase red-color labelkanal">
+                                    <a href="kanal.php"><span>Nasional</span></a>
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="media pilihan bottom-15">
+                            <div class="media-left thumb-post">
+                                <div class="frame-thumb">
+                                    <img class="media-object" src="img/foto5.jpg" alt="">
+                                    <a href="detail-artikel.php" title="" class="img-link"></a>
+                                </div>
+                            </div>
+                            <div class="media-body media-content">
+                                <h4 class="media-heading">
+                                    <a href="">Wakil Ketua Diperiksa KPK, Ketua PN Dilantik</a>
+                                </h4>
+                                <p class="text-uppercase red-color labelkanal">
+                                    <a href="kanal.php"><span>Nasional</span></a>
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="media pilihan bottom-15">
+                            <div class="media-left thumb-post">
+                                <div class="frame-thumb">
+                                    <img class="media-object" src="img/foto3.jpg" alt="">
+                                    <a href="detail-artikel.php" title="" class="img-link"></a>
+                                </div>
+                            </div>
+                            <div class="media-body media-content">
+                                <h4 class="media-heading">
+                                    <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
+                                </h4>
+                                <p class="text-uppercase red-color labelkanal">
+                                    <a href="kanal.php"><span>Nasional</span></a>
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="media pilihan bottom-15">
+                            <div class="media-left thumb-post">
+                                <div class="frame-thumb">
+                                    <img class="media-object" src="img/foto3.jpg" alt="">
+                                    <a href="detail-artikel.php" title="" class="img-link"></a>
+                                </div>
+                            </div>
+                            <div class="media-body media-content">
+                                <h4 class="media-heading">
+                                    <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
+                                </h4>
+                                <p class="text-uppercase red-color labelkanal">
+                                    <a href="kanal.php"><span>Nasional</span></a>
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </section>
+
+            <!------ Banner ------>
+            <div
+                style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                <a href=""><img src="img/banner-r.jpg" /></a>
+            </div>
+            <!------ End Banner ------>
 
         </div>
 

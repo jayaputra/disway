@@ -2,7 +2,8 @@
     <div class="">
 
         <section class="box-network bottom-15">
-            <div class="label-to bottom-0 content-wrap align-center">
+            <div class="label-to bottom-0 content-wrap align-center justify-content-center">
+                <img src="img/logo-disway-head.png" class="pull-left right-15" >
                 <h2>Catatan Dahlan Iskan</h2>
             </div>
             <ul class="todo list-unstyled font-weight-bold">
@@ -43,7 +44,8 @@
                     <a href="detail-artikel.php"><span class="todo-number">2</span>Protes Omicron</a>
                 </li>
                 <li>
-                    <a href="detail-artikel.php"><span class="todo-number">3</span>Merah Putih</a>
+                    <a href="detail-artikel.php"><span class="todo-number">3</span>Kasus Covid-19 di Kota Kediri Meningkat, Ruang
+                                            Isolasi RS hingga Tempat Isoter Mulai Terisi</a>
                 </li>
                 <li>
                     <a href="detail-artikel.php"><span class="todo-number">4</span>Ulang Pantun</a>

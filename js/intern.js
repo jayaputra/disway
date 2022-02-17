@@ -84,10 +84,22 @@ $(document).ready(function () {
         slideSpeed: 17000,
         nav: false,
         autoplay: true,
-        dots: false,
+        dots: true,
         loop: true,
         autoHeight: true,
         responsiveRefreshRate: 200,
+        responsive: {
+
+            600: {
+                dots: true,
+            },
+            1000: {
+                dots: false,
+            },
+            1200: {
+                dots: false,
+            }
+        },
         navText: ['<i class="fa fa-angle-left "></i>', '<i class="fa fa-angle-right"></i>'],
     }).on('changed.owl.carousel', syncPosition);
 
@@ -96,7 +108,7 @@ $(document).ready(function () {
             sync2.find(".owl-item").eq(0).addClass("current");
         })
         .owlCarousel({
-            margin: 10,
+            margin: 0,
             dots: false,
             nav: true,
             smartSpeed: 200,

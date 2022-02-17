@@ -70,8 +70,9 @@
 
                     <div class="visible-xs hidden-lg hidden-md hidden-sm">
                         <section class="box-network bottom-15">
-                            <div class="label-to bottom-10 content-wrap align-center">
-                                <h2>Catatan Harian</h2>
+                            <div class="label-to bottom-0 content-wrap align-center justify-content-center">
+                                <img src="img/logo-disway-head.png" class="pull-left right-15">
+                                <h2>Catatan Dahlan Iskan</h2>
                             </div>
                             <ul class="todo list-unstyled font-weight-bold">
                                 <li>
@@ -102,7 +103,8 @@
                             <div class="bottom-15">
                                 <div class="media-body media-content media-middle">
                                     <h2 class="media-heading">
-                                        <a href="detail-artikel.php">Mekanisme SNMPTN ITB 2022: Terima Mahasiswa Bukan Berdasarkan Prodi</a>
+                                        <a href="detail-artikel.php">Mekanisme SNMPTN ITB 2022: Terima Mahasiswa Bukan
+                                            Berdasarkan Prodi</a>
                                     </h2>
                                     <div class="pull-left right-15">
                                         <p class="text-uppercase red-color labelkanal">
@@ -122,7 +124,8 @@
                             <div class="bottom-15">
                                 <div class="media-body media-content media-middle">
                                     <h2 class="media-heading">
-                                        <a href="detail-artikel.php">Kasus Covid-19 di Kota Kediri Meningkat, Ruang Isolasi RS hingga Tempat Isoter Mulai Terisi</a>
+                                        <a href="detail-artikel.php">Kasus Covid-19 di Kota Kediri Meningkat, Ruang
+                                            Isolasi RS hingga Tempat Isoter Mulai Terisi</a>
                                     </h2>
                                     <div class="pull-left right-15">
                                         <p class="text-uppercase red-color labelkanal">
@@ -145,9 +148,9 @@
                                         <a href="detail-artikel.php">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                                     </h2>
                                     <div class="pull-left right-15">
-                                        <p><a href="kanal.php">
-                                                <span class="label label-default text-uppercase">Nasional</span>
-                                            </a></p>
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
                                     </div>
                                     <p class="date">30 menit lalu</p>
                                 </div>
@@ -165,9 +168,9 @@
                                         <a href="detail-artikel.php">Wadas Batu Cadas, Dimasuki Politik Juga</a>
                                     </h2>
                                     <div class="pull-left right-15">
-                                        <p><a href="kanal.php">
-                                                <span class="label label-default text-uppercase">Nasional</span>
-                                            </a></p>
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
                                     </div>
                                     <p class="date">1 jam lalu</p>
                                 </div>
@@ -185,9 +188,9 @@
                                         <a href="detail-artikel.php">Wakil Ketua Diperiksa KPK, Ketua PN Dilantik</a>
                                     </h2>
                                     <div class="pull-left right-15">
-                                        <p><a href="kanal.php">
-                                                <span class="label label-default text-uppercase">Nasional</span>
-                                            </a></p>
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
                                     </div>
                                     <p class="date">1 jam lalu</p>
                                 </div>
@@ -213,9 +216,9 @@
                                         <a href="detail-artikel.php">PDAM Sidoarjo Butuh 90 Ribu Pelanggan Baru</a>
                                     </h2>
                                     <div class="pull-left right-15">
-                                        <p><a href="kanal.php">
-                                                <span class="label label-default text-uppercase">Nasional</span>
-                                            </a></p>
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
                                     </div>
                                     <p class="date">10 menit lalu</p>
                                 </div>
@@ -234,9 +237,9 @@
                                             Bersubsidi</a>
                                     </h2>
                                     <div class="pull-left right-15">
-                                        <p><a href="kanal.php">
-                                                <span class="label label-default text-uppercase">Nasional</span>
-                                            </a></p>
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
                                     </div>
                                     <p class="date">15 menit lalu</p>
                                 </div>
@@ -254,9 +257,9 @@
                                         <a href="detail-artikel.php">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                                     </h2>
                                     <div class="pull-left right-15">
-                                        <p><a href="kanal.php">
-                                                <span class="label label-default text-uppercase">Nasional</span>
-                                            </a></p>
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
                                     </div>
                                     <p class="date">30 menit lalu</p>
                                 </div>
@@ -274,9 +277,9 @@
                                         <a href="detail-artikel.php">Wadas Batu Cadas, Dimasuki Politik Juga</a>
                                     </h2>
                                     <div class="pull-left right-15">
-                                        <p><a href="kanal.php">
-                                                <span class="label label-default text-uppercase">Nasional</span>
-                                            </a></p>
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
                                     </div>
                                     <p class="date">1 jam lalu</p>
                                 </div>
@@ -294,9 +297,9 @@
                                         <a href="detail-artikel.php">Wakil Ketua Diperiksa KPK, Ketua PN Dilantik</a>
                                     </h2>
                                     <div class="pull-left right-15">
-                                        <p><a href="kanal.php">
-                                                <span class="label label-default text-uppercase">Nasional</span>
-                                            </a></p>
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
                                     </div>
                                     <p class="date">1 jam lalu</p>
                                 </div>
@@ -334,7 +337,8 @@
                                 </a>
                             </div>
                             <div class="caption">
-                                <h4><a href="detail-artikel.php">Kasus Covid-19 di Kota Kediri Meningkat, Ruang Isolasi RS hingga Tempat Isoter Mulai Terisi</a></h4>
+                                <h4><a href="detail-artikel.php">Kasus Covid-19 di Kota Kediri Meningkat, Ruang Isolasi
+                                        RS hingga Tempat Isoter Mulai Terisi</a></h4>
 
                             </div>
                         </div>
@@ -410,9 +414,9 @@
                                         <a href="detail-artikel.php">PDAM Sidoarjo Butuh 90 Ribu Pelanggan Baru</a>
                                     </h2>
                                     <div class="pull-left right-15">
-                                        <p><a href="kanal.php">
-                                                <span class="label label-default text-uppercase">Nasional</span>
-                                            </a></p>
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
                                     </div>
                                     <p class="date">10 menit lalu</p>
                                 </div>
@@ -431,9 +435,9 @@
                                             Bersubsidi</a>
                                     </h2>
                                     <div class="pull-left right-15">
-                                        <p><a href="kanal.php">
-                                                <span class="label label-default text-uppercase">Nasional</span>
-                                            </a></p>
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
                                     </div>
                                     <p class="date">15 menit lalu</p>
                                 </div>
@@ -451,9 +455,9 @@
                                         <a href="detail-artikel.php">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                                     </h2>
                                     <div class="pull-left right-15">
-                                        <p><a href="kanal.php">
-                                                <span class="label label-default text-uppercase">Nasional</span>
-                                            </a></p>
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
                                     </div>
                                     <p class="date">30 menit lalu</p>
                                 </div>
@@ -471,9 +475,9 @@
                                         <a href="detail-artikel.php">Wadas Batu Cadas, Dimasuki Politik Juga</a>
                                     </h2>
                                     <div class="pull-left right-15">
-                                        <p><a href="kanal.php">
-                                                <span class="label label-default text-uppercase">Nasional</span>
-                                            </a></p>
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
                                     </div>
                                     <p class="date">1 jam lalu</p>
                                 </div>
@@ -491,9 +495,9 @@
                                         <a href="detail-artikel.php">Wakil Ketua Diperiksa KPK, Ketua PN Dilantik</a>
                                     </h2>
                                     <div class="pull-left right-15">
-                                        <p><a href="kanal.php">
-                                                <span class="label label-default text-uppercase">Nasional</span>
-                                            </a></p>
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
                                     </div>
                                     <p class="date">1 jam lalu</p>
                                 </div>
@@ -537,7 +541,8 @@
                                 </a>
                             </div>
                             <div class="caption">
-                                <h4><a href="detail-artikel.php">Merawat PAN Agar Tetap di Jalan Tengah ala Bang Zulhas -
+                                <h4><a href="detail-artikel.php">Merawat PAN Agar Tetap di Jalan Tengah ala Bang Zulhas
+                                        -
                                         Energi Disway Podcast #60</a></h4>
                             </div>
                         </div>
@@ -613,9 +618,9 @@
                                         <a href="detail-artikel.php">PDAM Sidoarjo Butuh 90 Ribu Pelanggan Baru</a>
                                     </h2>
                                     <div class="pull-left right-15">
-                                        <p><a href="kanal.php">
-                                                <span class="label label-default text-uppercase">Nasional</span>
-                                            </a></p>
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
                                     </div>
                                     <p class="date">10 menit lalu</p>
                                 </div>
@@ -634,9 +639,9 @@
                                             Bersubsidi</a>
                                     </h2>
                                     <div class="pull-left right-15">
-                                        <p><a href="kanal.php">
-                                                <span class="label label-default text-uppercase">Nasional</span>
-                                            </a></p>
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
                                     </div>
                                     <p class="date">15 menit lalu</p>
                                 </div>
@@ -654,9 +659,9 @@
                                         <a href="detail-artikel.php">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                                     </h2>
                                     <div class="pull-left right-15">
-                                        <p><a href="kanal.php">
-                                                <span class="label label-default text-uppercase">Nasional</span>
-                                            </a></p>
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
                                     </div>
                                     <p class="date">30 menit lalu</p>
                                 </div>
@@ -674,9 +679,9 @@
                                         <a href="detail-artikel.php">Wadas Batu Cadas, Dimasuki Politik Juga</a>
                                     </h2>
                                     <div class="pull-left right-15">
-                                        <p><a href="kanal.php">
-                                                <span class="label label-default text-uppercase">Nasional</span>
-                                            </a></p>
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
                                     </div>
                                     <p class="date">1 jam lalu</p>
                                 </div>
@@ -694,9 +699,9 @@
                                         <a href="detail-artikel.php">Wakil Ketua Diperiksa KPK, Ketua PN Dilantik</a>
                                     </h2>
                                     <div class="pull-left right-15">
-                                        <p><a href="kanal.php">
-                                                <span class="label label-default text-uppercase">Nasional</span>
-                                            </a></p>
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
                                     </div>
                                     <p class="date">1 jam lalu</p>
                                 </div>
@@ -733,57 +738,57 @@
                         <div class="thumbnail">
                             <div class="box-video">
                                 <a href="detail-artikel.php">
-                                    <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                    <img class="img-responsive boxthumb" src="img/foto2.jpg" alt="">
                                 </a>
                             </div>
                             <div class="caption">
                                 <h4><a href="detail-artikel.php">Apple Uji Coba Fitur Face ID dengan Masker untuk Update
                                         iOS Terbaru</a></h4>
-                                <p><a href="kanal.php">
-                                        <span class="label label-default text-uppercase">Nasional</span>
-                                    </a></p>
+                                <p class="text-uppercase red-color labelkanal">
+                                    <a href="kanal.php"><span>Nasional</span></a>
+                                </p>
                             </div>
                         </div>
                     </div>
                     <div class="item">
                         <div class="thumbnail">
                             <div class="box-video">
-                                <img class="img-responsive" src="img/foto4.jpg" alt="">
+                                <img class="img-responsive boxthumb" src="img/foto4.jpg" alt="">
                             </div>
                             <div class="caption">
                                 <h4><a href="detail-artikel.php">Warner Music Group Rilis Tempat Konser di Metaverse The
                                         Sandbox</a></h4>
-                                <p><a href="kanal.php">
-                                        <span class="label label-default text-uppercase">Nasional</span>
-                                    </a></p>
+                                <p class="text-uppercase red-color labelkanal">
+                                    <a href="kanal.php"><span>Nasional</span></a>
+                                </p>
                             </div>
                         </div>
                     </div>
                     <div class="item">
                         <div class="thumbnail">
                             <div class="box-video">
-                                <img class="img-responsive" src="img/foto1.jpg" alt="">
+                                <img class="img-responsive boxthumb" src="img/foto1.jpg" alt="">
                             </div>
                             <div class="caption">
                                 <h4><a href="detail-artikel.php">Chris Martin Ungkap Album Terakhir Coldplay Akan
                                         Berbentuk Film Musikal</a></h4>
-                                <p><a href="kanal.php">
-                                        <span class="label label-default text-uppercase">Nasional</span>
-                                    </a></p>
+                                <p class="text-uppercase red-color labelkanal">
+                                    <a href="kanal.php"><span>Nasional</span></a>
+                                </p>
                             </div>
                         </div>
                     </div>
                     <div class="item">
                         <div class="thumbnail">
                             <div class="box-video">
-                                <img class="img-responsive" src="img/foto4.jpg" alt="">
+                                <img class="img-responsive boxthumb" src="img/foto4.jpg" alt="">
                             </div>
                             <div class="caption">
                                 <h4><a href="detail-artikel.php">WhatsApp Bakal Permudah User Kirim Foto dan Video
                                         Lawas</a></h4>
-                                <p><a href="kanal.php">
-                                        <span class="label label-default text-uppercase">Nasional</span>
-                                    </a></p>
+                                <p class="text-uppercase red-color labelkanal">
+                                    <a href="kanal.php"><span>Nasional</span></a>
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -812,9 +817,9 @@
                                         <a href="detail-artikel.php">PDAM Sidoarjo Butuh 90 Ribu Pelanggan Baru</a>
                                     </h2>
                                     <div class="pull-left right-15">
-                                        <p><a href="kanal.php">
-                                                <span class="label label-default text-uppercase">Nasional</span>
-                                            </a></p>
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
                                     </div>
                                     <p class="date">10 menit lalu</p>
                                 </div>
@@ -833,9 +838,9 @@
                                             Bersubsidi</a>
                                     </h2>
                                     <div class="pull-left right-15">
-                                        <p><a href="kanal.php">
-                                                <span class="label label-default text-uppercase">Nasional</span>
-                                            </a></p>
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
                                     </div>
                                     <p class="date">15 menit lalu</p>
                                 </div>
@@ -853,9 +858,9 @@
                                         <a href="detail-artikel.php">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                                     </h2>
                                     <div class="pull-left right-15">
-                                        <p><a href="kanal.php">
-                                                <span class="label label-default text-uppercase">Nasional</span>
-                                            </a></p>
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
                                     </div>
                                     <p class="date">30 menit lalu</p>
                                 </div>
@@ -873,9 +878,9 @@
                                         <a href="detail-artikel.php">Wadas Batu Cadas, Dimasuki Politik Juga</a>
                                     </h2>
                                     <div class="pull-left right-15">
-                                        <p><a href="kanal.php">
-                                                <span class="label label-default text-uppercase">Nasional</span>
-                                            </a></p>
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
                                     </div>
                                     <p class="date">1 jam lalu</p>
                                 </div>
@@ -893,9 +898,9 @@
                                         <a href="detail-artikel.php">Wakil Ketua Diperiksa KPK, Ketua PN Dilantik</a>
                                     </h2>
                                     <div class="pull-left right-15">
-                                        <p><a href="kanal.php">
-                                                <span class="label label-default text-uppercase">Nasional</span>
-                                            </a></p>
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
                                     </div>
                                     <p class="date">1 jam lalu</p>
                                 </div>
