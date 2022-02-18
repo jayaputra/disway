@@ -19,8 +19,8 @@
                                 <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                             </h4>
                             <p class="text-uppercase red-color labelkanal">
-                                    <a href="kanal.php"><span>Nasional</span></a>
-                                </p>
+                                <a href="kanal.php"><span>Nasional</span></a>
+                            </p>
                         </div>
                     </div>
                 </li>
@@ -37,8 +37,8 @@
                                 <a href="">Wadas Batu Cadas, Dimasuki Politik Juga</a>
                             </h4>
                             <p class="text-uppercase red-color labelkanal">
-                                    <a href="kanal.php"><span>Nasional</span></a>
-                                </p>
+                                <a href="kanal.php"><span>Nasional</span></a>
+                            </p>
                         </div>
                     </div>
                 </li>
@@ -55,8 +55,8 @@
                                 <a href="">Wakil Ketua Diperiksa KPK, Ketua PN Dilantik</a>
                             </h4>
                             <p class="text-uppercase red-color labelkanal">
-                                    <a href="kanal.php"><span>Nasional</span></a>
-                                </p>
+                                <a href="kanal.php"><span>Nasional</span></a>
+                            </p>
                         </div>
                     </div>
                 </li>
@@ -73,8 +73,8 @@
                                 <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                             </h4>
                             <p class="text-uppercase red-color labelkanal">
-                                    <a href="kanal.php"><span>Nasional</span></a>
-                                </p>
+                                <a href="kanal.php"><span>Nasional</span></a>
+                            </p>
                         </div>
                     </div>
                 </li>
@@ -91,8 +91,8 @@
                                 <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                             </h4>
                             <p class="text-uppercase red-color labelkanal">
-                                    <a href="kanal.php"><span>Nasional</span></a>
-                                </p>
+                                <a href="kanal.php"><span>Nasional</span></a>
+                            </p>
                         </div>
                     </div>
                 </li>
@@ -101,11 +101,11 @@
 
         <!------ Banner ------>
         <div
-            style="width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+            style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
             <a href=""><img src="img/banner-r.jpg" /></a>
         </div>
         <!------ End Banner ------>
-        
+
         <section class="grid bottom-15">
             <div class="label-to bottom-10">
                 <h2>Terpopuler</h2>
@@ -131,7 +131,7 @@
 
         <!------ Banner ------>
         <div
-            style="width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+            style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
             <a href=""><img src="img/banner-r.jpg" /></a>
         </div>
         <!------ End Banner ------>
@@ -154,8 +154,8 @@
                                 <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                             </h4>
                             <p class="text-uppercase red-color labelkanal">
-                                    <a href="kanal.php"><span>Nasional</span></a>
-                                </p>
+                                <a href="kanal.php"><span>Nasional</span></a>
+                            </p>
                         </div>
                     </div>
                 </li>
@@ -172,8 +172,8 @@
                                 <a href="">Wadas Batu Cadas, Dimasuki Politik Juga</a>
                             </h4>
                             <p class="text-uppercase red-color labelkanal">
-                                    <a href="kanal.php"><span>Nasional</span></a>
-                                </p>
+                                <a href="kanal.php"><span>Nasional</span></a>
+                            </p>
                         </div>
                     </div>
                 </li>
@@ -190,8 +190,8 @@
                                 <a href="">Wakil Ketua Diperiksa KPK, Ketua PN Dilantik</a>
                             </h4>
                             <p class="text-uppercase red-color labelkanal">
-                                    <a href="kanal.php"><span>Nasional</span></a>
-                                </p>
+                                <a href="kanal.php"><span>Nasional</span></a>
+                            </p>
                         </div>
                     </div>
                 </li>
@@ -208,8 +208,8 @@
                                 <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                             </h4>
                             <p class="text-uppercase red-color labelkanal">
-                                    <a href="kanal.php"><span>Nasional</span></a>
-                                </p>
+                                <a href="kanal.php"><span>Nasional</span></a>
+                            </p>
                         </div>
                     </div>
                 </li>
@@ -226,8 +226,8 @@
                                 <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                             </h4>
                             <p class="text-uppercase red-color labelkanal">
-                                    <a href="kanal.php"><span>Nasional</span></a>
-                                </p>
+                                <a href="kanal.php"><span>Nasional</span></a>
+                            </p>
                         </div>
                     </div>
                 </li>
@@ -236,7 +236,7 @@
 
         <!------ Banner ------>
         <div
-            style="width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+            style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
             <a href=""><img src="img/banner-r.jpg" /></a>
         </div>
         <!------ End Banner ------>

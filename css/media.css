@@ -79,13 +79,9 @@
         display: inline-block;
     }
 
-    /*--- Icon search 25/11/2021---*/
-
     .nav>li:last-child {
         margin-right: 35px;
     }
-
-    /*------*/
 
     .thumb-post img {
         width: 115px;
@@ -102,8 +98,10 @@
     h3.media-heading,
     .sidebar_area .thumbnail .media-heading a,
     .todo li a,
-    .thumb-ito .thumbnail h4 {
-        font-size: 1.8rem;
+    .thumb-ito .thumbnail h4,
+    h2.media-heading,
+    .box-network .todo li a{
+        font-size: 18px;
     }
 
     .thumb-ito .thumbnail .caption {
@@ -178,10 +176,6 @@
         cursor: default;
     }
 
-    h2.media-heading {
-        font-size: 1.8rem;
-    }
-
     .slider-img {
         height: 230px;
     }
@@ -199,12 +193,21 @@
     }
 
     .pilihan .frame-thumb,
-    .frame-thumb {
-        height: inherit;
+    .frame-thumb,
+    .gambarkecil {
+        height: 115px;
     }
 
     .slider .owl-theme .owl-dots .owl-dot span {
         width: 20px;
+    }
+
+    .entry-box .entry-content .post h1 {
+        font-size: 30px;
+    }
+
+    .slide-foto .caption h3 {
+        font-size: 18px;
     }
 
     .form-control {

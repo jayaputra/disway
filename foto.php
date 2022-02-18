@@ -24,7 +24,7 @@
 
         <div class="clearfix"></div>
         <div
-            style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+            style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
             <a href=""><img src="img/banner-3.png" style="width:100%;" /></a>
         </div>
 
@@ -48,12 +48,12 @@
                     <!------- Banner Middle1 -------->
                     <div class="clearfix"></div>
                     <div
-                        style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                        style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
                         <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
                     </div>
                     <!------ End Banner ------>
 
-                    <div class="box-middle thumb-ito vid-pic bottom-15">
+                    <div class="box-middle thumb-ito vid-pic bottom-15 cube-content">
                         <section>
                             <div class="label-to bottom-15">
                                 <h2>Foto terkini</h2>
@@ -67,7 +67,7 @@
                                                 <div class="box-video-icon">
                                                     <i class="fa fa-camera"></i>
                                                 </div>
-                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                                <img class="img-responsive boxthumb" src="img/foto2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="caption">
@@ -85,7 +85,7 @@
                                                 <div class="box-video-icon">
                                                     <i class="fa fa-camera"></i>
                                                 </div>
-                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                                <img class="img-responsive boxthumb" src="img/foto2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="caption">
@@ -103,7 +103,7 @@
                                                 <div class="box-video-icon">
                                                     <i class="fa fa-camera"></i>
                                                 </div>
-                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                                <img class="img-responsive boxthumb" src="img/foto2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="caption">
@@ -124,7 +124,7 @@
                                                 <div class="box-video-icon">
                                                     <i class="fa fa-camera"></i>
                                                 </div>
-                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                                <img class="img-responsive boxthumb" src="img/foto2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="caption">
@@ -142,7 +142,7 @@
                                                 <div class="box-video-icon">
                                                     <i class="fa fa-camera"></i>
                                                 </div>
-                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                                <img class="img-responsive boxthumb" src="img/foto2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="caption">
@@ -160,7 +160,7 @@
                                                 <div class="box-video-icon">
                                                     <i class="fa fa-camera"></i>
                                                 </div>
-                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                                <img class="img-responsive boxthumb" src="img/foto2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="caption">
@@ -176,7 +176,7 @@
                             <!------- Banner Middle1 -------->
                             <div class="clearfix"></div>
                             <div
-                                style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                                style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
                                 <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
                             </div>
                             <!------ End Banner ------>
@@ -189,7 +189,7 @@
                                                 <div class="box-video-icon">
                                                     <i class="fa fa-camera"></i>
                                                 </div>
-                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                                <img class="img-responsive boxthumb" src="img/foto2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="caption">
@@ -207,7 +207,7 @@
                                                 <div class="box-video-icon">
                                                     <i class="fa fa-camera"></i>
                                                 </div>
-                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                                <img class="img-responsive boxthumb" src="img/foto2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="caption">
@@ -225,7 +225,7 @@
                                                 <div class="box-video-icon">
                                                     <i class="fa fa-camera"></i>
                                                 </div>
-                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                                <img class="img-responsive boxthumb" src="img/foto2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="caption">
@@ -246,7 +246,7 @@
                                                 <div class="box-video-icon">
                                                     <i class="fa fa-camera"></i>
                                                 </div>
-                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                                <img class="img-responsive boxthumb" src="img/foto2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="caption">
@@ -264,7 +264,7 @@
                                                 <div class="box-video-icon">
                                                     <i class="fa fa-camera"></i>
                                                 </div>
-                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                                <img class="img-responsive boxthumb" src="img/foto2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="caption">
@@ -282,7 +282,7 @@
                                                 <div class="box-video-icon">
                                                     <i class="fa fa-camera"></i>
                                                 </div>
-                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                                <img class="img-responsive boxthumb" src="img/foto2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="caption">
@@ -298,7 +298,7 @@
                             <!------- Banner Middle1 -------->
                             <div class="clearfix"></div>
                             <div
-                                style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                                style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
                                 <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
                             </div>
                             <!------ End Banner ------>
@@ -311,7 +311,7 @@
                                                 <div class="box-video-icon">
                                                     <i class="fa fa-camera"></i>
                                                 </div>
-                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                                <img class="img-responsive boxthumb" src="img/foto2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="caption">
@@ -329,7 +329,7 @@
                                                 <div class="box-video-icon">
                                                     <i class="fa fa-camera"></i>
                                                 </div>
-                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                                <img class="img-responsive boxthumb" src="img/foto2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="caption">
@@ -347,7 +347,7 @@
                                                 <div class="box-video-icon">
                                                     <i class="fa fa-camera"></i>
                                                 </div>
-                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                                <img class="img-responsive boxthumb" src="img/foto2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="caption">
@@ -368,7 +368,7 @@
                                                 <div class="box-video-icon">
                                                     <i class="fa fa-camera"></i>
                                                 </div>
-                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                                <img class="img-responsive boxthumb" src="img/foto2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="caption">
@@ -386,7 +386,7 @@
                                                 <div class="box-video-icon">
                                                     <i class="fa fa-camera"></i>
                                                 </div>
-                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                                <img class="img-responsive boxthumb" src="img/foto2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="caption">
@@ -404,7 +404,7 @@
                                                 <div class="box-video-icon">
                                                     <i class="fa fa-camera"></i>
                                                 </div>
-                                                <img class="img-responsive" src="img/foto2.jpg" alt="">
+                                                <img class="img-responsive boxthumb" src="img/foto2.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="caption">
@@ -435,12 +435,13 @@
                     </div>
 
                     <div class="visible-xs hidden-lg hidden-md hidden-sm">
-                        <div class="col-sm-4 sidebar_area">
+                        <div class="sidebar_area">
                             <div class="">
 
                                 <section class="box-network bottom-15">
-                                    <div class="label-to bottom-10 content-wrap align-center">
-                                        <h2>Catatan Harian</h2>
+                                    <div class="label-to bottom-0 content-wrap align-center justify-content-center">
+                                        <img src="img/logo-disway-head.png" class="pull-left right-15">
+                                        <h2>Catatan Dahlan Iskan</h2>
                                     </div>
                                     <ul class="todo list-unstyled font-weight-bold">
                                         <li>
@@ -467,7 +468,7 @@
 
                                 <!------ Banner ------>
                                 <div
-                                    style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                                    style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
                                     <a href=""><img src="img/banner-2.png" style="width:100%;" /></a>
                                 </div>
                                 <!------ End Banner ------>
@@ -489,9 +490,8 @@
                                                     <h4 class="media-heading">
                                                         <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                                                     </h4>
-                                                    <p>
-                                                        <a href="kanal.php"><span
-                                                                class="label label-default text-uppercase">Nasional</span></a>
+                                                    <p class="text-uppercase red-color labelkanal">
+                                                        <a href="kanal.php"><span>Nasional</span></a>
                                                     </p>
                                                 </div>
                                             </div>
@@ -508,9 +508,8 @@
                                                     <h4 class="media-heading">
                                                         <a href="">Wadas Batu Cadas, Dimasuki Politik Juga</a>
                                                     </h4>
-                                                    <p>
-                                                        <a href="kanal.php"><span
-                                                                class="label label-default text-uppercase">Nasional</span></a>
+                                                    <p class="text-uppercase red-color labelkanal">
+                                                        <a href="kanal.php"><span>Nasional</span></a>
                                                     </p>
                                                 </div>
                                             </div>
@@ -527,9 +526,8 @@
                                                     <h4 class="media-heading">
                                                         <a href="">Wakil Ketua Diperiksa KPK, Ketua PN Dilantik</a>
                                                     </h4>
-                                                    <p>
-                                                        <a href="kanal.php"><span
-                                                                class="label label-default text-uppercase">Nasional</span></a>
+                                                    <p class="text-uppercase red-color labelkanal">
+                                                        <a href="kanal.php"><span>Nasional</span></a>
                                                     </p>
                                                 </div>
                                             </div>
@@ -546,9 +544,8 @@
                                                     <h4 class="media-heading">
                                                         <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                                                     </h4>
-                                                    <p>
-                                                        <a href="kanal.php"><span
-                                                                class="label label-default text-uppercase">Nasional</span></a>
+                                                    <p class="text-uppercase red-color labelkanal">
+                                                        <a href="kanal.php"><span>Nasional</span></a>
                                                     </p>
                                                 </div>
                                             </div>
@@ -565,9 +562,8 @@
                                                     <h4 class="media-heading">
                                                         <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                                                     </h4>
-                                                    <p>
-                                                        <a href="kanal.php"><span
-                                                                class="label label-default text-uppercase">Nasional</span></a>
+                                                    <p class="text-uppercase red-color labelkanal">
+                                                        <a href="kanal.php"><span>Nasional</span></a>
                                                     </p>
                                                 </div>
                                             </div>
@@ -577,7 +573,7 @@
 
                                 <!------ Banner ------>
                                 <div
-                                    style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                                    style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
                                     <a href=""><img src="img/banner-r.jpg" /></a>
                                 </div>
                                 <!------ End Banner ------>
@@ -611,7 +607,7 @@
 
                                 <!------ Banner ------>
                                 <div
-                                    style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                                    style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
                                     <a href=""><img src="img/banner-r.jpg" /></a>
                                 </div>
                                 <!------ End Banner ------>
@@ -633,9 +629,8 @@
                                                     <h4 class="media-heading">
                                                         <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                                                     </h4>
-                                                    <p>
-                                                        <a href="kanal.php"><span
-                                                                class="label label-default text-uppercase">Nasional</span></a>
+                                                    <p class="text-uppercase red-color labelkanal">
+                                                        <a href="kanal.php"><span>Nasional</span></a>
                                                     </p>
                                                 </div>
                                             </div>
@@ -652,9 +647,8 @@
                                                     <h4 class="media-heading">
                                                         <a href="">Wadas Batu Cadas, Dimasuki Politik Juga</a>
                                                     </h4>
-                                                    <p>
-                                                        <a href="kanal.php"><span
-                                                                class="label label-default text-uppercase">Nasional</span></a>
+                                                    <p class="text-uppercase red-color labelkanal">
+                                                        <a href="kanal.php"><span>Nasional</span></a>
                                                     </p>
                                                 </div>
                                             </div>
@@ -671,9 +665,8 @@
                                                     <h4 class="media-heading">
                                                         <a href="">Wakil Ketua Diperiksa KPK, Ketua PN Dilantik</a>
                                                     </h4>
-                                                    <p>
-                                                        <a href="kanal.php"><span
-                                                                class="label label-default text-uppercase">Nasional</span></a>
+                                                    <p class="text-uppercase red-color labelkanal">
+                                                        <a href="kanal.php"><span>Nasional</span></a>
                                                     </p>
                                                 </div>
                                             </div>
@@ -690,9 +683,8 @@
                                                     <h4 class="media-heading">
                                                         <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                                                     </h4>
-                                                    <p>
-                                                        <a href="kanal.php"><span
-                                                                class="label label-default text-uppercase">Nasional</span></a>
+                                                    <p class="text-uppercase red-color labelkanal">
+                                                        <a href="kanal.php"><span>Nasional</span></a>
                                                     </p>
                                                 </div>
                                             </div>
@@ -709,9 +701,8 @@
                                                     <h4 class="media-heading">
                                                         <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                                                     </h4>
-                                                    <p>
-                                                        <a href="kanal.php"><span
-                                                                class="label label-default text-uppercase">Nasional</span></a>
+                                                    <p class="text-uppercase red-color labelkanal">
+                                                        <a href="kanal.php"><span>Nasional</span></a>
                                                     </p>
                                                 </div>
                                             </div>
@@ -721,7 +712,7 @@
 
                                 <!------ Banner ------>
                                 <div
-                                    style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                                    style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
                                     <a href=""><img src="img/banner-r.jpg" /></a>
                                 </div>
                                 <!------ End Banner ------>
@@ -737,7 +728,7 @@
         <!------- Banner Middle1 -------->
         <div class="clearfix"></div>
         <div
-            style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+            style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
             <a href=""><img src="img/banner-3.png" style="width:100%" /></a>
         </div>
         <!------ End Banner ------>

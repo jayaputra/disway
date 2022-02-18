@@ -58,7 +58,7 @@
 
     </div>
 
-    <div id="sync2" class="owl-carousel owl-theme">
+    <div id="sync2" class="owl-carousel owl-theme hidden-xs">
         <div class="item">
             <div class="slider-img">
                 <img src="img/foto1.jpg" alt="">
