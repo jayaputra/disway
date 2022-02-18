@@ -21,7 +21,7 @@
                     </button>
                 </div>
                 <div class="modal-body">
-                    <div style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                    <div style="width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
                         <a href="">
                             <img src="img/banner-r.jpg" />
                         </a>
@@ -46,7 +46,7 @@
 
         <div class="clearfix"></div>
         <div
-            style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+            style="width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
             <a href=""><img src="img/banner-3.png" style="width:100%;" /></a>
         </div>
 
@@ -63,7 +63,7 @@
                     <!------- Banner Middle1 -------->
                     <div class="clearfix"></div>
                     <div
-                        style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                        style="width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
                         <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
                     </div>
                     <!------ End Banner ------>
@@ -205,7 +205,7 @@
                             <!------- Banner Middle1 -------->
                             <div class="clearfix"></div>
                             <div
-                                style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                                style="width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
                                 <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
                             </div>
                             <!------ End Banner ------>
@@ -512,7 +512,7 @@
                             <!------- Banner Middle1 -------->
                             <div class="clearfix"></div>
                             <div
-                                style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                                style="width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
                                 <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
                             </div>
                             <!------ End Banner ------>
@@ -603,7 +603,7 @@
             <div class="col-sm-4 sidebar_area">
                 <!------ Banner ------>
                 <div
-                    style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                    style="width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
                     <a href=""><img src="img/banner-r.jpg" /></a>
                 </div>
                 <!------ End Banner ------>
@@ -716,7 +716,7 @@
                             <!------- Banner Middle1 -------->
                             <div class="clearfix"></div>
                             <div
-                                style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                                style="width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
                                 <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
                             </div>
                             <!------ End Banner ------>
@@ -802,7 +802,7 @@
             <div class="col-sm-4 sidebar_area">
                 <!------ Banner ------>
                 <div
-                    style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                    style="width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
                     <a href=""><img src="img/banner-r.jpg" /></a>
                 </div>
                 <!------ End Banner ------>
@@ -925,7 +925,7 @@
         <div class="visible-xs hidden-lg hidden-md hidden-sm">
             <!------ Banner ------>
             <div
-                style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                style="width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
                 <a href=""><img src="img/banner-2.png" style="width:100%;" /></a>
             </div>
             <!------ End Banner ------>
@@ -956,7 +956,7 @@
 
             <!------ Banner ------>
             <div
-                style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                style="width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
                 <a href=""><img src="img/banner-r.jpg" /></a>
             </div>
             <!------ End Banner ------>
@@ -1013,7 +1013,7 @@
 
             <!------ Banner ------>
             <div
-                style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                style="width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
                 <a href=""><img src="img/banner-r.jpg" /></a>
             </div>
             <!------ End Banner ------>
@@ -1123,7 +1123,7 @@
 
             <!------ Banner ------>
             <div
-                style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                style="width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
                 <a href=""><img src="img/banner-2.png" style="width:100%;" /></a>
             </div>
             <!------ End Banner ------>
@@ -1133,7 +1133,7 @@
         <!------- Banner Middle1 -------->
         <div class="clearfix"></div>
         <div
-            style="min-height: 150px; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+            style="width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
             <a href=""><img src="img/banner-3.png" style="width:100%" /></a>
         </div>
         <!------ End Banner ------>
