@@ -1,5 +1,5 @@
 <div class="slider">
-    <div id="sync1" class="owl-carousel owl-theme bottom-15">
+    <div id="sync1" class="owl-carousel owl-theme">
         <div class="item">
             <div class="slider-img mb-15">
                 <img src="img/foto1.jpg" alt="">
