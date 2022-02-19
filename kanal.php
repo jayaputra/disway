@@ -760,6 +760,17 @@
                                     </ul>
                                 </section>
 
+                                <section class="grid bottom-15">
+                                    <div class="label-to bottom-10">
+                                        <h2>Disway E-Paper</h2>
+                                    </div>
+                                    <div class="block-paper">
+                                        <a href="">
+                                            <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
+                                                class="img-responsive center-block">
+                                        </a>
+                                    </div>
+                                </section>
                                 <!------ Banner ------>
                                 <div
                                     style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
@@ -784,9 +795,12 @@
                                                     <h4 class="media-heading">
                                                         <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                                                     </h4>
-                                                    <p class="text-uppercase red-color labelkanal">
-                                                        <a href="kanal.php"><span>Nasional</span></a>
-                                                    </p>
+                                                    <div class="pull-left right-15">
+                                                        <p class="text-uppercase red-color labelkanal">
+                                                            <a href="kanal.php"><span>Nasional</span></a>
+                                                        </p>
+                                                    </div>
+                                                    <p class="date">1 jam lalu</p>
                                                 </div>
                                             </div>
                                         </li>
@@ -802,9 +816,12 @@
                                                     <h4 class="media-heading">
                                                         <a href="">Wadas Batu Cadas, Dimasuki Politik Juga</a>
                                                     </h4>
-                                                    <p class="text-uppercase red-color labelkanal">
-                                                        <a href="kanal.php"><span>Nasional</span></a>
-                                                    </p>
+                                                    <div class="pull-left right-15">
+                                                        <p class="text-uppercase red-color labelkanal">
+                                                            <a href="kanal.php"><span>Nasional</span></a>
+                                                        </p>
+                                                    </div>
+                                                    <p class="date">1 jam lalu</p>
                                                 </div>
                                             </div>
                                         </li>
@@ -820,9 +837,12 @@
                                                     <h4 class="media-heading">
                                                         <a href="">Wakil Ketua Diperiksa KPK, Ketua PN Dilantik</a>
                                                     </h4>
-                                                    <p class="text-uppercase red-color labelkanal">
-                                                        <a href="kanal.php"><span>Nasional</span></a>
-                                                    </p>
+                                                    <div class="pull-left right-15">
+                                                        <p class="text-uppercase red-color labelkanal">
+                                                            <a href="kanal.php"><span>Nasional</span></a>
+                                                        </p>
+                                                    </div>
+                                                    <p class="date">1 jam lalu</p>
                                                 </div>
                                             </div>
                                         </li>
@@ -838,9 +858,12 @@
                                                     <h4 class="media-heading">
                                                         <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                                                     </h4>
-                                                    <p class="text-uppercase red-color labelkanal">
-                                                        <a href="kanal.php"><span>Nasional</span></a>
-                                                    </p>
+                                                    <div class="pull-left right-15">
+                                                        <p class="text-uppercase red-color labelkanal">
+                                                            <a href="kanal.php"><span>Nasional</span></a>
+                                                        </p>
+                                                    </div>
+                                                    <p class="date">1 jam lalu</p>
                                                 </div>
                                             </div>
                                         </li>
@@ -856,9 +879,12 @@
                                                     <h4 class="media-heading">
                                                         <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                                                     </h4>
-                                                    <p class="text-uppercase red-color labelkanal">
-                                                        <a href="kanal.php"><span>Nasional</span></a>
-                                                    </p>
+                                                    <div class="pull-left right-15">
+                                                        <p class="text-uppercase red-color labelkanal">
+                                                            <a href="kanal.php"><span>Nasional</span></a>
+                                                        </p>
+                                                    </div>
+                                                    <p class="date">1 jam lalu</p>
                                                 </div>
                                             </div>
                                         </li>

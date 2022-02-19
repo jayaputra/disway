@@ -49,9 +49,12 @@
                             <h4 class="media-heading">
                                 <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                             </h4>
-                            <p class="text-uppercase red-color labelkanal">
-                                <a href="kanal.php"><span>Nasional</span></a>
-                            </p>
+                            <div class="pull-left right-15">
+                                <p class="text-uppercase red-color labelkanal">
+                                    <a href="kanal.php"><span>Nasional</span></a>
+                                </p>
+                            </div>
+                            <p class="date">1 jam lalu</p>
                         </div>
                     </div>
                 </li>
@@ -67,9 +70,12 @@
                             <h4 class="media-heading">
                                 <a href="">Wadas Batu Cadas, Dimasuki Politik Juga</a>
                             </h4>
-                            <p class="text-uppercase red-color labelkanal">
-                                <a href="kanal.php"><span>Nasional</span></a>
-                            </p>
+                            <div class="pull-left right-15">
+                                <p class="text-uppercase red-color labelkanal">
+                                    <a href="kanal.php"><span>Nasional</span></a>
+                                </p>
+                            </div>
+                            <p class="date">1 jam lalu</p>
                         </div>
                     </div>
                 </li>
@@ -85,9 +91,12 @@
                             <h4 class="media-heading">
                                 <a href="">Wakil Ketua Diperiksa KPK, Ketua PN Dilantik</a>
                             </h4>
-                            <p class="text-uppercase red-color labelkanal">
-                                <a href="kanal.php"><span>Nasional</span></a>
-                            </p>
+                            <div class="pull-left right-15">
+                                <p class="text-uppercase red-color labelkanal">
+                                    <a href="kanal.php"><span>Nasional</span></a>
+                                </p>
+                            </div>
+                            <p class="date">1 jam lalu</p>
                         </div>
                     </div>
                 </li>
@@ -103,9 +112,12 @@
                             <h4 class="media-heading">
                                 <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                             </h4>
-                            <p class="text-uppercase red-color labelkanal">
-                                <a href="kanal.php"><span>Nasional</span></a>
-                            </p>
+                            <div class="pull-left right-15">
+                                <p class="text-uppercase red-color labelkanal">
+                                    <a href="kanal.php"><span>Nasional</span></a>
+                                </p>
+                            </div>
+                            <p class="date">1 jam lalu</p>
                         </div>
                     </div>
                 </li>
@@ -121,9 +133,12 @@
                             <h4 class="media-heading">
                                 <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                             </h4>
-                            <p class="text-uppercase red-color labelkanal">
-                                <a href="kanal.php"><span>Nasional</span></a>
-                            </p>
+                            <div class="pull-left right-15">
+                                <p class="text-uppercase red-color labelkanal">
+                                    <a href="kanal.php"><span>Nasional</span></a>
+                                </p>
+                            </div>
+                            <p class="date">1 jam lalu</p>
                         </div>
                     </div>
                 </li>
@@ -189,9 +204,12 @@
                             <h4 class="media-heading">
                                 <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                             </h4>
-                            <p class="text-uppercase red-color labelkanal">
-                                <a href="kanal.php"><span>Nasional</span></a>
-                            </p>
+                            <div class="pull-left right-15">
+                                <p class="text-uppercase red-color labelkanal">
+                                    <a href="kanal.php"><span>Nasional</span></a>
+                                </p>
+                            </div>
+                            <p class="date">1 jam lalu</p>
                         </div>
                     </div>
                 </li>
@@ -207,9 +225,12 @@
                             <h4 class="media-heading">
                                 <a href="">Wadas Batu Cadas, Dimasuki Politik Juga</a>
                             </h4>
-                            <p class="text-uppercase red-color labelkanal">
-                                <a href="kanal.php"><span>Nasional</span></a>
-                            </p>
+                            <div class="pull-left right-15">
+                                <p class="text-uppercase red-color labelkanal">
+                                    <a href="kanal.php"><span>Nasional</span></a>
+                                </p>
+                            </div>
+                            <p class="date">1 jam lalu</p>
                         </div>
                     </div>
                 </li>
@@ -225,9 +246,12 @@
                             <h4 class="media-heading">
                                 <a href="">Wakil Ketua Diperiksa KPK, Ketua PN Dilantik</a>
                             </h4>
-                            <p class="text-uppercase red-color labelkanal">
-                                <a href="kanal.php"><span>Nasional</span></a>
-                            </p>
+                            <div class="pull-left right-15">
+                                <p class="text-uppercase red-color labelkanal">
+                                    <a href="kanal.php"><span>Nasional</span></a>
+                                </p>
+                            </div>
+                            <p class="date">1 jam lalu</p>
                         </div>
                     </div>
                 </li>
@@ -243,9 +267,12 @@
                             <h4 class="media-heading">
                                 <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                             </h4>
-                            <p class="text-uppercase red-color labelkanal">
-                                <a href="kanal.php"><span>Nasional</span></a>
-                            </p>
+                            <div class="pull-left right-15">
+                                <p class="text-uppercase red-color labelkanal">
+                                    <a href="kanal.php"><span>Nasional</span></a>
+                                </p>
+                            </div>
+                            <p class="date">1 jam lalu</p>
                         </div>
                     </div>
                 </li>
@@ -261,9 +288,12 @@
                             <h4 class="media-heading">
                                 <a href="">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
                             </h4>
-                            <p class="text-uppercase red-color labelkanal">
-                                <a href="kanal.php"><span>Nasional</span></a>
-                            </p>
+                            <div class="pull-left right-15">
+                                <p class="text-uppercase red-color labelkanal">
+                                    <a href="kanal.php"><span>Nasional</span></a>
+                                </p>
+                            </div>
+                            <p class="date">1 jam lalu</p>
                         </div>
                     </div>
                 </li>

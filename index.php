@@ -11,28 +11,6 @@
 
     <?php include ('nav.php') ?>
 
-    <!-- popup banner -->
-    <!-- <div class="modal fade bs-example-modal-lg" id="myModal">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="btn btn-danger pull-right" data-dismiss="modal">
-                        <span aria-hidden="true">&times;</span><span class="sr-only">Close</span>
-                    </button>
-                </div>
-                <div class="modal-body">
-                    <div style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
-                        <a href="">
-                            <img src="img/banner-r.jpg" />
-                        </a>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div> -->
-    <!--- end banner --->
-
     <div class="container cont">
 
         <div class="nkt__stick js-nkt-stick">
@@ -91,6 +69,17 @@
                                     <a href="detail-artikel.php"><span class="todo-number">5</span>Ekstradisi Pulus</a>
                                 </li>
                             </ul>
+                        </section>
+                        <section class="grid bottom-15">
+                            <div class="label-to bottom-10">
+                                <h2>Disway E-Paper</h2>
+                            </div>
+                            <div class="block-paper">
+                                <a href="">
+                                    <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
+                                        class="img-responsive center-block">
+                                </a>
+                            </div>
                         </section>
                         <!------ Banner ------>
                         <div

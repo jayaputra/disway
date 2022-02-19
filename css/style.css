@@ -91,6 +91,13 @@ p {
     margin-bottom: 35px;
 }
 
+.dblock {
+    position: relative;
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+}
+
 a:hover {
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
@@ -101,7 +108,7 @@ a:hover {
 }
 
 .blue-color {
-    color:#1d5cb5;
+    color: #1d5cb5;
 }
 
 .pull-right>.dropdown-menu {
@@ -115,7 +122,7 @@ a:hover {
 }
 
 .justify-content-center {
-    justify-content: center!important;
+    justify-content: center !important;
 }
 
 .align-start {
@@ -164,7 +171,7 @@ a:hover {
     padding-right: 7.5px;
 }
 
-.red-color, 
+.red-color,
 .red-color a {
     color: #cc0000;
 }
@@ -268,6 +275,23 @@ a:hover {
     align-items: center;
     -ms-flex-pack: center;
     justify-content: center;
+}
+
+
+.block-paper {
+    min-height: 100%;
+    width: 100%;
+    background-color: #222;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    z-index: 9;
+    margin-bottom: 15px;
+}
+
+.block-paper img {
+    width: 250px;
 }
 
 /*------- menubar ---------*/
@@ -463,8 +487,8 @@ a:hover {
 
 .nav__right {
     position: absolute;
-    top: 15px;
-    right: 7rem;
+    top: 0;
+    right: 6rem;
     display: inline-block;
     /* visibility: visible; */
     display: -webkit-box;
@@ -884,7 +908,7 @@ h2.media-heading {
 
 .border-red-outline {
     font-weight: 300;
-    border:1px solid #cc0000;
+    border: 1px solid #cc0000;
     padding-top: 5px;
     padding-bottom: 5px;
 }
@@ -948,7 +972,7 @@ h2.media-heading {
 .slide-vid-pic.owl-theme .owl-nav .owl-prev,
 .slide-featured.owl-theme .owl-nav .owl-prev,
 .slide-headline.owl-theme .owl-nav .owl-prev,
-.slide-foto.owl-theme .owl-nav .owl-prev{
+.slide-foto.owl-theme .owl-nav .owl-prev {
     position: absolute;
     top: 50%;
     left: 17%;
@@ -966,7 +990,7 @@ h2.media-heading {
 .slide-vid-pic.owl-theme .owl-nav .owl-next,
 .slide-featured.owl-theme .owl-nav .owl-next,
 .slide-headline.owl-theme .owl-nav .owl-next,
-.slide-foto.owl-theme .owl-nav .owl-next{
+.slide-foto.owl-theme .owl-nav .owl-next {
     position: absolute;
     top: 50%;
     right: 17%;
@@ -1105,7 +1129,7 @@ h2.media-heading {
 #sync2 .current .caption {
     background-color: #24416c;
     width: 100%;
-    color:#fff;
+    color: #fff;
 }
 
 #sync2 .caption {
@@ -1115,11 +1139,11 @@ h2.media-heading {
     color: #fff;
 }
 
-.slide-foto .caption{
+.slide-foto .caption {
     padding: 2rem 2.5rem;
     background-color: #222;
     color: #fff;
-    
+
 }
 
 .slide-foto .caption h3 {
@@ -1237,7 +1261,7 @@ ul.todo {
     -o-border-radius: 7px;
     border-radius: 7px; */
     -webkit-box-shadow: 0 6px 12px rgb(0 0 0 / 18%);
-        box-shadow: 0 6px 12px rgb(0 0 0 / 18%);
+    box-shadow: 0 6px 12px rgb(0 0 0 / 18%);
 }
 
 .box-network .label-to img {
@@ -1287,8 +1311,8 @@ ul.todo {
 }
 
 .box-network .todo li:last-child,
-.todo li:last-child{
-   border-bottom: none;
+.todo li:last-child {
+    border-bottom: none;
 }
 
 .font-weight-bold {
@@ -1404,9 +1428,7 @@ h4.media-heading {
     padding-bottom: 5px;
 }
 
-.slide-vid-pic {
-    
-}
+.slide-vid-pic {}
 
 .box-middle .slide-vid-pic .thumbnail {
     background-color: transparent;
@@ -1511,7 +1533,7 @@ h4.media-heading {
     /* background: #222;
     text-align: left;
     cursor: pointer; */
-    
+
 }
 
 .thumb-ito .thumbnail.grid figure {
@@ -1665,7 +1687,7 @@ h4.media-heading {
 }
 
 .entry-box .entry-content .post li>a {
-    color:#1d5cb5;
+    color: #1d5cb5;
 }
 
 .entry-box .entry-content .post li.active>a {
@@ -1829,7 +1851,7 @@ news-tags {
     height: 273px;
 }
 
-.thumbnail .box-video .boxthumb{
+.thumbnail .box-video .boxthumb {
     height: 100%;
     object-fit: cover;
     object-position: top center;
@@ -1981,9 +2003,7 @@ footer .network {
     line-height: 2em;
 }
 
-footer .network a {
-    
-}
+footer .network a {}
 
 .label-footer {
     color: #fff;
@@ -1994,7 +2014,7 @@ footer .network a {
     padding-bottom: 0px;
 }
 
-.copyright .container{
+.copyright .container {
     border-top: 5px solid #222;
     padding-top: 15px;
     padding-bottom: 15px;

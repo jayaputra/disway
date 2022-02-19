@@ -10,65 +10,72 @@
                     </div>
                 </div>
                 <div class="col-xs-6 visible-xs hidden-lg hidden-md hidden-sm">
-                    <div class="nav__right">
-                        <form class="search_r" method="post" action="search.php">
-                            <div class="search__wrapper">
-                                <input type="text" name="" placeholder="Cari Berita ..." class="search__field">
-                                <button type="submit" class="fa fa-search search__icon"></button>
-                            </div>
-                        </form>
+                    <div class="dblock clearfix">
+                        <p class="text-right clearfix"><small>09 Feb 2022</small></p>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="dblock">
+                        <div class="nav__right">
+                            <form class="search_r" method="post" action="search.php">
+                                <div class="search__wrapper">
+                                    <input type="text" name="" placeholder="Cari Berita ..." class="search__field">
+                                    <button type="submit" class="fa fa-search search__icon"></button>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="btn-group pull-right">
+
+                            <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown"
+                                aria-haspopup="true" aria-expanded="false">
+                                <span class="caret"></span>
+                            </button>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a href="#">
+                                        <div class="btn btn-red btn-lg btn-block" role="button">Network</div>
+                                    </a>
+                                </li>
+                                <li role="separator" class="divider"></li>
+                                <li>
+                                    <ul class="list-inline smd">
+                                        <li>
+                                            <a class="socmed facebook" target="_blank" href="">
+                                                <span class="fa-stack fa-lg">
+                                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                                                </span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="socmed instagram" target="_blank" href="">
+                                                <span class="fa-stack fa-lg">
+                                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                                    <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+                                                </span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="socmed youtube" target="_blank" href="">
+                                                <span class="fa-stack fa-lg">
+                                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                                    <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
+                                                </span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="socmed twitter" target="_blank" href="">
+                                                <span class="fa-stack fa-lg">
+                                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                                </span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
 
-                    <div class="btn-group pull-right p-top-15">
-                        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown"
-                            aria-haspopup="true" aria-expanded="false">
-                            <span class="caret"></span>
-                        </button>
-                        <ul class="dropdown-menu">
-                            <li>
-                                <a href="#">
-                                    <div class="btn btn-red btn-lg btn-block" role="button">Network</div>
-                                </a>
-                            </li>
-                            <li role="separator" class="divider"></li>
-                            <li>
-                            <ul class="list-inline smd">
-                                    <li>
-                                        <a class="socmed facebook" target="_blank" href="">
-                                            <span class="fa-stack fa-lg">
-                                                <i class="fa fa-circle fa-stack-2x"></i>
-                                                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-                                            </span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a class="socmed instagram" target="_blank" href="">
-                                            <span class="fa-stack fa-lg">
-                                                <i class="fa fa-circle fa-stack-2x"></i>
-                                                <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
-                                            </span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a class="socmed youtube" target="_blank" href="">
-                                            <span class="fa-stack fa-lg">
-                                                <i class="fa fa-circle fa-stack-2x"></i>
-                                                <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
-                                            </span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a class="socmed twitter" target="_blank" href="">
-                                            <span class="fa-stack fa-lg">
-                                                <i class="fa fa-circle fa-stack-2x"></i>
-                                                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                                            </span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </div>
                 </div>
                 <div class="col-md-6 col-sm-8 center-block hidden-xs">
                     <div class="align-center content-wrap">
@@ -92,6 +99,7 @@
                             <a href="network.php" class="btn btn-red btn-lg btn-block" role="button">Network</a>
                         </div>
                         <div class="col-md-8 col-xs-8">
+                            <p class="text-center"><small>09 Feb 2022</small></p>
                             <div class="align-end content-wrap">
                                 <ul class="list-inline smd">
                                     <li>
@@ -136,13 +144,6 @@
         </div>
 
     </div>
-
-    <div class="container">
-        <div class="row">
-
-        </div>
-    </div>
-
 
     <nav class="navbar navbar-inverse navbar-static-top mob" role="navigation" id="myHeader">
         <div class="container">
