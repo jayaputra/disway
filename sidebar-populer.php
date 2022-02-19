@@ -33,28 +33,32 @@
         <!------ End Banner ------>
 
         <section class="grid bottom-15">
-            <div class="label-to bottom-10">
-                <h2>Terpopuler</h2>
-            </div>
-            <ul class="todo list-unstyled">
-                <li>
-                    <a href="detail-artikel.php"><span class="todo-number">1</span>Doa Wadas</a>
-                </li>
-                <li>
-                    <a href="detail-artikel.php"><span class="todo-number">2</span>Protes Omicron</a>
-                </li>
-                <li>
-                    <a href="detail-artikel.php"><span class="todo-number">3</span>Kasus Covid-19 di Kota Kediri Meningkat, Ruang
-                                            Isolasi RS hingga Tempat Isoter Mulai Terisi</a>
-                </li>
-                <li>
-                    <a href="detail-artikel.php"><span class="todo-number">4</span>Ulang Pantun</a>
-                </li>
-                <li>
-                    <a href="detail-artikel.php"><span class="todo-number">5</span>Pancingan Aceh Istanbul</a>
-                </li>
-            </ul>
-        </section>
+                <div class="label-to bottom-10">
+                    <h2>Terpopuler</h2>
+                </div>
+                <ul class="todo list-unstyled">
+                    <li>
+                        <a href="detail-artikel.php"><span class="todo-number">1</span>Gerak Cepat, Pengaspalan Ulang
+                            Sirkuit Mandalika Ditargetkan Rampung Tepat Waktu</a>
+                    </li>
+                    <li>
+                        <a href="detail-artikel.php"><span class="todo-number">2</span>
+                            Jangan Sampai Tertipu, Ini Ciri-ciri Iphone HDC dan Bedanya dengan iPhone Original</a>
+                    </li>
+                    <li>
+                        <a href="detail-artikel.php"><span class="todo-number">3</span>
+                            Wanita Tewas saat Senam Diving di Kolam Renang Hotel Berbintang di Banjarmasin</a>
+                    </li>
+                    <li>
+                        <a href="detail-artikel.php"><span class="todo-number">4</span>
+                            Sandiaga Uno Sebut Akomodasi di 3 Gili Siap Menampung Penonton MotoGP</a>
+                    </li>
+                    <li>
+                        <a href="detail-artikel.php"><span class="todo-number">5</span>
+                            Piala AFF U23, Kini Timnas Vietnam yang Diserang Badai Covid-19</a>
+                    </li>
+                </ul>
+            </section>
 
         <!------ Banner ------>
         <div

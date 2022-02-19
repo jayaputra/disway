@@ -35,6 +35,7 @@ h4,
 p {
     margin-top: 0;
     margin-bottom: 0;
+    font-weight: 300;
 }
 
 .mr-auto {
@@ -51,6 +52,11 @@ p {
 
 .p-bottom-15 {
     padding-bottom: 15px;
+}
+
+.p-horizontal-15 {
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .bottom-0 {
@@ -91,7 +97,11 @@ a:hover {
     -o-transition: all 0.5s ease;
     transition: all 0.5s ease;
     text-decoration: none;
-    color: #222;
+    color: #5297f8;
+}
+
+.blue-color {
+    color:#1d5cb5;
 }
 
 .pull-right>.dropdown-menu {
@@ -663,7 +673,8 @@ a:hover.socmed .fa-inverse {
     border-bottom-right-radius: 15px;
 }
 
-.label-to h2 {
+.label-to h2,
+.box-network .label-to {
     text-transform: uppercase;
     font-weight: 700;
     font-size: 22px;
@@ -788,10 +799,11 @@ h2.media-heading {
 
 .media-heading a:hover,
 .sidebar_area .thumbnail .media-heading a:hover,
-.box-middle.thumb-ito .thumbnail a:hover,
-.thumb-ito.vid .thumbnail a:hover {
+.thumb-ito.vid .thumbnail a:hover,
+.black-box.box-middle.thumb-ito .thumbnail a:hover,
+.box-middle.thumb-ito .thumbnail a:hover {
     text-decoration: none;
-    color: #222;
+    color: #5297f8;
 }
 
 .thumb-post {
@@ -833,7 +845,8 @@ h2.media-heading {
 .frame-thumb {
     float: left;
     width: 100%;
-    height: 180px;
+    /* height: 180px; */
+    height: 117px;
     /* height: 100%; */
     position: relative;
     overflow: hidden;
@@ -863,6 +876,17 @@ h2.media-heading {
 .media-content .labelkanal,
 .media-content .date {
     font-weight: 300;
+}
+
+.media-body.media-content {
+    border-bottom: 1px solid #f4f4f4;
+}
+
+.border-red-outline {
+    font-weight: 300;
+    border:1px solid #cc0000;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 /*--------- Slide ----------*/
@@ -1174,8 +1198,8 @@ h2.media-heading {
     text-transform: uppercase;
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: 700;
-    font-size: 1.2rem;
-    color: #d7d7d7;
+    font-size: 13px;
+    color: #f4f4f4;
 }
 
 .nav-tabs.nav-justified {
@@ -1191,7 +1215,7 @@ h2.media-heading {
 }
 
 .box-network ul.todo {
-    
+    background-color: #fff;
 }
 
 ul.todo {
@@ -1203,30 +1227,42 @@ ul.todo {
 
 .box-network {
     background-color: #c00;
+    /* background-color: #f2f2f2; */
     /* background: rgb(213, 76, 76);
     background: linear-gradient(315deg, rgba(213, 76, 76, 1) 0%, rgba(141, 40, 40, 1) 100%); */
-    padding: 1px;
+    /* padding: 1px; */
     /* -webkit-border-radius: 7px;
     -moz-border-radius: 7px;
     -ms-border-radius: 7px;
     -o-border-radius: 7px;
     border-radius: 7px; */
+    -webkit-box-shadow: 0 6px 12px rgb(0 0 0 / 18%);
+        box-shadow: 0 6px 12px rgb(0 0 0 / 18%);
+}
+
+.box-network .label-to img {
+    height: 65px;
 }
 
 .box-network .label-to {
     color: #fff;
-    padding: 10px 0;
+    padding: 3px 0;
+    border-bottom: 1px solid #fff;
 }
 
 .box-network .todo li,
 .todo li {
     position: relative;
-    /* border-bottom: 1px solid #d7d7d7; */
+    border-bottom: 1px solid #fff;
     clear: both;
     display: inline-block;
     padding: 5px 0;
     width: 100%;
     height: auto;
+}
+
+.box-network .todo li {
+    border-bottom: 1px solid #f4f4f4;
 }
 
 /* .todo li:first-child {
@@ -1235,18 +1271,24 @@ ul.todo {
 
 .box-network .todo li a,
 .todo li a {
-    padding-left: 40px;
+    padding-left: 25px;
     float: left;
     overflow: hidden;
-    color: #24416c;
-    font-size: 24px;
+    color: #1d5cb5;
+    font-size: 18px;
     line-height: 1.3em;
     font-weight: 300;
     margin-bottom: 0;
+    border-bottom: none;
 }
 
-.box-network .label-to h2 {
-    font-size: 22px;
+.box-network .todo li a {
+    color: #1d5cb5;
+}
+
+.box-network .todo li:last-child,
+.todo li:last-child{
+   border-bottom: none;
 }
 
 .font-weight-bold {
@@ -1254,28 +1296,28 @@ ul.todo {
 }
 
 .todo li a:hover {
-    color: #8D2828;
+    color: #5297f8;
     text-decoration: none;
 }
 
 .todo-number {
     text-align: center;
-    height: 30px;
-    width: 30px;
+    /* height: 30px;
+    width: 30px; */
     position: absolute;
-    color: #fff;
+    color: #1d5cb5;
     left: 0;
     top: 0;
-    margin-top: 5px;
+    margin-top: 2px;
     line-height: 30px;
-    -webkit-border-radius: 10%;
+    /* -webkit-border-radius: 10%;
     -moz-border-radius: 10%;
     border-radius: 10%;
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
     transition: all 0.5s ease;
-    background: #222;
+    background: #222; */
 }
 
 li a:hover .todo-number {
@@ -1295,13 +1337,17 @@ section.box-middle .line-label {
 section.box-middle {
     /* background: rgb(213, 76, 76);
     background: linear-gradient(315deg, rgba(213, 76, 76, 1) 0%, rgba(141, 40, 40, 1) 100%); */
-    background-color: #fff;
+    background-color: #222;
     padding: 15px;
     border-bottom: 1px solid #d7d7d7;
 }
 
 .box-middle .thumbnail {
     background-color: #fff;
+}
+
+.black-box.box-middle.thumb-ito .thumbnail h4 a {
+    color: #fff;
 }
 
 .box-middle.thumb-ito .thumbnail h4 a {
@@ -1333,11 +1379,11 @@ h4.media-heading {
     border: none;
     margin-bottom: 0;
     padding: 0;
-    -webkit-border-radius: 7px;
+    /* -webkit-border-radius: 7px;
     -moz-border-radius: 7px;
     -ms-border-radius: 7px;
     -o-border-radius: 7px;
-    border-radius: 7px;
+    border-radius: 7px; */
 }
 
 .thumb-ito.vid-pic .thumbnail {
@@ -1347,7 +1393,7 @@ h4.media-heading {
 }
 
 .thumb-ito .thumbnail .caption {
-    min-height: 130px;
+    height: 100%;
     padding: 10px 0;
     height: auto;
     overflow: hidden;
@@ -1356,6 +1402,14 @@ h4.media-heading {
 .thumb-ito .thumbnail .caption h5 {
     margin: 0;
     padding-bottom: 5px;
+}
+
+.slide-vid-pic {
+    
+}
+
+.box-middle .slide-vid-pic .thumbnail {
+    background-color: transparent;
 }
 
 .list-sidebar li {
@@ -1611,7 +1665,11 @@ h4.media-heading {
 }
 
 .entry-box .entry-content .post li>a {
-    color:#24416c;
+    color:#1d5cb5;
+}
+
+.entry-box .entry-content .post li.active>a {
+    color: #fff;
 }
 
 .entry-box .entry-content .sharing-box ul {
@@ -1754,12 +1812,13 @@ news-tags {
 .cube-content .box-video {
     position: relative;
     background: #222;
-    height: 253px;
+    /* height: 253px; */
+    height: 180px;
     overflow: hidden;
 }
 
 .cube-content .box-video {
-    height: 235px;
+    height: 200px;
 }
 
 .thumbnail .box-video img,
@@ -1970,7 +2029,7 @@ footer .network a {
 } */
 
 .box-network .todo-number {
-    background-color: #c00;
+    background-color: transparent;
 }
 
 .load-update {

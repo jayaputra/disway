@@ -92,6 +92,18 @@
                                 </li>
                             </ul>
                         </section>
+                        <!------ Banner ------>
+                        <div
+                            style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                            <a href=""><img src="img/banner-1.png" style="width:100%"></a>
+                        </div>
+                        <!------ End Banner ------>
+                        <!------ Banner ------>
+                        <div
+                            style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                            <a href=""><img src="img/banner-1.png" style="width:100%"></a>
+                        </div>
+                        <!------ End Banner ------>
                     </div>
 
                     <div class="bottom-15">
@@ -320,11 +332,11 @@
         </div>
 
         <div class="row">
-            <section class="box-middle thumb-ito bottom-15">
-                <div class="label-to bottom-10 content-wrap align-center justify-content-between">
-                    <h2>Podcast</h2>
-                    <p><a href="video.php">Lihat Semua <i class="fa fa-chevron-right"></i></a></p>
-                </div>
+            <div class="label-to bottom-10 content-wrap align-center justify-content-between p-horizontal-15">
+                <h2>Podcast</h2>
+                <p><a href="video.php">Lihat Semua <i class="fa fa-chevron-right"></i></a></p>
+            </div>
+            <section class="black-box box-middle thumb-ito bottom-15">
                 <div class="slide-vid-pic owl-carousel owl-theme">
                     <div class="item">
                         <div class="thumbnail">
@@ -516,6 +528,108 @@
                                 <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
                             </div>
                             <!------ End Banner ------>
+
+                            <div class="bottom-15">
+                                <div class="media-body media-content media-middle">
+                                    <h2 class="media-heading">
+                                        <a href="detail-artikel.php">PDAM Sidoarjo Butuh 90 Ribu Pelanggan Baru</a>
+                                    </h2>
+                                    <div class="pull-left right-15">
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
+                                    </div>
+                                    <p class="date">10 menit lalu</p>
+                                </div>
+                                <div class="media-right thumb-post">
+                                    <div class="frame-thumb">
+                                        <img class="media-object gambarkecil" src="img/foto1.jpg" alt="">
+                                        <a href="detail-artikel.php" title="" class="img-link"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="bottom-15">
+                                <div class="media-body media-content media-middle">
+                                    <h2 class="media-heading">
+                                        <a href="detail-artikel.php">Reni Astuti Tak Temukan Minyak Goreng
+                                            Bersubsidi</a>
+                                    </h2>
+                                    <div class="pull-left right-15">
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
+                                    </div>
+                                    <p class="date">15 menit lalu</p>
+                                </div>
+                                <div class="media-right thumb-post">
+                                    <div class="frame-thumb">
+                                        <img class="media-object gambarkecil" src="img/foto2.jpg" alt="">
+                                        <a href="detail-artikel.php" title="" class="img-link"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="bottom-15">
+                                <div class="media-body media-content media-middle">
+                                    <h2 class="media-heading">
+                                        <a href="detail-artikel.php">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
+                                    </h2>
+                                    <div class="pull-left right-15">
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
+                                    </div>
+                                    <p class="date">30 menit lalu</p>
+                                </div>
+                                <div class="media-right thumb-post">
+                                    <div class="frame-thumb">
+                                        <img class="media-object gambarkecil" src="img/foto3.jpg" alt="">
+                                        <a href="detail-artikel.php" title="" class="img-link"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="bottom-15">
+                                <div class="media-body media-content media-middle">
+                                    <h2 class="media-heading">
+                                        <a href="detail-artikel.php">Wadas Batu Cadas, Dimasuki Politik Juga</a>
+                                    </h2>
+                                    <div class="pull-left right-15">
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
+                                    </div>
+                                    <p class="date">1 jam lalu</p>
+                                </div>
+                                <div class="media-right thumb-post">
+                                    <div class="frame-thumb">
+                                        <img class="media-object gambarkecil" src="img/foto4.jpg" alt="">
+                                        <a href="detail-artikel.php" title="" class="img-link"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="bottom-15">
+                                <div class="media-body media-content media-middle">
+                                    <h2 class="media-heading">
+                                        <a href="detail-artikel.php">Wakil Ketua Diperiksa KPK, Ketua PN Dilantik</a>
+                                    </h2>
+                                    <div class="pull-left right-15">
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
+                                    </div>
+                                    <p class="date">1 jam lalu</p>
+                                </div>
+                                <div class="media-right thumb-post">
+                                    <div class="frame-thumb">
+                                        <img class="media-object gambarkecil" src="img/foto5.jpg" alt="">
+                                        <a href="detail-artikel.php" title="" class="img-link"></a>
+                                    </div>
+                                </div>
+                            </div>
+
                         </section>
                     </div>
                 </div>
@@ -524,11 +638,12 @@
         </div>
 
         <div class="row">
-            <section class="box-middle thumb-ito bottom-30">
-                <div class="label-to bottom-10 content-wrap align-center justify-content-between">
-                    <h2>Video</h2>
-                    <p><a href="video.php">Lihat Semua <i class="fa fa-chevron-right"></i></a></p>
-                </div>
+            <div class="label-to bottom-10 content-wrap align-center justify-content-between p-horizontal-15">
+                <h2>Video</h2>
+                <p><a href="video.php">Lihat Semua <i class="fa fa-chevron-right"></i></a></p>
+            </div>
+            <section class="black-box box-middle thumb-ito bottom-30">
+
                 <div class="slide-vid-pic owl-carousel owl-theme">
                     <div class="item">
                         <div class="thumbnail">
@@ -720,6 +835,116 @@
                                 <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
                             </div>
                             <!------ End Banner ------>
+
+                            <div class="bottom-15">
+                                <div class="media-body media-content media-middle">
+                                    <h2 class="media-heading">
+                                        <a href="detail-artikel.php">PDAM Sidoarjo Butuh 90 Ribu Pelanggan Baru</a>
+                                    </h2>
+                                    <div class="pull-left right-15">
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
+                                    </div>
+                                    <p class="date">10 menit lalu</p>
+                                </div>
+                                <div class="media-right thumb-post">
+                                    <div class="frame-thumb">
+                                        <img class="media-object gambarkecil" src="img/foto1.jpg" alt="">
+                                        <a href="detail-artikel.php" title="" class="img-link"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="bottom-15">
+                                <div class="media-body media-content media-middle">
+                                    <h2 class="media-heading">
+                                        <a href="detail-artikel.php">Reni Astuti Tak Temukan Minyak Goreng
+                                            Bersubsidi</a>
+                                    </h2>
+                                    <div class="pull-left right-15">
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
+                                    </div>
+                                    <p class="date">15 menit lalu</p>
+                                </div>
+                                <div class="media-right thumb-post">
+                                    <div class="frame-thumb">
+                                        <img class="media-object gambarkecil" src="img/foto2.jpg" alt="">
+                                        <a href="detail-artikel.php" title="" class="img-link"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="bottom-15">
+                                <div class="media-body media-content media-middle">
+                                    <h2 class="media-heading">
+                                        <a href="detail-artikel.php">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
+                                    </h2>
+                                    <div class="pull-left right-15">
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
+                                    </div>
+                                    <p class="date">30 menit lalu</p>
+                                </div>
+                                <div class="media-right thumb-post">
+                                    <div class="frame-thumb">
+                                        <img class="media-object gambarkecil" src="img/foto3.jpg" alt="">
+                                        <a href="detail-artikel.php" title="" class="img-link"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="bottom-15">
+                                <div class="media-body media-content media-middle">
+                                    <h2 class="media-heading">
+                                        <a href="detail-artikel.php">Wadas Batu Cadas, Dimasuki Politik Juga</a>
+                                    </h2>
+                                    <div class="pull-left right-15">
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
+                                    </div>
+                                    <p class="date">1 jam lalu</p>
+                                </div>
+                                <div class="media-right thumb-post">
+                                    <div class="frame-thumb">
+                                        <img class="media-object gambarkecil" src="img/foto4.jpg" alt="">
+                                        <a href="detail-artikel.php" title="" class="img-link"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="bottom-15">
+                                <div class="media-body media-content media-middle">
+                                    <h2 class="media-heading">
+                                        <a href="detail-artikel.php">Wakil Ketua Diperiksa KPK, Ketua PN Dilantik</a>
+                                    </h2>
+                                    <div class="pull-left right-15">
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
+                                    </div>
+                                    <p class="date">1 jam lalu</p>
+                                </div>
+                                <div class="media-right thumb-post">
+                                    <div class="frame-thumb">
+                                        <img class="media-object gambarkecil" src="img/foto5.jpg" alt="">
+                                        <a href="detail-artikel.php" title="" class="img-link"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!------- Banner Middle1 -------->
+                            <div class="clearfix"></div>
+                            <div
+                                style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                                <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
+                            </div>
+                            <!------ End Banner ------>
+
                         </section>
                     </div>
                 </div>
@@ -728,11 +953,12 @@
         </div>
 
         <div class="row">
-            <section class="box-middle thumb-ito bottom-15">
-                <div class="label-to bottom-10 content-wrap align-center justify-content-between">
-                    <h2>Network</h2>
-                    <p><a href="#">Lihat Semua <i class="fa fa-chevron-right"></i></a></p>
-                </div>
+            <div class="label-to bottom-10 content-wrap align-center justify-content-between p-horizontal-15">
+                <h2>Network</h2>
+                <p><a href="#">Lihat Semua <i class="fa fa-chevron-right"></i></a></p>
+            </div>
+            <section class="black-box box-middle thumb-ito bottom-15">
+
                 <div class="slide-vid-pic owl-carousel owl-theme">
                     <div class="item">
                         <div class="thumbnail">
@@ -795,7 +1021,6 @@
 
                 </div>
             </section>
-
         </div>
 
         <div class="row">
@@ -912,9 +1137,445 @@
                                 </div>
                             </div>
 
-                            <div class="bottom-30 text-center">
-                                <h3><a href="indeks-page.php" class="red-color">Indeks</a></h3>
+                            <!------- Banner Middle1 -------->
+                            <div class="clearfix"></div>
+                            <div
+                                style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                                <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
                             </div>
+                            <!------ End Banner ------>
+
+                            <div class="bottom-15">
+                                <div class="media-body media-content media-middle">
+                                    <h2 class="media-heading">
+                                        <a href="detail-artikel.php">PDAM Sidoarjo Butuh 90 Ribu Pelanggan Baru</a>
+                                    </h2>
+                                    <div class="pull-left right-15">
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
+                                    </div>
+                                    <p class="date">10 menit lalu</p>
+                                </div>
+                                <div class="media-right thumb-post">
+                                    <div class="frame-thumb">
+                                        <img class="media-object gambarkecil" src="img/foto1.jpg" alt="">
+                                        <a href="detail-artikel.php" title="" class="img-link"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="bottom-15">
+                                <div class="media-body media-content media-middle">
+                                    <h2 class="media-heading">
+                                        <a href="detail-artikel.php">Reni Astuti Tak Temukan Minyak Goreng
+                                            Bersubsidi</a>
+                                    </h2>
+                                    <div class="pull-left right-15">
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
+                                    </div>
+                                    <p class="date">15 menit lalu</p>
+                                </div>
+                                <div class="media-right thumb-post">
+                                    <div class="frame-thumb">
+                                        <img class="media-object gambarkecil" src="img/foto2.jpg" alt="">
+                                        <a href="detail-artikel.php" title="" class="img-link"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="bottom-15">
+                                <div class="media-body media-content media-middle">
+                                    <h2 class="media-heading">
+                                        <a href="detail-artikel.php">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
+                                    </h2>
+                                    <div class="pull-left right-15">
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
+                                    </div>
+                                    <p class="date">30 menit lalu</p>
+                                </div>
+                                <div class="media-right thumb-post">
+                                    <div class="frame-thumb">
+                                        <img class="media-object gambarkecil" src="img/foto3.jpg" alt="">
+                                        <a href="detail-artikel.php" title="" class="img-link"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="bottom-15">
+                                <div class="media-body media-content media-middle">
+                                    <h2 class="media-heading">
+                                        <a href="detail-artikel.php">Wadas Batu Cadas, Dimasuki Politik Juga</a>
+                                    </h2>
+                                    <div class="pull-left right-15">
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
+                                    </div>
+                                    <p class="date">1 jam lalu</p>
+                                </div>
+                                <div class="media-right thumb-post">
+                                    <div class="frame-thumb">
+                                        <img class="media-object gambarkecil" src="img/foto4.jpg" alt="">
+                                        <a href="detail-artikel.php" title="" class="img-link"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="bottom-15">
+                                <div class="media-body media-content media-middle">
+                                    <h2 class="media-heading">
+                                        <a href="detail-artikel.php">Wakil Ketua Diperiksa KPK, Ketua PN Dilantik</a>
+                                    </h2>
+                                    <div class="pull-left right-15">
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
+                                    </div>
+                                    <p class="date">1 jam lalu</p>
+                                </div>
+                                <div class="media-right thumb-post">
+                                    <div class="frame-thumb">
+                                        <img class="media-object gambarkecil" src="img/foto5.jpg" alt="">
+                                        <a href="detail-artikel.php" title="" class="img-link"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!------- Banner Middle1 -------->
+                            <div class="clearfix"></div>
+                            <div
+                                style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                                <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
+                            </div>
+                            <!------ End Banner ------>
+
+                        </section>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="row">
+            <div class="label-to bottom-10 content-wrap align-center justify-content-between p-horizontal-15">
+                <h2>Foto</h2>
+                <p><a href="foto.php">Lihat Semua <i class="fa fa-chevron-right"></i></a></p>
+            </div>
+            <section class="black-box box-middle thumb-ito bottom-15">
+                <div class="slide-vid-pic owl-carousel owl-theme">
+                    <div class="item">
+                        <div class="thumbnail">
+                            <div class="box-video">
+                                <a href="detail-artikel.php">
+                                    <div class="box-video-icon">
+                                        <i class="fa fa-camera"></i>
+                                    </div>
+                                    <img class="img-responsive boxthumb" src="img/foto2.jpg" alt="">
+                                </a>
+                            </div>
+                            <div class="caption">
+                                <h4><a href="detail-artikel.php">Kasus Covid-19 di Kota Kediri Meningkat, Ruang Isolasi
+                                        RS hingga Tempat Isoter Mulai Terisi</a></h4>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="thumbnail">
+                            <div class="box-video">
+                                <a href="detail-artikel.php">
+                                    <div class="box-video-icon">
+                                        <i class="fa fa-camera"></i>
+                                    </div>
+                                    <img class="img-responsive boxthumb" src="img/foto4.jpg" alt="">
+                                </a>
+                            </div>
+                            <div class="caption">
+                                <h4><a href="detail-artikel.php">Kiat Sukses OneMed Group Menjadi Pemimpin Pasar Alkes
+                                        Dalam Negeri - Energi Disway Podcast #58</a></h4>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="thumbnail">
+                            <div class="box-video">
+                                <a href="detail-artikel.php">
+                                    <div class="box-video-icon">
+                                        <i class="fa fa-camera"></i>
+                                    </div>
+                                    <img class="img-responsive boxthumb" src="img/foto1.jpg" alt="">
+                                </a>
+                            </div>
+                            <div class="caption">
+                                <h4><a href="detail-artikel.php">Awas, Foto Launching Mobil F1 2022 Bisa Mengecoh!
+                                        Mainbalap Podcast Show #41 w/ Azrul & Dewo</a></h4>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="thumbnail">
+                            <div class="box-video">
+                                <a href="detail-artikel.php">
+                                    <div class="box-video-icon">
+                                        <i class="fa fa-camera"></i>
+                                    </div>
+                                    <img class="img-responsive boxthumb" src="img/foto4.jpg" alt="">
+                                </a>
+                            </div>
+                            <div class="caption">
+                                <h4><a href="detail-artikel.php">Lebih Baik Dibohongi daripada Ditakut-takuti (Gowes
+                                        Surabaya-Bali) Podcast Main Sepeda #72 Aza & Ray</a></h4>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-4 sidebar_area">
+                <!------ Banner ------>
+                <div
+                    style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                    <a href=""><img src="img/banner-r.jpg" /></a>
+                </div>
+                <!------ End Banner ------>
+            </div>
+            <div class="col-sm-8">
+                <div class="">
+                    <div class="bottom-15">
+                        <section>
+                            <div class="bottom-15">
+                                <div class="media-body media-content media-middle">
+                                    <h2 class="media-heading">
+                                        <a href="detail-artikel.php">PDAM Sidoarjo Butuh 90 Ribu Pelanggan Baru</a>
+                                    </h2>
+                                    <div class="pull-left right-15">
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
+                                    </div>
+                                    <p class="date">10 menit lalu</p>
+                                </div>
+                                <div class="media-right thumb-post">
+                                    <div class="frame-thumb">
+                                        <img class="media-object gambarkecil" src="img/foto1.jpg" alt="">
+                                        <a href="detail-artikel.php" title="" class="img-link"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="bottom-15">
+                                <div class="media-body media-content media-middle">
+                                    <h2 class="media-heading">
+                                        <a href="detail-artikel.php">Reni Astuti Tak Temukan Minyak Goreng
+                                            Bersubsidi</a>
+                                    </h2>
+                                    <div class="pull-left right-15">
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
+                                    </div>
+                                    <p class="date">15 menit lalu</p>
+                                </div>
+                                <div class="media-right thumb-post">
+                                    <div class="frame-thumb">
+                                        <img class="media-object gambarkecil" src="img/foto2.jpg" alt="">
+                                        <a href="detail-artikel.php" title="" class="img-link"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="bottom-15">
+                                <div class="media-body media-content media-middle">
+                                    <h2 class="media-heading">
+                                        <a href="detail-artikel.php">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
+                                    </h2>
+                                    <div class="pull-left right-15">
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
+                                    </div>
+                                    <p class="date">30 menit lalu</p>
+                                </div>
+                                <div class="media-right thumb-post">
+                                    <div class="frame-thumb">
+                                        <img class="media-object gambarkecil" src="img/foto3.jpg" alt="">
+                                        <a href="detail-artikel.php" title="" class="img-link"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="bottom-15">
+                                <div class="media-body media-content media-middle">
+                                    <h2 class="media-heading">
+                                        <a href="detail-artikel.php">Wadas Batu Cadas, Dimasuki Politik Juga</a>
+                                    </h2>
+                                    <div class="pull-left right-15">
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
+                                    </div>
+                                    <p class="date">1 jam lalu</p>
+                                </div>
+                                <div class="media-right thumb-post">
+                                    <div class="frame-thumb">
+                                        <img class="media-object gambarkecil" src="img/foto4.jpg" alt="">
+                                        <a href="detail-artikel.php" title="" class="img-link"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="bottom-15">
+                                <div class="media-body media-content media-middle">
+                                    <h2 class="media-heading">
+                                        <a href="detail-artikel.php">Wakil Ketua Diperiksa KPK, Ketua PN Dilantik</a>
+                                    </h2>
+                                    <div class="pull-left right-15">
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
+                                    </div>
+                                    <p class="date">1 jam lalu</p>
+                                </div>
+                                <div class="media-right thumb-post">
+                                    <div class="frame-thumb">
+                                        <img class="media-object gambarkecil" src="img/foto5.jpg" alt="">
+                                        <a href="detail-artikel.php" title="" class="img-link"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!------- Banner Middle1 -------->
+                            <div class="clearfix"></div>
+                            <div
+                                style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                                <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
+                            </div>
+                            <!------ End Banner ------>
+
+                            <div class="bottom-15">
+                                <div class="media-body media-content media-middle">
+                                    <h2 class="media-heading">
+                                        <a href="detail-artikel.php">PDAM Sidoarjo Butuh 90 Ribu Pelanggan Baru</a>
+                                    </h2>
+                                    <div class="pull-left right-15">
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
+                                    </div>
+                                    <p class="date">10 menit lalu</p>
+                                </div>
+                                <div class="media-right thumb-post">
+                                    <div class="frame-thumb">
+                                        <img class="media-object gambarkecil" src="img/foto1.jpg" alt="">
+                                        <a href="detail-artikel.php" title="" class="img-link"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="bottom-15">
+                                <div class="media-body media-content media-middle">
+                                    <h2 class="media-heading">
+                                        <a href="detail-artikel.php">Reni Astuti Tak Temukan Minyak Goreng
+                                            Bersubsidi</a>
+                                    </h2>
+                                    <div class="pull-left right-15">
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
+                                    </div>
+                                    <p class="date">15 menit lalu</p>
+                                </div>
+                                <div class="media-right thumb-post">
+                                    <div class="frame-thumb">
+                                        <img class="media-object gambarkecil" src="img/foto2.jpg" alt="">
+                                        <a href="detail-artikel.php" title="" class="img-link"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="bottom-15">
+                                <div class="media-body media-content media-middle">
+                                    <h2 class="media-heading">
+                                        <a href="detail-artikel.php">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
+                                    </h2>
+                                    <div class="pull-left right-15">
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
+                                    </div>
+                                    <p class="date">30 menit lalu</p>
+                                </div>
+                                <div class="media-right thumb-post">
+                                    <div class="frame-thumb">
+                                        <img class="media-object gambarkecil" src="img/foto3.jpg" alt="">
+                                        <a href="detail-artikel.php" title="" class="img-link"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="bottom-15">
+                                <div class="media-body media-content media-middle">
+                                    <h2 class="media-heading">
+                                        <a href="detail-artikel.php">Wadas Batu Cadas, Dimasuki Politik Juga</a>
+                                    </h2>
+                                    <div class="pull-left right-15">
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
+                                    </div>
+                                    <p class="date">1 jam lalu</p>
+                                </div>
+                                <div class="media-right thumb-post">
+                                    <div class="frame-thumb">
+                                        <img class="media-object gambarkecil" src="img/foto4.jpg" alt="">
+                                        <a href="detail-artikel.php" title="" class="img-link"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="bottom-15">
+                                <div class="media-body media-content media-middle">
+                                    <h2 class="media-heading">
+                                        <a href="detail-artikel.php">Wakil Ketua Diperiksa KPK, Ketua PN Dilantik</a>
+                                    </h2>
+                                    <div class="pull-left right-15">
+                                        <p class="text-uppercase red-color labelkanal">
+                                            <a href="kanal.php"><span>Nasional</span></a>
+                                        </p>
+                                    </div>
+                                    <p class="date">1 jam lalu</p>
+                                </div>
+                                <div class="media-right thumb-post">
+                                    <div class="frame-thumb">
+                                        <img class="media-object gambarkecil" src="img/foto5.jpg" alt="">
+                                        <a href="detail-artikel.php" title="" class="img-link"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="bottom-30 text-center">
+                                <h3 class="btn btn-default border-red-outline btn-lg"><a href="indeks-page.php"
+                                        class="red-color">Indeks</a></h3>
+                            </div>
+
+                            <!------- Banner Middle1 -------->
+                            <div class="clearfix"></div>
+                            <div
+                                style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                                <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
+                            </div>
+                            <!------ End Banner ------>
+
                         </section>
                     </div>
                 </div>
@@ -936,20 +1597,24 @@
                 </div>
                 <ul class="todo list-unstyled">
                     <li>
-                        <a href="detail-artikel.php"><span class="todo-number">1</span>Doa Wadas</a>
+                        <a href="detail-artikel.php"><span class="todo-number">1</span>Gerak Cepat, Pengaspalan Ulang
+                            Sirkuit Mandalika Ditargetkan Rampung Tepat Waktu</a>
                     </li>
                     <li>
-                        <a href="detail-artikel.php"><span class="todo-number">2</span>Protes Omicron</a>
+                        <a href="detail-artikel.php"><span class="todo-number">2</span>
+                            Jangan Sampai Tertipu, Ini Ciri-ciri Iphone HDC dan Bedanya dengan iPhone Original</a>
                     </li>
                     <li>
-                        <a href="detail-artikel.php"><span class="todo-number">3</span>Merah Putih</a>
+                        <a href="detail-artikel.php"><span class="todo-number">3</span>
+                            Wanita Tewas saat Senam Diving di Kolam Renang Hotel Berbintang di Banjarmasin</a>
                     </li>
                     <li>
-                        <a href="detail-artikel.php"><span class="todo-number">4</span>Ulang Pantun</a>
+                        <a href="detail-artikel.php"><span class="todo-number">4</span>
+                            Sandiaga Uno Sebut Akomodasi di 3 Gili Siap Menampung Penonton MotoGP</a>
                     </li>
                     <li>
-                        <a href="detail-artikel.php"><span class="todo-number">5</span>Pancingan Aceh
-                            Istanbul</a>
+                        <a href="detail-artikel.php"><span class="todo-number">5</span>
+                            Piala AFF U23, Kini Timnas Vietnam yang Diserang Badai Covid-19</a>
                     </li>
                 </ul>
             </section>

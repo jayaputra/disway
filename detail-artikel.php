@@ -61,17 +61,43 @@
 
                                 <div class="bottom-15">
                                     <img src="img/foto2.jpg" class="img-responsive img-rounded">
-                                    <p class="text-grey"><small>Keterangan dari foto</small></p>
+                                    <p class="text-grey"><small>Ferran Torres saat masih memakai jersey 'normal' ketika
+                                            lawan Napoli. Foto: AP/Joan Monfort</small></p>
                                 </div>
 
-                                <p>Minyak goreng kampung merupakan minyak goreng tradisional. Olahan minyak dari kelapa
+                                <!------- Banner Middle1 -------->
+                                <div class="clearfix"></div>
+                                <div
+                                    style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                                    <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
+                                </div>
+                                <!------ End Banner ------>
+
+                                <p><strong>JAKARTA, DISWAY.ID -</strong> Minyak goreng kampung merupakan minyak goreng
+                                    tradisional. Olahan minyak dari kelapa
                                     ini, merupakan asli buatan orang Gorontalo.</p>
                                 <p>Berbeda dengan minyak goreng pada umumnya, olahan yang satu ini memiliki rasa minyak
                                     yang khas. Itulah mengapa jika minyak goreng ini menjadi favorit warga Gorontalo
                                     hingga saat ini.</p>
-                                <p>Berbeda dengan minyak goreng pada umumnya, olahan yang satu ini memiliki rasa minyak
-                                    yang khas. Itulah mengapa jika minyak goreng ini menjadi favorit warga Gorontalo
-                                    hingga saat ini.</p>
+
+                                <!------- Banner Middle1 -------->
+                                <div class="clearfix"></div>
+                                <div
+                                    style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                                    <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
+                                </div>
+                                <!------ End Banner ------>
+
+                                <p class="blue-color">Baca Juga: <span class="blue-color"><strong><a href="">Selain
+                                                memiliki rasa dan aroma
+                                                yang gurih</a></strong></span></p>
+
+                                <p>Selain memiliki rasa dan aroma yang gurih, minyak goreng kampung dari tanah serambi
+                                    madinah ini, juga memiliki warna yang lebih bening ketimbang minyak goreng lain.</p>
+                                <p>Selain memiliki rasa dan aroma yang gurih, minyak goreng kampung dari tanah serambi
+                                    madinah ini, juga memiliki warna yang lebih bening ketimbang minyak goreng lain.</p>
+                                <p>Selain memiliki rasa dan aroma yang gurih, minyak goreng kampung dari tanah serambi
+                                    madinah ini, juga memiliki warna yang lebih bening ketimbang minyak goreng lain.</p>
 
                                 <!------- Banner Middle1 -------->
                                 <div class="clearfix"></div>
@@ -87,35 +113,26 @@
                                     madinah ini, juga memiliki warna yang lebih bening ketimbang minyak goreng lain.</p>
                                 <p>Selain memiliki rasa dan aroma yang gurih, minyak goreng kampung dari tanah serambi
                                     madinah ini, juga memiliki warna yang lebih bening ketimbang minyak goreng lain.</p>
+                                <p>Selain memiliki rasa dan aroma yang gurih, minyak goreng kampung dari tanah serambi
+                                    madinah ini, juga memiliki warna yang lebih bening ketimbang minyak goreng lain.</p>
+                                <p>Selain memiliki rasa dan aroma yang gurih, minyak goreng kampung dari tanah serambi
+                                    madinah ini, juga memiliki warna yang lebih bening ketimbang minyak goreng lain.</p>
 
-                                <!------- Banner Middle1 -------->
-                                <div class="clearfix"></div>
-                                <div
-                                    style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
-                                    <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
+                                <div class="text-center">
+                                    <ul class="pagination">
+                                        <li class="active"><a href="#">1</a></li>
+                                        <li><a href="#">2</a></li>
+                                        <li>
+                                            <a href="#" aria-label="Next">
+                                                <span aria-hidden="true">&raquo;</span>
+                                            </a>
+                                        </li>
+                                    </ul>
                                 </div>
-                                <!------ End Banner ------>
-
-                                <p>Selain memiliki rasa dan aroma yang gurih, minyak goreng kampung dari tanah serambi
-                                    madinah ini, juga memiliki warna yang lebih bening ketimbang minyak goreng lain.</p>
-                                <p>Selain memiliki rasa dan aroma yang gurih, minyak goreng kampung dari tanah serambi
-                                    madinah ini, juga memiliki warna yang lebih bening ketimbang minyak goreng lain.</p>
                                 <div class="clearfix"></div>
-
+                                <p class="bottom-15"><small>Sumber: <span
+                                            class="blue-color"><strong>radarbanten</strong></span></small></p>
                             </div>
-
-                            <div class="text-center">
-                                <ul class="pagination">
-                                    <li class="active"><a href="#">1</a></li>
-                                    <li><a href="#">2</a></li>
-                                    <li>
-                                        <a href="#" aria-label="Next">
-                                            <span aria-hidden="true">&raquo;</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="clearfix"></div>
 
                             <div class="news-tags clearfix">
                                 <ul class="list-inline">
@@ -152,6 +169,14 @@
                             </div>
 
                         </div>
+
+                        <!------- Banner Middle1 -------->
+                        <div class="clearfix"></div>
+                        <div
+                            style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                            <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
+                        </div>
+                        <!------ End Banner ------>
 
                         <div class="bottom-15">
                             <section>
@@ -260,18 +285,6 @@
                                             <a href="detail-artikel.php" title="" class="img-link"></a>
                                         </div>
                                     </div>
-                                </div>
-
-                                <div class="text-center">
-                                    <ul class="pagination">
-                                        <li class="active"><a href="#">1</a></li>
-                                        <li><a href="#">2</a></li>
-                                        <li>
-                                            <a href="#" aria-label="Next">
-                                                <span aria-hidden="true">&raquo;</span>
-                                            </a>
-                                        </li>
-                                    </ul>
                                 </div>
 
                             </section>
@@ -395,19 +408,24 @@
                 </div>
                 <ul class="todo list-unstyled">
                     <li>
-                        <a href="detail-artikel.php"><span class="todo-number">1</span>Doa Wadas</a>
+                        <a href="detail-artikel.php"><span class="todo-number">1</span>Gerak Cepat, Pengaspalan Ulang
+                            Sirkuit Mandalika Ditargetkan Rampung Tepat Waktu</a>
                     </li>
                     <li>
-                        <a href="detail-artikel.php"><span class="todo-number">2</span>Protes Omicron</a>
+                        <a href="detail-artikel.php"><span class="todo-number">2</span>
+                            Jangan Sampai Tertipu, Ini Ciri-ciri Iphone HDC dan Bedanya dengan iPhone Original</a>
                     </li>
                     <li>
-                        <a href="detail-artikel.php"><span class="todo-number">3</span>Merah Putih</a>
+                        <a href="detail-artikel.php"><span class="todo-number">3</span>
+                            Wanita Tewas saat Senam Diving di Kolam Renang Hotel Berbintang di Banjarmasin</a>
                     </li>
                     <li>
-                        <a href="detail-artikel.php"><span class="todo-number">4</span>Ulang Pantun</a>
+                        <a href="detail-artikel.php"><span class="todo-number">4</span>
+                            Sandiaga Uno Sebut Akomodasi di 3 Gili Siap Menampung Penonton MotoGP</a>
                     </li>
                     <li>
-                        <a href="detail-artikel.php"><span class="todo-number">5</span>Pancingan Aceh Istanbul</a>
+                        <a href="detail-artikel.php"><span class="todo-number">5</span>
+                            Piala AFF U23, Kini Timnas Vietnam yang Diserang Badai Covid-19</a>
                     </li>
                 </ul>
             </section>

@@ -252,14 +252,14 @@
                             <li><a href="kanal.php">Hardware</a></li>
                         </ul>
                     </li>
-                    <li class="dropdown">
+                    <!-- <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Images <span
                                 class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="foto.php">Foto</a></li>
                             <li><a href="video.php">Video</a></li>
                         </ul>
-                    </li>
+                    </li> -->
                     <li>
                         <a href="indeks-page.php">Indeks</a>
                     </li>
