@@ -89,7 +89,7 @@
                                             </a>
                                         </div>
                                         <div class="caption">
-                                            <h4><a href="detail-video.php">Merawat PAN Agar Tetap di Jalan Tengah ala
+                                            <h4><a href="detail-detail-artikel.php">Merawat PAN Agar Tetap di Jalan Tengah ala
                                                     Bang Zulhas -
                                                     Energi Disway Podcast #60</a></h4>
 
@@ -99,7 +99,7 @@
                                 <div class="col-sm-4">
                                     <div class="thumbnail">
                                         <div class="box-video">
-                                            <a href="detail-video.php">
+                                            <a href="detail-artikel.php">
                                                 <div class="box-video-icon">
                                                     <i class="fa fa-play"></i>
                                                 </div>
@@ -107,7 +107,7 @@
                                             </a>
                                         </div>
                                         <div class="caption">
-                                            <h4><a href="detail-video.php">Merawat PAN Agar Tetap di Jalan Tengah ala
+                                            <h4><a href="detail-artikel.php">Merawat PAN Agar Tetap di Jalan Tengah ala
                                                     Bang Zulhas -
                                                     Energi Disway Podcast #60</a></h4>
 
@@ -119,7 +119,7 @@
                                 <div class="col-sm-4">
                                     <div class="thumbnail">
                                         <div class="box-video">
-                                            <a href="detail-video.php">
+                                            <a href="detail-artikel.php">
                                                 <div class="box-video-icon">
                                                     <i class="fa fa-play"></i>
                                                 </div>
@@ -127,7 +127,7 @@
                                             </a>
                                         </div>
                                         <div class="caption">
-                                            <h4><a href="detail-video.php">Merawat PAN Agar Tetap di Jalan Tengah ala
+                                            <h4><a href="detail-artikel.php">Merawat PAN Agar Tetap di Jalan Tengah ala
                                                     Bang Zulhas -
                                                     Energi Disway Podcast #60</a></h4>
 
@@ -137,7 +137,7 @@
                                 <div class="col-sm-4">
                                     <div class="thumbnail">
                                         <div class="box-video">
-                                            <a href="detail-video.php">
+                                            <a href="detail-artikel.php">
                                                 <div class="box-video-icon">
                                                     <i class="fa fa-play"></i>
                                                 </div>
@@ -145,7 +145,7 @@
                                             </a>
                                         </div>
                                         <div class="caption">
-                                            <h4><a href="detail-video.php">Merawat PAN Agar Tetap di Jalan Tengah ala
+                                            <h4><a href="detail-artikel.php">Merawat PAN Agar Tetap di Jalan Tengah ala
                                                     Bang Zulhas -
                                                     Energi Disway Podcast #60</a></h4>
 
