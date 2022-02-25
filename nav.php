@@ -150,7 +150,7 @@
             <div class="">
                 <ul class="nav navbar-nav">
                     <li class="active dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">News <span
+                        <a href="kanal.php" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">News <span
                                 class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="kanal.php">Nasional</a></li>
@@ -162,7 +162,7 @@
                         </ul>
                     </li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Bisnis <span
+                        <a href="kanal.php" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Bisnis <span
                                 class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="kanal.php">Makro</a></li>
@@ -182,7 +182,7 @@
                         <a href="kanal.php">Viral</a>
                     </li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Entertainment
+                        <a href="kanal.php" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Entertainment
                             <span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="kanal.php">Seleb</a></li>
@@ -192,7 +192,7 @@
                         </ul>
                     </li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Bola <span
+                        <a href="kanal.php" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Bola <span
                                 class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="kanal.php">Liga Indonesia</a></li>
@@ -203,14 +203,14 @@
                         </ul>
                     </li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Sport <span
+                        <a href="kanal.php" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Sport <span
                                 class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="kanal.php">Olahraga Umum</a></li>
                         </ul>
                     </li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Otomotif <span
+                        <a href="kanal.php" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Otomotif <span
                                 class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="kanal.php">Mobil</a></li>
@@ -219,25 +219,25 @@
                         </ul>
                     </li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Lifestyle <span
+                        <a href="kanal.php" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Lifestyle <span
                                 class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">Fashion</a></li>
-                            <li><a href="#">Keluarga</a></li>
-                            <li><a href="#">Kecantikan</a></li>
+                            <li><a href="kanal.php">Fashion</a></li>
+                            <li><a href="kanal.php">Keluarga</a></li>
+                            <li><a href="kanal.php">Kecantikan</a></li>
                         </ul>
                     </li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Health <span
+                        <a href="kanal.php" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Health <span
                                 class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">Men</a></li>
-                            <li><a href="#">Women</a></li>
-                            <li><a href="#">Parenting</a></li>
+                            <li><a href="kanal.php">Men</a></li>
+                            <li><a href="kanal.php">Women</a></li>
+                            <li><a href="kanal.php">Parenting</a></li>
                         </ul>
                     </li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Travel <span
+                        <a href="kanal.php" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Travel <span
                                 class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="kanal.php">Kuliner</a></li>
@@ -246,7 +246,7 @@
                         </ul>
                     </li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Tekno <span
+                        <a href="kanal.php" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Tekno <span
                                 class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="kanal.php">Gadget</a></li>

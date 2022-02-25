@@ -761,8 +761,9 @@
                                 </section>
 
                                 <section class="grid bottom-15">
-                                    <div class="label-to bottom-10">
+                                    <div class="label-to bottom-10 content-wrap align-center justify-content-between">
                                         <h2>Disway E-Paper</h2>
+                                        <p><a href="epaper.php">Lihat Semua <i class="fa fa-chevron-right"></i></a></p>
                                     </div>
                                     <div class="block-paper">
                                         <a href="">

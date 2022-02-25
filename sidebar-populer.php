@@ -26,11 +26,12 @@
         </section>
 
         <section class="grid bottom-15">
-            <div class="label-to bottom-10">
+            <div class="label-to bottom-10 content-wrap align-center justify-content-between">
                 <h2>Disway E-Paper</h2>
+                <p><a href="epaper.php">Lihat Semua <i class="fa fa-chevron-right"></i></a></p>
             </div>
             <div class="block-paper">
-                <a href="">
+                <a href="detail-epaper.php">
                     <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                     class="img-responsive center-block">
                 </a>

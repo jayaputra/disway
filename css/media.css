@@ -647,6 +647,11 @@
 }
 
 @media (min-width: 768px) {
+
+    .dropdown:hover .dropdown-menu {
+        display: block;
+    }
+
     .navbar-static-top {
         border-radius: 0;
     }

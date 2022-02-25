@@ -37,7 +37,7 @@
                 </ul>
 
                 <section class="bottom-30">
-                    <div class="label-to bottom-10 content-wrap align-center">
+                    <div class="label-to bottom-15 content-wrap align-center">
                         <h2 class="label-to">Other</h2>
                     </div>
                     <div class="post text-black-1">
