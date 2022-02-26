@@ -1250,13 +1250,11 @@ h2.media-heading {
 }
 
 .navbar-inverse .navbar-nav i{
-    /* position: absolute;
-    right: 0;
-    top: 0; */
     color: #fff;
     padding-left: 10px;
-    vertical-align: top;
+    vertical-align: middle;
     float: right;
+    cursor: pointer;
 }
  
 .nav-tabs.nav-justified {
