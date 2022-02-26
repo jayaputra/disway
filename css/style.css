@@ -290,6 +290,10 @@ a:hover {
     margin-bottom: 15px;
 }
 
+.thumbnail .block-paper .caption {
+    color: #fff;
+}
+
 .block-paper img {
     width: 250px;
 }

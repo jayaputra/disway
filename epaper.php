@@ -49,9 +49,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                             <div class="col-sm-3">
                                 <div class="thumbnail">
@@ -60,9 +62,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                             <div class="col-sm-3">
                                 <div class="thumbnail">
@@ -71,9 +75,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                             <div class="col-sm-3">
                                 <div class="thumbnail">
@@ -82,9 +88,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
 
@@ -96,9 +104,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                             <div class="col-sm-3">
                                 <div class="thumbnail">
@@ -107,9 +117,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                             <div class="col-sm-3">
                                 <div class="thumbnail">
@@ -118,9 +130,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                             <div class="col-sm-3">
                                 <div class="thumbnail">
@@ -129,9 +143,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
 
@@ -151,9 +167,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                             <div class="col-sm-3">
                                 <div class="thumbnail">
@@ -162,9 +180,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                             <div class="col-sm-3">
                                 <div class="thumbnail">
@@ -173,9 +193,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                             <div class="col-sm-3">
                                 <div class="thumbnail">
@@ -184,9 +206,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
 
@@ -198,9 +222,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                             <div class="col-sm-3">
                                 <div class="thumbnail">
@@ -209,9 +235,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                             <div class="col-sm-3">
                                 <div class="thumbnail">
@@ -220,9 +248,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                             <div class="col-sm-3">
                                 <div class="thumbnail">
@@ -231,9 +261,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
 
@@ -253,9 +285,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                             <div class="col-sm-3">
                                 <div class="thumbnail">
@@ -264,9 +298,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                             <div class="col-sm-3">
                                 <div class="thumbnail">
@@ -275,9 +311,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                             <div class="col-sm-3">
                                 <div class="thumbnail">
@@ -286,9 +324,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
 
@@ -300,9 +340,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                             <div class="col-sm-3">
                                 <div class="thumbnail">
@@ -311,9 +353,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                             <div class="col-sm-3">
                                 <div class="thumbnail">
@@ -322,9 +366,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                             <div class="col-sm-3">
                                 <div class="thumbnail">
@@ -333,9 +379,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
 
@@ -356,9 +404,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                             <div class="col-sm-3">
                                 <div class="thumbnail">
@@ -367,9 +417,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                             <div class="col-sm-3">
                                 <div class="thumbnail">
@@ -378,9 +430,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                             <div class="col-sm-3">
                                 <div class="thumbnail">
@@ -389,9 +443,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
 
@@ -403,9 +459,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                             <div class="col-sm-3">
                                 <div class="thumbnail">
@@ -414,9 +472,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                             <div class="col-sm-3">
                                 <div class="thumbnail">
@@ -425,9 +485,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                             <div class="col-sm-3">
                                 <div class="thumbnail">
@@ -436,9 +498,11 @@
                                             <img src="https://dev.disway.id/thumbs/extra-large/uploads/epaper/2021/09/18//cover-61495e61653bd1.webp"
                                                 class="img-responsive center-block">
                                         </a>
+                                        <div class="caption">
+                                            <h4>Diway - Januari 2022</h4>
+                                        </div>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
 
