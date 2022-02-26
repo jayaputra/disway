@@ -1221,15 +1221,44 @@ h2.media-heading {
     position: relative;
 }
 
+.navbar-inverse .navbar-nav>li {
+    padding: 1.75rem .5rem;
+}
+
+.navbar-inverse .navbar-nav>.active {
+    background-color: #000;
+}
+
+.navbar-inverse .navbar-nav>li:first-child{
+    padding-left: 15px;
+}
+
+.navbar-inverse .navbar-nav>li:last-child{
+    padding-right: 15px;
+}
+
 .navbar-inverse .navbar-nav>li>a {
-    padding: 1.6rem .55rem;
+    /* padding: 1.6rem .55rem; */
+    padding: 0;
+    float: left;
     text-transform: uppercase;
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: 700;
     font-size: 13px;
+    line-height: normal;
     color: #f4f4f4;
 }
 
+.navbar-inverse .navbar-nav i{
+    /* position: absolute;
+    right: 0;
+    top: 0; */
+    color: #fff;
+    padding-left: 10px;
+    vertical-align: top;
+    float: right;
+}
+ 
 .nav-tabs.nav-justified {
     position: relative;
     background: white;

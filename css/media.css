@@ -70,9 +70,12 @@
         white-space: nowrap;
     }
 
-    .navbar-inverse .navbar-nav>li>a {
-        padding-left: 10px;
-        padding-right: 10px;
+    .navbar-inverse .navbar-nav>li {
+        padding-right: 12px;
+    }
+
+    .navbar-inverse .navbar-nav i {
+        padding-left: 15px;
     }
 
     .nav>li {
@@ -648,10 +651,6 @@
 
 @media (min-width: 768px) {
 
-    .dropdown:hover .dropdown-menu {
-        display: block;
-    }
-
     .navbar-static-top {
         border-radius: 0;
     }
@@ -666,16 +665,9 @@
         margin-left: -15px;
     }
 
-    .navbar-nav {
-        float: left;
-        margin: 0;
-    }
-
     .navbar-nav>li {
         float: left;
     }
-
-
 
     .navbar-nav>li>a {
         padding-top: 15px;

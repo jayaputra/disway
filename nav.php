@@ -150,8 +150,7 @@
             <div class="">
                 <ul class="nav navbar-nav">
                     <li class="active dropdown">
-                        <a href="kanal.php" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">News <span
-                                class="caret"></span></a>
+                        <a href="kanal.php" class="dropdown-toggle">News</a><i class="fa fa-caret-down" data-toggle="dropdown" aria-expanded="false"></i>
                         <ul class="dropdown-menu">
                             <li><a href="kanal.php">Nasional</a></li>
                             <li><a href="kanal.php">Megapolitan</a></li>
@@ -162,8 +161,7 @@
                         </ul>
                     </li>
                     <li class="dropdown">
-                        <a href="kanal.php" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Bisnis <span
-                                class="caret"></span></a>
+                        <a href="kanal.php" class="dropdown-toggle">Bisnis</a><i class="fa fa-caret-down" data-toggle="dropdown" aria-expanded="false"></i>
                         <ul class="dropdown-menu">
                             <li><a href="kanal.php">Makro</a></li>
                             <li><a href="kanal.php">Inspirasi</a></li>
@@ -182,8 +180,7 @@
                         <a href="kanal.php">Viral</a>
                     </li>
                     <li class="dropdown">
-                        <a href="kanal.php" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Entertainment
-                            <span class="caret"></span></a>
+                        <a href="kanal.php" class="dropdown-toggle">Entertainment</a><i class="fa fa-caret-down" data-toggle="dropdown" aria-expanded="false"></i>
                         <ul class="dropdown-menu">
                             <li><a href="kanal.php">Seleb</a></li>
                             <li><a href="kanal.php">Musik</a></li>
@@ -192,8 +189,7 @@
                         </ul>
                     </li>
                     <li class="dropdown">
-                        <a href="kanal.php" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Bola <span
-                                class="caret"></span></a>
+                        <a href="kanal.php" class="dropdown-toggle">Bola</a><i class="fa fa-caret-down" data-toggle="dropdown" aria-expanded="false"></i>
                         <ul class="dropdown-menu">
                             <li><a href="kanal.php">Liga Indonesia</a></li>
                             <li><a href="kanal.php">Liga Inggris</a></li>
@@ -203,15 +199,13 @@
                         </ul>
                     </li>
                     <li class="dropdown">
-                        <a href="kanal.php" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Sport <span
-                                class="caret"></span></a>
+                        <a href="kanal.php" class="dropdown-toggle">Sport</a><i class="fa fa-caret-down" data-toggle="dropdown" aria-expanded="false"></i>
                         <ul class="dropdown-menu">
                             <li><a href="kanal.php">Olahraga Umum</a></li>
                         </ul>
                     </li>
                     <li class="dropdown">
-                        <a href="kanal.php" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Otomotif <span
-                                class="caret"></span></a>
+                        <a href="kanal.php" class="dropdown-toggle">Otomotif</a><i class="fa fa-caret-down" data-toggle="dropdown" aria-expanded="false"></i>
                         <ul class="dropdown-menu">
                             <li><a href="kanal.php">Mobil</a></li>
                             <li><a href="kanal.php">Motor</a></li>
@@ -219,8 +213,7 @@
                         </ul>
                     </li>
                     <li class="dropdown">
-                        <a href="kanal.php" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Lifestyle <span
-                                class="caret"></span></a>
+                        <a href="kanal.php" class="dropdown-toggle">Lifestyle</a><i class="fa fa-caret-down" data-toggle="dropdown" aria-expanded="false"></i>
                         <ul class="dropdown-menu">
                             <li><a href="kanal.php">Fashion</a></li>
                             <li><a href="kanal.php">Keluarga</a></li>
@@ -228,8 +221,7 @@
                         </ul>
                     </li>
                     <li class="dropdown">
-                        <a href="kanal.php" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Health <span
-                                class="caret"></span></a>
+                        <a href="kanal.php" class="dropdown-toggle">Health</a><i class="fa fa-caret-down" data-toggle="dropdown" aria-expanded="false"></i>
                         <ul class="dropdown-menu">
                             <li><a href="kanal.php">Men</a></li>
                             <li><a href="kanal.php">Women</a></li>
@@ -237,8 +229,7 @@
                         </ul>
                     </li>
                     <li class="dropdown">
-                        <a href="kanal.php" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Travel <span
-                                class="caret"></span></a>
+                        <a href="kanal.php" class="dropdown-toggle">Travel</a><i class="fa fa-caret-down" data-toggle="dropdown" aria-expanded="false"></i>
                         <ul class="dropdown-menu">
                             <li><a href="kanal.php">Kuliner</a></li>
                             <li><a href="kanal.php">Wisata</a></li>
@@ -246,8 +237,7 @@
                         </ul>
                     </li>
                     <li class="dropdown">
-                        <a href="kanal.php" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Tekno <span
-                                class="caret"></span></a>
+                        <a href="kanal.php" class="dropdown-toggle">Tekno</a><i class="fa fa-caret-down" data-toggle="dropdown" aria-expanded="false"></i>
                         <ul class="dropdown-menu">
                             <li><a href="kanal.php">Gadget</a></li>
                             <li><a href="kanal.php">Hardware</a></li>
