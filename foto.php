@@ -38,9 +38,6 @@
                 <div class="">
                     <header>
                         <div class="bottom-15">
-                            <div class="label-to bottom-15">
-                                <h2 class="text-uppercase">Foto</h2>
-                            </div>
                             <?php include ('slide-kanal.php') ?>
                         </div>
                     </header>

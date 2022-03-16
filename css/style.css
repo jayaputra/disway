@@ -693,16 +693,21 @@ a:hover.socmed .fa-inverse {
     border-radius: 7px 7px 0 0;
 }
 
+.slider {
+    position: relative;
+}
+
 .label-to.label-head {
     margin-top: 0;
     margin-bottom: 0;
     padding: 15px;
-    background-color: #fff;
-    border-bottom-right-radius: 15px;
+    background-color: #222;
+    color: #fff;
 }
 
 .label-to h2,
-.box-network .label-to {
+.box-network .label-to,
+h2.label-to.label-head {
     text-transform: uppercase;
     font-weight: 700;
     font-size: 22px;

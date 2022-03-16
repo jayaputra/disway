@@ -1,4 +1,7 @@
 <div class="slider">
+    <div class="lbl-wrap">
+        <h2 class="label-to label-head">Nasional</h2>
+    </div>
     <div id="sync1" class="owl-carousel owl-theme">
         <div class="item">
             <div class="slider-img mb-15">
