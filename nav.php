@@ -2,10 +2,10 @@
     <div class="top white main_header">
         <div class="container">
             <div class="row">
-                <div class="col-md-2 col-sm-4 col-xs-6">
+                <div class="col-md-3 col-sm-4 col-xs-6">
                     <div class="align-start content-wrap">
                         <a class="logo" href="index.php">
-                            <img src="img/logo-disway-new.png" alt="logo" class="img-responsive bottom-10">
+                            <img src="img/logo-disway-new.png" alt="logo" class="img-responsive center-block">
                         </a>
                     </div>
                 </div>
@@ -77,7 +77,7 @@
                     </div>
 
                 </div>
-                <div class="col-md-6 col-sm-8 center-block hidden-xs">
+                <div class="col-md-5 col-sm-8 center-block hidden-xs">
                     <div class="align-center content-wrap">
                         <form class="search-form" method="POST" action="search.php">
                             <div class="search-form search bottom-10">

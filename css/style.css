@@ -91,6 +91,10 @@ p {
     margin-bottom: 35px;
 }
 
+.top-10 {
+    margin-top: 10px;
+}
+
 .dblock {
     position: relative;
     display: block;
@@ -237,25 +241,17 @@ a:hover {
 .nkt__stick--left,
 .nkt__stick--right {
     min-height: 600px;
-    min-width: 120px;
+    min-width: 160px;
 }
 
 .nkt__stick--left {
-    left: -115px;
-    position: absolute;
-}
-
-.nkt__stick--left {
-    left: -135px;
-}
-
-.nkt__stick--right {
-    right: 115px;
+    left: -175px;
     position: absolute;
 }
 
 .nkt__stick--right {
-    right: 95px;
+    right: 55px;
+    position: absolute;
 }
 
 .nkt__stick--left:before,
@@ -1923,9 +1919,9 @@ news-tags {
 }
 
 .logo img {
-    width: 150px;
+    /* width: 150px;
     max-width: 200px;
-    height: auto;
+    height: auto; */
 }
 
 /*------- Login/Register --------*/
