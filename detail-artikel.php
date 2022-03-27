@@ -144,7 +144,7 @@
                                 </ul>
                             </div>
 
-                            <div class="sharing-box clearfix">
+                            <div class="sharing-box bottom-15 clearfix">
                                 <ul class="list-inline">
                                     <li><span class="text-grey"><strong>Share: </strong></span></li>
                                     <li class="facebook-icon">
@@ -168,6 +168,49 @@
                                 </ul>
                             </div>
 
+                            <div class="entry-content bottom-15 block-comments">
+                                <div class=" bottom-10">
+                                    <h3 class="label-to">Komentar: 2</h3>
+                                </div>
+                                <ul id="comment-list" class="main">
+                                    <li class="comment">
+                                        <div class="comment-wrapper">
+                                            <img src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=https%3A%2F%2Fwww.disway.id%2Fimg%2Fuser.jpg" class="profile-picture round">
+                                            <time>4 days ago</time>
+                                            <div class="name">Zo</div>
+                                            <div class="wrapper">
+                                                <div class="content menu-padding">246 kw super</div>
+                                            </div>
+                                        </div>
+                                        <ul class="child-comments">
+                                            <li class="comment">
+                                                <div class="comment-wrapper">
+                                                    <img src="https://www.disway.id/thumbs/tiny/uploads/user/91882/avatar/9188261fbafb341728.JPG" class="profile-picture round">
+                                                    <time>4 days ago</time>
+                                                    <div class="name">Leong</div><div class="wrapper">
+                                                        <div class="content menu-padding">hahahaha</div>
+                                                    </div>
+                                                </div>
+                                                <ul class="child-comments">
+                                                    <li class="comment">
+                                                        <div class="comment-wrapper">
+                                                            <img src="https://www.disway.id/thumbs/tiny/uploads/user/91882/avatar/9188261fbafb341728.JPG" class="profile-picture round">
+                                                            <time>4 days ago</time>
+                                                            <div class="name">Leong</div><div class="wrapper">
+                                                                <div class="content menu-padding">hahahaha</div>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <div class="data-container">
+                                
+                            </div>
                         </div>
 
                         <!------- Banner Middle1 -------->
