@@ -2999,7 +2999,7 @@ ul.pgwSlider>li,
 
 .block-comments ul.main li.comment .comment-wrapper,
 .block-comments ul.main li.comment .commenting-field {
-    padding: 0.5em;
+    padding: 10px;
 }
 
 .block-comments .textarea-wrapper {
@@ -3208,18 +3208,24 @@ ul.pgwSlider>li,
     margin-left: 0;
 }
 
+.block-comments .commenting-field.main {
+    margin-bottom: 0.75em;
+}
+
+/*--*/
+
 .social-block {
     width:100%;
-    margin: 0 auto;
     background-color:#f2f2f2;
-    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .social-block .social-login {
+    width: 100%;
     padding: 15px;
     margin: 0 auto;
-    margin-bottom: 30px;
 }
 
 .social-block .social-btn {

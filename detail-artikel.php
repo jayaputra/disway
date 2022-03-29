@@ -168,11 +168,11 @@
                                 </ul>
                             </div>
 
-                            <div class="entry-content bottom-15">
+                            <div class="entry-content bottom-30">
                                 <div class="social-block">
-                                    <div class="social-login">
+                                    <div class="social-login text-center">
                                         <h3 class="label-to bottom-15">Silahkan login untuk berkomentar</h3>
-                                        <a class="btn google-btn social-btn" role="button">
+                                        <a href="detail-artikel-komen.php" class="btn google-btn social-btn" role="button">
                                             <span><img class="" src="img/icon-google.png" width="24" height="24">
                                                 Masuk dengan Google</span>
                                         </a>

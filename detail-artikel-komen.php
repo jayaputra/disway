@@ -168,11 +168,27 @@
                                 </ul>
                             </div>
 
-                            <div class="entry-content bottom-15 block-comments">
-                                <div class=" bottom-10">
-                                    <h3 class="label-to">Komentar: 3</h3>
-                                </div>
-                                <ul id="comment-list" class="main">
+                            <div class="entry-content bottom-30 block-comments">
+                                <div class="social-block">
+                                    <div class="social-login">
+                                        <div class="bottom-10">
+                                            <h3 class="label-to bottom-15">Komentar: 3</h3>
+                                        </div>
+                                        <div class="comment-form">
+                                            <div class="commenting-field main">
+                                                <img src="https://www.disway.id/thumbs/tiny/uploads/104272/623fe449433ee.jpg"
+                                                    class="profile-picture round">
+                                                <div class="textarea-wrapper">
+
+                                                    <div class="textarea" data-placeholder="Add a comment"
+                                                        contenteditable="true" style="height: 4.5em;"></div>
+                                                    <div class="control-row">
+                                                        <span class="send save highlight-background enabled">Send</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <ul id="comment-list" class="main">
                                     <li class="comment">
                                         <div class="comment-wrapper">
                                             <img src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=https%3A%2F%2Fwww.disway.id%2Fimg%2Fuser.jpg"
@@ -190,12 +206,10 @@
                                                 <img src="https://www.disway.id/thumbs/tiny/uploads/104272/623fe449433ee.jpg"
                                                     class="profile-picture round">
                                                 <div class="textarea-wrapper">
-                                                    <span class="close"><span class="left"></span><span
-                                                            class="right"></span></span>
                                                     <div class="textarea" data-placeholder="Add a comment"
                                                         contenteditable="true" style="height: 4.5em;"></div>
                                                     <div class="control-row">
-                                                        <span class="send save highlight-background">Send</span>
+                                                        <span class="send save highlight-background enabled">Send</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -232,14 +246,13 @@
                                                         <img src="https://www.disway.id/thumbs/tiny/uploads/104272/623fe449433ee.jpg"
                                                             class="profile-picture round">
                                                         <div class="textarea-wrapper">
-                                                            <span class="close">
-                                                                <span class="left"></span><span class="right"></span></span>
                                                             <div class="textarea" data-placeholder="Add a comment"
                                                                 contenteditable="true" style="height: 3.65em;">
                                                                 <input class="reply-to-badge highlight-font-bold"
                                                                     type="button" value="@Leong">&nbsp;</div>
                                                             <div class="control-row">
-                                                                <span class="send save highlight-background enabled">Send</span>
+                                                                <span
+                                                                    class="send save highlight-background enabled">Send</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -248,6 +261,9 @@
                                         </ul>
                                     </li>
                                 </ul>
+                                    </div>
+                                </div>
+                                
                             </div>
 
                             <div class="data-container">
