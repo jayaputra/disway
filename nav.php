@@ -111,10 +111,10 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="socmed instagram" target="_blank" href="">
+                                        <a class="socmed twitter" target="_blank" href="">
                                             <span class="fa-stack fa-lg">
                                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                                <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+                                                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
                                             </span>
                                         </a>
                                     </li>
@@ -127,13 +127,14 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="socmed twitter" target="_blank" href="">
+                                        <a class="socmed instagram" target="_blank" href="">
                                             <span class="fa-stack fa-lg">
                                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                                <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
                                             </span>
                                         </a>
                                     </li>
+                                    
                                 </ul>
                             </div>
                         </div>

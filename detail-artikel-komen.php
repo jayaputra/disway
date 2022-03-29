@@ -168,138 +168,212 @@
                                 </ul>
                             </div>
 
-                            <div class="entry-content bottom-15">
-                                <div class="social-block">
-                                    <div class="social-login">
-                                        <h3 class="label-to bottom-15">Silahkan login untuk berkomentar</h3>
-                                        <a class="btn google-btn social-btn" role="button">
-                                            <span><img class="" src="img/icon-google.png" width="24" height="24">
-                                                Masuk dengan Google</span>
-                                        </a>
+                            <div class="entry-content bottom-15 block-comments">
+                                <div class=" bottom-10">
+                                    <h3 class="label-to">Komentar: 3</h3>
+                                </div>
+                                <ul id="comment-list" class="main">
+                                    <li class="comment">
+                                        <div class="comment-wrapper">
+                                            <img src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=https%3A%2F%2Fwww.disway.id%2Fimg%2Fuser.jpg"
+                                                class="profile-picture round">
+                                            <time>4 days ago</time>
+                                            <div class="name">Zo</div>
+                                            <div class="wrapper">
+                                                <div class="content menu-padding">246 kw super</div>
+                                                <span class="actions"><button class="action reply"
+                                                        type="button">Reply</button></span>
+                                            </div>
+                                        </div>
+                                        <ul class="child-comments">
+                                            <div class="commenting-field">
+                                                <img src="https://www.disway.id/thumbs/tiny/uploads/104272/623fe449433ee.jpg"
+                                                    class="profile-picture round">
+                                                <div class="textarea-wrapper">
+                                                    <span class="close"><span class="left"></span><span
+                                                            class="right"></span></span>
+                                                    <div class="textarea" data-placeholder="Add a comment"
+                                                        contenteditable="true" style="height: 4.5em;"></div>
+                                                    <div class="control-row">
+                                                        <span class="send save highlight-background">Send</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </ul>
+                                        <ul class="child-comments">
+                                            <li class="comment">
+                                                <div class="comment-wrapper">
+                                                    <img src="https://www.disway.id/thumbs/tiny/uploads/user/91882/avatar/9188261fbafb341728.JPG"
+                                                        class="profile-picture round">
+                                                    <time>4 days ago</time>
+                                                    <div class="name">Leong</div>
+                                                    <div class="wrapper">
+                                                        <div class="content menu-padding">hahahaha</div>
+                                                        <span class="actions"><button class="action reply"
+                                                                type="button">Reply</button></span>
+                                                    </div>
+                                                </div>
+                                                <ul class="child-comments">
+                                                    <li class="comment">
+                                                        <div class="comment-wrapper">
+                                                            <img src="https://www.disway.id/thumbs/tiny/uploads/user/91882/avatar/9188261fbafb341728.JPG"
+                                                                class="profile-picture round">
+                                                            <time>4 days ago</time>
+                                                            <div class="name">Leong</div>
+                                                            <div class="wrapper">
+                                                                <div class="content menu-padding">hahahaha</div>
+                                                                <span class="actions"><button class="action reply"
+                                                                        type="button">Reply</button></span>
+                                                            </div>
+                                                        </div>
+
+                                                    </li>
+                                                    <div class="commenting-field">
+                                                        <img src="https://www.disway.id/thumbs/tiny/uploads/104272/623fe449433ee.jpg"
+                                                            class="profile-picture round">
+                                                        <div class="textarea-wrapper">
+                                                            <span class="close">
+                                                                <span class="left"></span><span class="right"></span></span>
+                                                            <div class="textarea" data-placeholder="Add a comment"
+                                                                contenteditable="true" style="height: 3.65em;">
+                                                                <input class="reply-to-badge highlight-font-bold"
+                                                                    type="button" value="@Leong">&nbsp;</div>
+                                                            <div class="control-row">
+                                                                <span class="send save highlight-background enabled">Send</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <div class="data-container">
+
+                            </div>
+                        </div>
+
+                        <!------- Banner Middle1 -------->
+                        <div class="clearfix"></div>
+                        <div
+                            style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
+                            <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
+                        </div>
+                        <!------ End Banner ------>
+
+                        <div class="bottom-15">
+                            <section>
+                                <div class="label-to bottom-10">
+                                    <h2>Berita Terkait</h2>
+                                </div>
+                                <div class="bottom-15">
+                                    <div class="media-body media-content media-middle">
+                                        <h2 class="media-heading">
+                                            <a href="detail-artikel.php">Mekanisme SNMPTN ITB 2022: Terima Mahasiswa
+                                                Bukan
+                                                Berdasarkan Prodi</a>
+                                        </h2>
+                                        <div class="pull-left right-15">
+                                            <p class="text-uppercase red-color labelkanal">
+                                                <a href="kanal.php"><span>Nasional</span></a>
+                                            </p>
+                                        </div>
+                                        <p class="date">10 menit lalu</p>
+                                    </div>
+                                    <div class="media-right thumb-post">
+                                        <div class="frame-thumb">
+                                            <img class="media-object gambarkecil" src="img/foto1.jpg" alt="">
+                                            <a href="detail-artikel.php" title="" class="img-link"></a>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
 
-                            <!------- Banner Middle1 -------->
-                            <div class="clearfix"></div>
-                            <div
-                                style="min-height: 100%; width: 100%; background-color: #f2f2f2; justify-content: center; text-align: center; margin: 0 auto; position: relative; z-index: 9; margin-bottom: 15px;">
-                                <a href=""><img src="img/banner-1.png" style="width:100%" /></a>
-                            </div>
-                            <!------ End Banner ------>
-
-                            <div class="bottom-15">
-                                <section>
-                                    <div class="label-to bottom-10">
-                                        <h2>Berita Terkait</h2>
-                                    </div>
-                                    <div class="bottom-15">
-                                        <div class="media-body media-content media-middle">
-                                            <h2 class="media-heading">
-                                                <a href="detail-artikel.php">Mekanisme SNMPTN ITB 2022: Terima Mahasiswa
-                                                    Bukan
-                                                    Berdasarkan Prodi</a>
-                                            </h2>
-                                            <div class="pull-left right-15">
-                                                <p class="text-uppercase red-color labelkanal">
-                                                    <a href="kanal.php"><span>Nasional</span></a>
-                                                </p>
-                                            </div>
-                                            <p class="date">10 menit lalu</p>
+                                <div class="bottom-15">
+                                    <div class="media-body media-content media-middle">
+                                        <h2 class="media-heading">
+                                            <a href="detail-artikel.php">Kasus Covid-19 di Kota Kediri Meningkat, Ruang
+                                                Isolasi RS hingga Tempat Isoter Mulai Terisi</a>
+                                        </h2>
+                                        <div class="pull-left right-15">
+                                            <p class="text-uppercase red-color labelkanal">
+                                                <a href="kanal.php"><span>Nasional</span></a>
+                                            </p>
                                         </div>
-                                        <div class="media-right thumb-post">
-                                            <div class="frame-thumb">
-                                                <img class="media-object gambarkecil" src="img/foto1.jpg" alt="">
-                                                <a href="detail-artikel.php" title="" class="img-link"></a>
-                                            </div>
+                                        <p class="date">15 menit lalu</p>
+                                    </div>
+                                    <div class="media-right thumb-post media-middle">
+                                        <div class="frame-thumb">
+                                            <img class="media-object gambarkecil" src="img/foto2.jpg" alt="">
+                                            <a href="detail-artikel.php" title="" class="img-link"></a>
                                         </div>
                                     </div>
+                                </div>
 
-                                    <div class="bottom-15">
-                                        <div class="media-body media-content media-middle">
-                                            <h2 class="media-heading">
-                                                <a href="detail-artikel.php">Kasus Covid-19 di Kota Kediri Meningkat,
-                                                    Ruang
-                                                    Isolasi RS hingga Tempat Isoter Mulai Terisi</a>
-                                            </h2>
-                                            <div class="pull-left right-15">
-                                                <p class="text-uppercase red-color labelkanal">
-                                                    <a href="kanal.php"><span>Nasional</span></a>
-                                                </p>
-                                            </div>
-                                            <p class="date">15 menit lalu</p>
+                                <div class="bottom-15">
+                                    <div class="media-body media-content media-middle">
+                                        <h2 class="media-heading">
+                                            <a href="detail-artikel.php">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
+                                        </h2>
+                                        <div class="pull-left right-15">
+                                            <p class="text-uppercase red-color labelkanal">
+                                                <a href="kanal.php"><span>Nasional</span></a>
+                                            </p>
                                         </div>
-                                        <div class="media-right thumb-post media-middle">
-                                            <div class="frame-thumb">
-                                                <img class="media-object gambarkecil" src="img/foto2.jpg" alt="">
-                                                <a href="detail-artikel.php" title="" class="img-link"></a>
-                                            </div>
+                                        <p class="date">30 menit lalu</p>
+                                    </div>
+                                    <div class="media-right thumb-post">
+                                        <div class="frame-thumb">
+                                            <img class="media-object gambarkecil" src="img/foto3.jpg" alt="">
+                                            <a href="detail-artikel.php" title="" class="img-link"></a>
                                         </div>
                                     </div>
+                                </div>
 
-                                    <div class="bottom-15">
-                                        <div class="media-body media-content media-middle">
-                                            <h2 class="media-heading">
-                                                <a href="detail-artikel.php">Ke NTT, Siti Rohmi Dijamu Warga NTB</a>
-                                            </h2>
-                                            <div class="pull-left right-15">
-                                                <p class="text-uppercase red-color labelkanal">
-                                                    <a href="kanal.php"><span>Nasional</span></a>
-                                                </p>
-                                            </div>
-                                            <p class="date">30 menit lalu</p>
+                                <div class="bottom-15">
+                                    <div class="media-body media-content media-middle">
+                                        <h2 class="media-heading">
+                                            <a href="detail-artikel.php">Wadas Batu Cadas, Dimasuki Politik Juga</a>
+                                        </h2>
+                                        <div class="pull-left right-15">
+                                            <p class="text-uppercase red-color labelkanal">
+                                                <a href="kanal.php"><span>Nasional</span></a>
+                                            </p>
                                         </div>
-                                        <div class="media-right thumb-post">
-                                            <div class="frame-thumb">
-                                                <img class="media-object gambarkecil" src="img/foto3.jpg" alt="">
-                                                <a href="detail-artikel.php" title="" class="img-link"></a>
-                                            </div>
+                                        <p class="date">1 jam lalu</p>
+                                    </div>
+                                    <div class="media-right thumb-post">
+                                        <div class="frame-thumb">
+                                            <img class="media-object gambarkecil" src="img/foto4.jpg" alt="">
+                                            <a href="detail-artikel.php" title="" class="img-link"></a>
                                         </div>
                                     </div>
+                                </div>
 
-                                    <div class="bottom-15">
-                                        <div class="media-body media-content media-middle">
-                                            <h2 class="media-heading">
-                                                <a href="detail-artikel.php">Wadas Batu Cadas, Dimasuki Politik Juga</a>
-                                            </h2>
-                                            <div class="pull-left right-15">
-                                                <p class="text-uppercase red-color labelkanal">
-                                                    <a href="kanal.php"><span>Nasional</span></a>
-                                                </p>
-                                            </div>
-                                            <p class="date">1 jam lalu</p>
+                                <div class="bottom-15">
+                                    <div class="media-body media-content media-middle">
+                                        <h2 class="media-heading">
+                                            <a href="detail-artikel.php">Wakil Ketua Diperiksa KPK, Ketua PN
+                                                Dilantik</a>
+                                        </h2>
+                                        <div class="pull-left right-15">
+                                            <p class="text-uppercase red-color labelkanal">
+                                                <a href="kanal.php"><span>Nasional</span></a>
+                                            </p>
                                         </div>
-                                        <div class="media-right thumb-post">
-                                            <div class="frame-thumb">
-                                                <img class="media-object gambarkecil" src="img/foto4.jpg" alt="">
-                                                <a href="detail-artikel.php" title="" class="img-link"></a>
-                                            </div>
+                                        <p class="date">1 jam lalu</p>
+                                    </div>
+                                    <div class="media-right thumb-post">
+                                        <div class="frame-thumb">
+                                            <img class="media-object gambarkecil" src="img/foto5.jpg" alt="">
+                                            <a href="detail-artikel.php" title="" class="img-link"></a>
                                         </div>
                                     </div>
+                                </div>
 
-                                    <div class="bottom-15">
-                                        <div class="media-body media-content media-middle">
-                                            <h2 class="media-heading">
-                                                <a href="detail-artikel.php">Wakil Ketua Diperiksa KPK, Ketua PN
-                                                    Dilantik</a>
-                                            </h2>
-                                            <div class="pull-left right-15">
-                                                <p class="text-uppercase red-color labelkanal">
-                                                    <a href="kanal.php"><span>Nasional</span></a>
-                                                </p>
-                                            </div>
-                                            <p class="date">1 jam lalu</p>
-                                        </div>
-                                        <div class="media-right thumb-post">
-                                            <div class="frame-thumb">
-                                                <img class="media-object gambarkecil" src="img/foto5.jpg" alt="">
-                                                <a href="detail-artikel.php" title="" class="img-link"></a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </section>
-                            </div>
+                            </section>
+                        </div>
                     </section>
                 </div>
             </div>
