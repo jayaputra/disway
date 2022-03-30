@@ -189,44 +189,32 @@
                                             </div>
                                         </div>
                                         <ul id="comment-list" class="main">
-                                    <li class="comment">
-                                        <div class="comment-wrapper">
-                                            <img src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=https%3A%2F%2Fwww.disway.id%2Fimg%2Fuser.jpg"
-                                                class="profile-picture round">
-                                            <time>4 days ago</time>
-                                            <div class="name">Zo</div>
-                                            <div class="wrapper">
-                                                <div class="content menu-padding">246 kw super</div>
-                                                <span class="actions"><button class="action reply"
-                                                        type="button">Reply</button></span>
-                                            </div>
-                                        </div>
-                                        <ul class="child-comments">
-                                            <div class="commenting-field">
-                                                <img src="https://www.disway.id/thumbs/tiny/uploads/104272/623fe449433ee.jpg"
-                                                    class="profile-picture round">
-                                                <div class="textarea-wrapper">
-                                                    <div class="textarea" data-placeholder="Add a comment"
-                                                        contenteditable="true" style="height: 4.5em;"></div>
-                                                    <div class="control-row">
-                                                        <span class="send save highlight-background enabled">Send</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </ul>
-                                        <ul class="child-comments">
                                             <li class="comment">
                                                 <div class="comment-wrapper">
-                                                    <img src="https://www.disway.id/thumbs/tiny/uploads/user/91882/avatar/9188261fbafb341728.JPG"
+                                                    <img src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=https%3A%2F%2Fwww.disway.id%2Fimg%2Fuser.jpg"
                                                         class="profile-picture round">
                                                     <time>4 days ago</time>
-                                                    <div class="name">Leong</div>
+                                                    <div class="name">Zo</div>
                                                     <div class="wrapper">
-                                                        <div class="content menu-padding">hahahaha</div>
+                                                        <div class="content menu-padding">246 kw super</div>
                                                         <span class="actions"><button class="action reply"
                                                                 type="button">Reply</button></span>
                                                     </div>
                                                 </div>
+                                                <ul class="child-comments">
+                                                    <div class="commenting-field">
+                                                        <img src="https://www.disway.id/thumbs/tiny/uploads/104272/623fe449433ee.jpg"
+                                                            class="profile-picture round">
+                                                        <div class="textarea-wrapper">
+                                                            <div class="textarea" data-placeholder="Add a comment"
+                                                                contenteditable="true" style="height: 4.5em;"></div>
+                                                            <div class="control-row">
+                                                                <span
+                                                                    class="send save highlight-background enabled">Send</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </ul>
                                                 <ul class="child-comments">
                                                     <li class="comment">
                                                         <div class="comment-wrapper">
@@ -240,30 +228,46 @@
                                                                         type="button">Reply</button></span>
                                                             </div>
                                                         </div>
+                                                        <ul class="child-comments">
+                                                            <li class="comment">
+                                                                <div class="comment-wrapper">
+                                                                    <img src="https://www.disway.id/thumbs/tiny/uploads/user/91882/avatar/9188261fbafb341728.JPG"
+                                                                        class="profile-picture round">
+                                                                    <time>4 days ago</time>
+                                                                    <div class="name">Leong</div>
+                                                                    <div class="wrapper">
+                                                                        <div class="content menu-padding">hahahaha</div>
+                                                                        <span class="actions"><button
+                                                                                class="action reply"
+                                                                                type="button">Reply</button></span>
+                                                                    </div>
+                                                                </div>
 
-                                                    </li>
-                                                    <div class="commenting-field">
-                                                        <img src="https://www.disway.id/thumbs/tiny/uploads/104272/623fe449433ee.jpg"
-                                                            class="profile-picture round">
-                                                        <div class="textarea-wrapper">
-                                                            <div class="textarea" data-placeholder="Add a comment"
-                                                                contenteditable="true" style="height: 3.65em;">
-                                                                <input class="reply-to-badge highlight-font-bold"
-                                                                    type="button" value="@Leong">&nbsp;</div>
-                                                            <div class="control-row">
-                                                                <span
-                                                                    class="send save highlight-background enabled">Send</span>
+                                                            </li>
+                                                            <div class="commenting-field">
+                                                                <img src="https://www.disway.id/thumbs/tiny/uploads/104272/623fe449433ee.jpg"
+                                                                    class="profile-picture round">
+                                                                <div class="textarea-wrapper">
+                                                                    <div class="textarea"
+                                                                        data-placeholder="Add a comment"
+                                                                        contenteditable="true" style="height: 3.65em;">
+                                                                        <input
+                                                                            class="reply-to-badge highlight-font-bold"
+                                                                            type="button" value="@Leong">&nbsp;</div>
+                                                                    <div class="control-row">
+                                                                        <span
+                                                                            class="send save highlight-background enabled">Send</span>
+                                                                    </div>
+                                                                </div>
                                                             </div>
-                                                        </div>
-                                                    </div>
+                                                        </ul>
+                                                    </li>
                                                 </ul>
                                             </li>
                                         </ul>
-                                    </li>
-                                </ul>
                                     </div>
                                 </div>
-                                
+
                             </div>
 
                             <div class="data-container">

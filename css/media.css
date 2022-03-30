@@ -15,6 +15,10 @@
         padding-top: 145px;
     }
 
+    .dblock {
+        margin-bottom: 15px;
+    }
+    
     .top-row {
         flex-flow: column wrap;
     }
@@ -193,7 +197,7 @@
 
     .search__field:focus {
         border-bottom-color: #ccc;
-        width: 67vw;
+        width: 77vw;
         color: #2b2b2b;
         cursor: default;
     }
@@ -1034,7 +1038,10 @@
 
 /* Landscape phones and down */
 
-@media (max-width: 480px) {
+@media (max-width: 320px) {
+    .search__field:focus {
+        width: 72vw;
+    }
     .container-fluid {
         max-width: 300px !important;
     }

@@ -2,19 +2,19 @@
     <div class="top white main_header">
         <div class="container">
             <div class="row">
-                <div class="col-md-3 col-sm-4 col-xs-6">
+                <div class="col-md-3 col-sm-4 col-xs-7">
                     <div class="align-start content-wrap">
                         <a class="logo" href="index.php">
                             <img src="img/logo-disway-new.png" alt="logo" class="img-responsive center-block">
                         </a>
                     </div>
                 </div>
-                <div class="col-xs-6 visible-xs hidden-lg hidden-md hidden-sm">
+                <div class="col-xs-5 visible-xs hidden-lg hidden-md hidden-sm">
                     <div class="dblock clearfix">
                         <p class="text-right clearfix"><small>09 Feb 2022</small></p>
                         <div class="clearfix"></div>
                     </div>
-                    <div class="dblock">
+                    <div class="dblock clearfix">
                         <div class="nav__right">
                             <form class="search_r" method="post" action="search.php">
                                 <div class="search__wrapper">
